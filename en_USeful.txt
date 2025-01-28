@@ -948,7 +948,7 @@ Mobs/beetle_hel/Name=Hel Beetle
 Mobs/beetle_hel/Description=Scourge that spawns in the other plane.
 Mobs/beetle_hel/Spawn=You sense ominous vibrations coming from a different realm by HEL BEETLE...
 
-Mobs/wasp/Name=Hel Wasp
+Mobs/wasp/Name=Wasp
 Mobs/wasp/Description=They are ANGRY.
 
 Mobs/dummy/Name=Target Dummy
