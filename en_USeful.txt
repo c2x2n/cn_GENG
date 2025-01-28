@@ -806,7 +806,7 @@ Mobs/ant_queen/Description=You must have done something really bad if she's chas
 Mobs/ant_hole/Name=Ant Hole
 Mobs/ant_hole/Description=Ants go in, and come out. Can't explain that.
 
-Mobs/beetle/Name=Beetle
+Mobs/beetle/Name=Normal Beetle
 Mobs/beetle/Description=It's hungry and flowers are its favorite meal.
 
 Mobs/hornet/Name=Hornet
@@ -983,7 +983,7 @@ Mobs/firefly_magic/Description=There's something magical about this one.
 
 Mobs/titan/Name=Titan
 
-Mobs/beetle_nazar/Name=Beetle
+Mobs/beetle_nazar/Name=Nazar Beetle
 Mobs/beetle_nazar/Description=This one has a different pattern... what does that mean?
 
 Mobs/worm/Name=Worm
