@@ -1,0 +1,1853 @@
+Achievements/0/Name=Tutorial
+Achievements/0/Description=Move a little bit.
+Achievements/0/ExtraDescription=Use your mouse to move. Your flower will automatically follow your cursor.<n/>You can change to keyboard movement in the settings menu.<n/><n/>Move a little bit to proceed.
+
+Achievements/1/Name=Tutorial
+Achievements/1/Description=Kill a mob.
+Achievements/1/ExtraDescription=Those insects are your enemies. Destroying them has a chance of dropping new petals.<n/><n/>Find one and destroy it.<n/>You might find helpful to hold down your left mouse button to extend your petals.
+
+Achievements/2/Name=Tutorial
+Achievements/2/Description=Collect a petal.
+Achievements/2/ExtraDescription=Keep destroying enemies until they drop a petal, then get close to the petal to collect it.
+
+Achievements/3/Name=Tutorial
+Achievements/3/Description=Equip a petal.
+Achievements/3/ExtraDescription=If you have space in your loadout when you collect a petal, it'll go there, otherwise it'll go to your inventory.<n/>Click the petal you just collected to equip it (or use the numeric hotkey for it).
+
+# Disabled
+Achievements/4/Name=Tutorial
+Achievements/4/Description=Collect more petals.
+Achievements/4/ExtraDescription=For the next step, we'll need a lot of petals.<n/>Keep destroying enemies and collecting petals.
+
+Achievements/5/Name=Tutorial
+Achievements/5/Description=Get to level {0}.
+Achievements/5/ExtraDescription=To level up, just keep destroying some insects.
+
+Achievements/6/Name=Tutorial
+Achievements/6/Description=Use your talent point.
+Achievements/6/ExtraDescription=Use this new talent point you got to unlock any talent.<n/><n/>Remember you need to click and HOLD to upgrade a talent."
+
+Achievements/7/Name=Tutorial
+Achievements/7/Description=Collect some petals.
+Achievements/7/ExtraDescription=Now we need to collect {0} of the same {#Rarities/{1}/NameColored} petal to craft {#Rarities/{2}/Article} {#Rarities/{2}/NameColored} petal.<n/>Keep destroying some insects to collect a couple more petals.
+
+Achievements/8/Name=Tutorial
+Achievements/8/Description=Craft a petal.
+Achievements/8/ExtraDescription=Now try to craft your first petal.<n/>Note that you might need to unequip some petals to have enough to do this craft.<n/>You need 5 of the same petal.<n/><n/>Don't worry, we loaded the dice for this one, it will succeed.
+
+Achievements/9/Name=Tutorial
+Achievements/9/Description=Complete the tutorial.
+
+Achievements/10/Name=Crafter
+Achievements/10/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+
+Achievements/11/Name=Crafter
+Achievements/11/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+
+Achievements/12/Name=Crafter
+Achievements/12/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+
+Achievements/13/Name=Crafter
+Achievements/13/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+
+Achievements/14/Name=Crafter
+Achievements/14/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+
+Achievements/15/Name=Crafter
+Achievements/15/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+
+Achievements/16/Name=Crafter
+Achievements/16/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+
+Achievements/17/Name=Consolation prize
+Achievements/17/Description=Fail to craft a petal and lose {0} petals.
+
+Achievements/18/Name=Consolation prize
+Achievements/18/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.
+
+Achievements/19/Name=Consolation prize
+Achievements/19/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.
+
+Achievements/20/Name=Digger
+Achievements/20/Description=Equip a {#Petals/cutter/Name}.
+
+Achievements/21/Name=Growing up
+Achievements/21/Description=Reach Level {0}.
+
+Achievements/22/Name=Growing up
+Achievements/22/Description=Reach Level {0}.
+
+Achievements/23/Name=Growing up
+Achievements/23/Description=Reach Level {0}.
+
+Achievements/24/Name=Growing up
+Achievements/24/Description=Reach Level {0}.
+
+Achievements/25/Name=Growing up
+Achievements/25/Description=Reach Level {0}.
+
+Achievements/26/Name=Growing up
+Achievements/26/Description=Reach Level {0}.
+
+Achievements/27/Name=Growing up
+Achievements/27/Description=Reach Level {0}.
+
+Achievements/28/Name=Wasteful Crafting
+Achievements/28/Description=Destroy {0:tooltip} petals in crafting attempts.
+
+Achievements/29/Name=High volume crafter
+Achievements/29/Description=Craft {0:tooltip} petals.
+
+Achievements/30/Name=Desert
+Achievements/30/Description=Visit the desert.
+
+Achievements/31/Name=Ocean
+Achievements/31/Description=Visit the ocean.
+
+Achievements/32/Name=Welcome to the Jungle
+Achievements/32/Description=Visit the jungle.
+
+Achievements/33/Name=Ant Hell
+Achievements/33/Description=Find out where all these pesky ants keep coming from.
+
+Achievements/34/Name=Sewers
+Achievements/34/Description=Find out where that pipe goes.
+
+Achievements/35/Name=Conqueror
+Achievements/35/Description=Defeat your first {#Rarities/{0}/Name} mob.
+
+Achievements/36/Name=Conqueror
+Achievements/36/Description=Defeat your first {#Rarities/{0}/Name} mob.
+
+Achievements/37/Name=Conqueror
+Achievements/37/Description=Defeat your first {#Rarities/{0}/Name} mob.
+
+Achievements/38/Name=Conqueror
+Achievements/38/Description=Defeat your first {#Rarities/{0}/Name} mob.
+
+Achievements/39/Name=Conqueror
+Achievements/39/Description=Defeat your first {#Rarities/{0}/Name} mob.
+
+Achievements/40/Name=Conqueror
+Achievements/40/Description=Defeat your first {#Rarities/{0}/Name} mob.
+
+Achievements/41/Name=Conqueror
+Achievements/41/Description=Defeat your first {#Rarities/{0}/Name} mob.
+
+Achievements/42/Name=Go to WHERE?!
+Achievements/42/Description=Visit the other plane.
+
+Achievements/43/Name=Challenger
+Achievements/43/Description=Complete a challenge.
+
+Achievements/44/Name=Challenger
+Achievements/44/Description=Complete {0} challenges.
+
+Achievements/45/Name=Challenger
+Achievements/45/Description=Complete {0} challenges.
+
+Achievements/46/Name=Challenger
+Achievements/46/Description=Complete {0} challenges.
+
+Achievements/47/Name=Gear Up
+Achievements/47/Description=Equip {1} {#Rarities/{0}/Name} petals.
+
+Achievements/48/Name=Gear Up
+Achievements/48/Description=Equip {1} {#Rarities/{0}/Name} petals.
+
+Achievements/49/Name=Gear Up
+Achievements/49/Description=Equip {1} {#Rarities/{0}/Name} petals.
+
+Achievements/50/Name=Gear Up
+Achievements/50/Description=Equip {1} {#Rarities/{0}/Name} petals.
+
+Achievements/51/Name=Gear Up
+Achievements/51/Description=Equip {1} {#Rarities/{0}/Name} petals.
+
+Achievements/52/Name=Gear Up
+Achievements/52/Description=Equip {1} {#Rarities/{0}/Name} petals.
+
+Achievements/53/Name=Gear Up
+Achievements/53/Description=Equip {1} {#Rarities/{0}/Name} petals.
+
+Achievements/54/Name=Summoner
+Achievements/54/Description=Spawn a friendly mob.
+
+Achievements/55/Name=Summoner
+Achievements/55/Description=Spawn {0} friendly mobs.
+
+Achievements/56/Name=Summoner
+Achievements/56/Description=Spawn {0} friendly mobs.
+
+Achievements/57/Name=Summoner
+Achievements/57/Description=Spawn {0} friendly mobs.
+
+Achievements/58/Name=Shiny!
+Achievements/58/Description=Destroy a shiny Ladybug
+
+Achievements/59/Name=Wrong game
+Achievements/59/Description=Destroy a Square
+
+Achievements/60/Name=Pain dealer
+Achievements/60/Description=Deal {0:tooltip} damage.
+
+Achievements/61/Name=Pain dealer
+Achievements/61/Description=Deal {0:tooltip} damage.
+
+Achievements/62/Name=Pain dealer
+Achievements/62/Description=Deal {0:tooltip} damage.
+
+Achievements/63/Name=One-hit KO
+Achievements/63/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+
+Achievements/64/Name=One-hit KO
+Achievements/64/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+
+Achievements/65/Name=One-hit KO
+Achievements/65/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+
+Achievements/66/Name=One-hit KO
+Achievements/66/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+
+Achievements/67/Name=One-hit KO
+Achievements/67/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+
+Achievements/68/Name=Getting tanned
+Achievements/68/Description=Survive {0:time} in Hel.
+
+Achievements/69/Name=Skill issue
+Achievements/69/Description=Find the dead dev flower.
+
+Achievements/70/Name=Termites...?
+Achievements/70/Description=Spawn a friendly Termite.
+
+Achievements/71/Name=Pacifist
+Achievements/71/Description=Spend {0:time} admiring nature without destroying anything.
+
+Achievements/72/Name=Be gone
+Achievements/72/Description=Send a flower to Hel.
+
+Achievements/73/Name=Be gone
+Achievements/73/Description=Send {0} flowers to Hel.
+
+Achievements/74/Name=Saved
+Achievements/74/Description=Get revived.
+
+Achievements/75/Name=Savior
+Achievements/75/Description=Revive a flower.
+
+Achievements/76/Name=Savior
+Achievements/76/Description=Revive {0} flowers.
+
+Achievements/77/Name=All-seeing
+Achievements/77/Description=Equip {#Petals/{0}/Name}.
+
+Achievements/78/Name=Return to sender
+Achievements/78/Description=Hit a mob with {#Petals/{0}/Name}.
+
+Achievements/79/Name=Homewrecker
+Achievements/79/Description=Destroy an {#Mobs/{1}/Name}, {#Mobs/{2}/Name} or {#Mobs/{3}/Name}.
+
+Achievements/80/Name=Homewrecker
+Achievements/80/Description=Destroy {0} {#Mobs/{1}/Name}s, {#Mobs/{2}/Name}s or {#Mobs/{3}/Name}s.
+
+Achievements/81/Name=Bad
+Achievements/81/Description=Die.
+
+Achievements/82/Name=Bad
+Achievements/82/Description=Die {0} times.
+
+Achievements/83/Name=Bad
+Achievements/83/Description=Die {0} times.
+
+Achievements/84/Name=Serial killer
+Achievements/84/Description=Destroy {0} mobs within {1:time} of each other.
+
+Achievements/85/Name=Unkillable
+Achievements/85/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+
+Achievements/86/Name=Unkillable
+Achievements/86/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+
+Achievements/87/Name=Unkillable
+Achievements/87/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+
+Achievements/88/Name=Unkillable
+Achievements/88/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+
+Achievements/89/Name=Unkillable
+Achievements/89/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+
+Achievements/90/Name=Unkillable
+Achievements/90/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+
+Achievements/91/Name=Unkillable
+Achievements/91/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+
+Achievements/92/Name=You're the dummy
+Achievements/92/Description=Die to a {#Mobs/{0}/Name}.
+
+Achievements/93/Name=Genocide
+Achievements/93/Description=Destroy {0} mobs within {1:time}.
+
+Achievements/94/Name=Rolling in dough
+Achievements/94/Description=Acquire {0} drops within {1:time}.
+
+Achievements/95/Name=Shiny Hunter
+Achievements/95/Description=Destroy {0} shiny Ladybugs within {1:time}.
+
+Achievements/96/Name=Super Hunter
+Achievements/96/Description=Destroy {0} {#Rarities/{1}/Name} mobs.
+
+Achievements/97/Name=Sacrifice
+Achievements/97/Description=Die within {0:time} of reviving someone.
+
+Achievements/98/Name=Useless
+Achievements/98/Description=Get kill credit for a mob without dealing any damage to it.
+
+Achievements/99/Name=Useless
+Achievements/99/Description=Get kill credit for {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without dealing any damage to it.
+
+Achievements/100/Name=The lucky one
+Achievements/100/Description=Successfully craft {0} petals in a row.
+
+Achievements/101/Name=The unlucky one
+Achievements/101/Description=Fail to craft {0} petals in a row.
+
+Achievements/102/Name=Paper
+Achievements/102/Description=Die to a damage instance higher than your max hp.
+
+Achievements/103/Name=Statue
+Achievements/103/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
+
+Achievements/104/Name=Statue
+Achievements/104/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
+
+Achievements/105/Name=Breath in, breath out
+Achievements/105/Description=Equip and unequip {#Petals/{0}/Name} many times
+
+Achievements/106/Name=Sound barrier
+Achievements/106/Description=Move really fast.
+
+Achievements/107/Name=Sound barrier
+Achievements/107/Description=Move even faster.
+
+Achievements/108/Name=Biologist
+Achievements/108/Description=Destroy {0} different types of mobs without dying.
+
+Achievements/109/Name=Collector
+Achievements/109/Description=Collect {0} different types of petals without dying.
+
+Achievements/110/Name=Touch grass
+Achievements/110/Description=Don't play the game for {0:time}.
+
+Achievements/111/Name=Racecar
+Achievements/111/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+
+Achievements/112/Name=Racecar
+Achievements/112/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+
+Achievements/113/Name=Racecar
+Achievements/113/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+
+Achievements/114/Name=Racecar
+Achievements/114/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+
+Achievements/115/Name=Biologist
+Achievements/115/Description=Destroy {0} different types of {#Rarities/{1}/Name}+ mobs without dying.
+
+Achievements/116/Name=Bad in every way
+Achievements/116/Description=Die to {0} different types of mobs.
+
+Achievements/117/Name=Bad in every way
+Achievements/117/Description=Die to {0} different types of mobs.
+
+Achievements/118/Name=Bad in every way
+Achievements/118/Description=Die to {0} different types of mobs.
+
+Achievements/119/Name=Touched
+Achievements/119/Description=Touch the developer.
+
+Achievements/120/Name=Evasive
+Achievements/120/Description=Evade {0:tooltip} damage.
+
+Achievements/121/Name=Evasive
+Achievements/121/Description=Evade {0:tooltip} damage.
+
+Achievements/122/Name=Evasive
+Achievements/122/Description=Evade {0:tooltip} damage.
+
+Achievements/123/Name=Devil's advocate
+Achievements/123/Description=While in Hel, destroy {0} flowers without dying.
+
+Achievements/124/Name=Hater
+Achievements/124/Description=Destroy {0} of the same type of mob in a row without dying.
+
+Achievements/125/Name=Hater
+Achievements/125/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+
+Achievements/126/Name=Hater
+Achievements/126/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+
+Achievements/127/Name=Hater
+Achievements/127/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+
+Achievements/128/Name=Revenge
+Achievements/128/Description=Destroy the mob that killed you.
+
+Achievements/129/Name=Revenge
+Achievements/129/Description=Destroy the mob that killed you within {0:time} of your death.
+
+Achievements/130/Name=Trade
+Achievements/130/Description=Acquire a {#Petals/{0:base}/Name} through trade.
+
+Achievements/131/Name=Trade
+Achievements/131/Description=Acquire {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name} through trade.
+
+Achievements/132/Name=Trade
+Achievements/132/Description=Acquire {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name} through trade.
+
+Achievements/133/Name=Gambler
+Achievements/133/Description=Insert {0} Chips into Plinko.
+
+Achievements/134/Name=JACKPOT!
+Achievements/134/Description=Hit the Jackpot in Plinko.
+
+Achievements/135/Name=High roller
+Achievements/135/Description=Insert {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name}+ {#Petals/{0:base}/Name} in Plinko.
+
+Achievements/136/Name=The all-seeing one
+Achievements/136/Description=Craft a petal using the Oracle.
+
+Achievements/137/Name=It was destiny
+Achievements/137/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name}+ petal using the Oracle.
+
+Achievements/138/Name=Magician
+Achievements/138/Description=Equip an {#Petals/{0}/Name}.
+
+Petal/Attribute/Health=<c val="#66FF66">Health:</c> {0:tooltip}
+Petal/Attribute/Damage=<c val="#FF6666">Damage:</c> {0:tooltip}
+Petal/Attribute/Damage/Lightning=<c val="#FF6666">Damage:</c> {0:tooltip} <c val="#36ffe7">(lightning)</c>
+Petal/Attribute/DamageRange=<c val="#FF6666">Damage:</c> {0:tooltip}~{1:tooltip}
+Petal/Attribute/Armor=<c val="#666666">Armor:</c> {0:tooltip}
+Petal/Attribute/RotationSpeed=<c val="#d2eb34">Rotation Speed:</c> +{0:tooltip} rad/s
+Petal/Attribute/Heal=<c val="#ff94c9">Heal:</c> {0:tooltip}
+Petal/Attribute/HealPerSecond=<c val="#ff94c9">Heal:</c> {0:tooltip}/s
+Petal/Attribute/HealPerc=<c val="#ff94c9">Heal:</c> {0:perc}%
+Petal/Attribute/Poison=<c val="#ce76db">Poison:</c> {0:tooltip} ({1:tooltip}/s)
+Petal/Attribute/PoisonPerSecond=<c val="#ce76db">Poison:</c> {0:tooltip}/s
+Petal/Attribute/PoisonResistance=<c val="#ce76db">Poison Resistance:</c> {0:tooltip}/s
+Petal/Attribute/FlowerHealth=<c val="#66FF66">Flower Health:</c> {0:tooltip}
+Petal/Attribute/FlowerHealthPerc=<c val="#66FF66">Flower Health:</c> +{0:perc}%
+Petal/Attribute/Duration=<c val="#6666FF">Duration:</c> {0:tooltipTime}
+Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
+Petal/Attribute/Contents1=<c val="#d2eb34">Contents:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ContentsN=<c val="#d2eb34">Contents:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ExtraVision=<c val="#d2eb34">Extra Vision:</c> {0:perc}%
+Petal/Attribute/Radius=<c val="#d2eb34">Radius:</c> {0:tooltip}
+Petal/Attribute/MaxMobRarity=<c val="#d2eb34">Max Mob Rarity:</c> {#Rarities/{0}/NameColored}
+Petal/Attribute/DamageReflection=<c val="#999999">Damage Reflection:</c> {0:perc}% (vs {#Rarities/{2}/NameColored} mobs), {1:perc}% (vs flowers)
+Petal/Attribute/PickUpRange=<c val="#d2eb34">Pickup Range:</c> +{0:tooltip}
+Petal/Attribute/Lightning=<c val="#36ffe7">Lightning:</c> {0:tooltip}
+Petal/Attribute/Bounces=<c val="#d2eb34">Bounces:</c> {0:tooltip}
+Petal/Attribute/Knockback=<c val="#d2eb34">Knockback:</c> {0:tooltip}
+Petal/Attribute/ExtraDamage=<c val="#FF6666">Extra Damage:</c> {0:tooltip}
+Petal/Attribute/Shield=<c val="#d2eb34">Shield:</c> {0:tooltip}
+Petal/Attribute/BodyDamage=<c val="#FF6666">Body Damage:</c> {0:tooltip}
+Petal/Attribute/Period=<c val="#d2eb34">Period:</c> {0:tooltipTime}
+Petal/Attribute/FlowerRadius=<c val="#d2eb34">Flower Radius:</c> +{0:tooltip}
+Petal/Attribute/DamageHealed=<c val="#ff94c9">Damage Healed:</c> {0:perc}%
+Petal/Attribute/AttackRange=<c val="#d2eb34">Attack Range:</c> +{0:tooltip}
+Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
+Petal/Attribute/Spawn1=<c val="#d2eb34">Spawn:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/SpawnN=<c val="#d2eb34">Spawn:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Luck=<c val="#d2eb34">Luck:</c> +{0:tooltip}
+Petal/Attribute/MovementSpeed=<c val="#d2eb34">Movement Speed:</c> +{0:perc}%
+Petal/Attribute/HealBonus=<c val="#ff94c9">Heal Bonus:</c> +{0:perc}%
+Petal/Attribute/MobAggroRange=<c val="#d2eb34">Mob Aggro Range:</c> -{0:perc}%
+Petal/Attribute/FlowerKnockback=<c val="#d2eb34">Flower Knockback:</c> +{0:tooltip}
+Petal/Attribute/SelfDamage=<c val="#FF6666">Self Damage:</c> {0:tooltip}
+Petal/Attribute/ArmorDebuff=<c val="#666666">Armor Debuff:</c> {0:tooltip}
+Petal/Attribute/FlowerArmor=<c val="#666666">Flower Armor:</c> {0:tooltip}
+Petal/Attribute/FlowerEvasion=<c val="#d2eb34">Flower Evasion:</c> +{0:perc}%
+Petal/Attribute/Charges=<c val="#d2eb34">Charges:</c> {0:tooltip}
+Petal/Attribute/OverhealConversion=<c val="#d2eb34">Overheal Conversion:</c> +{0:perc}%
+Petal/Attribute/AffectedByMagnets=<c val="#d2eb34">Affected by Magnets</c>
+Petal/Attribute/CanFindSquares=<c val="#d2eb34">Can find mobs that do not belong</c>
+Petal/Attribute/CollisionDamageResistance=<c val="#d2eb34">Collision Damage Resistance:</c> +{0:perc}%
+Petal/Attribute/Evasion=<c val="#d2eb34">Evasion:</c> {0:perc}%
+Petal/Attribute/Health4=<c val="#66FF66">Health:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/Damage4=<c val="#FF6666">Damage:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/ExtraPoison=<c val="#ce76db">Extra Poison:</c> {0:tooltip}s
+Petal/Attribute/Interval=<c val="#d2eb34">Interval:</c> {0:tooltipTime}
+Petal/Attribute/CorruptsFlowersAround=<c val="#d2eb34">Corrupts flowers around you.</c>
+Petal/Attribute/CannotBeUnequipped=<c val="#d2eb34">Cannot be unequipped.</c>
+Petal/Attribute/PetalLostOnDeath=<c val="#FF3333">Petal is lost on death.</c>
+Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="#d2eb34">Cannot be unequipped while alive.</c>
+Petal/Attribute/Mana=<c val="#42e3f5">Mana:</c> {0:tooltip}
+Petal/Attribute/ManaPerSecond=<c val="#42e3f5">Mana:</c> {0:tooltip}/s
+Petal/Attribute/BaseMaxMana=<c val="#42e3f5">Base Max Mana:</c> {0:tooltip}
+Petal/Attribute/MaxMana=<c val="#42e3f5">Max Mana:</c> +{0:tooltip}
+Petal/Attribute/AllowsFindingMagicPetals=<c val="#42e3f5">Allows finding magic petals.</c>
+Petal/Attribute/DamageAbsorptionPerMana=<c val="#d2eb34">Damage Absorption:</c> {0:tooltip}/<c val="#42e3f5">mana</c>
+Petal/Attribute/LightningPerMana=<c val="#36ffe7">Lightning:</c> {0:tooltip}/<c val="#42e3f5">mana</c>
+Petal/Attribute/SpawnManaCost=<c val="#d2eb34">Spawn Cost:</c> {0:tooltip} <c val="#42e3f5">mana</c>
+Petal/Attribute/MaintenanceManaCost=<c val="#d2eb34">Maintenance Cost:</c> {0:tooltip} <c val="#42e3f5">mana</c>/s
+
+Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Mobs/{0:base}/Name}
+Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
+
+Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
+Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
+Chat/PetalCraftedUnnamed/unique=The {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName} has been forged!
+Chat/PetalCraftedNamed/unique=The {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName} has been forged by {1}!
+Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0} has been crafted!
+Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} has been crafted by {1}!
+
+Chat/MobSpawnedHere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text} (has spawned!)
+Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text} (has spawned somewhere!)
+
+Chat/MobSpawnedHere/Text={#Mobs/AnnouncementPrefix:0}
+Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0}
+
+Chat/MobDefeated={#Chat/MobDefeated/{1}}
+Chat/MobDefeated/0={#Mobs/AnnouncementPrefix:0} has been defeated!
+Chat/MobDefeated/1={#Mobs/AnnouncementPrefix:0} has been defeated by {2}!
+Chat/MobDefeated/2={#Mobs/AnnouncementPrefix:0} has been defeated by {2} and {3}!
+Chat/MobDefeated/3={#Mobs/AnnouncementPrefix:0} has been defeated by {2}, {3} and {4}!
+Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} has been defeated by {2}, {3}, {4} and {5}!
+
+Chat/Revived=You were revived by {0}.
+Chat/Marked=You were marked by {0}.
+
+Chat/Muted=You are not allowed to chat right now because of past inappropriate messages.<n/>You'll be able to chat again {0:timeLeft}.
+Chat/Spam=You're doing that too much.
+Chat/Alone=No one is around to hear you.
+Chat/Banned=You're currently banned so you will not be able to play.
+Chat/NegativeStars=Your payment for stars was reversed, you cannot play while your balance is negative.
+Chat/BadChannel=You can't do that
+Chat/SquadChannelNotInSquad=Not in a squad.
+Chat/GuildChannelNotInGuild=Not in a guild.
+Chat/GuildChannelDisabled=You have guild chat disabled.
+Chat/GuestTooChatty=Sorry, guest accounts have limited chat privileges until they're level {0}.
+Chat/PlayerReported=Player reported.
+Chat/PlayerBlocked={0} has been blocked.
+Chat/ServerClosing=This server is scheduled to close {0:timeLeft}.
+Chat/ServerClosed=Server is closed, time to leave.
+Chat/ServerNoLongerClosing=Server is no longer scheduled to close.
+
+Chat/Channel/Local=Local
+Chat/Channel/Squad=Squad
+Chat/Channel/Guild=Guild
+Chat/Channel/Whisper=Whisper
+Chat/Channel/WhisperTo=@{0}
+Chat/Channel/Map=Map
+Chat/Channel/Global=Global
+
+Chat/Guild/PlayerJoined={0} has joined the guild.
+Chat/Guild/PlayerLeft={0} has left the guild.
+Chat/Guild/NewLeader={0} is the new guild leader!
+
+Chat/CommandError/Invalid=Invalid command, type /help to list all commands.
+Chat/CommandError/SpaceError=There can be no space after the /.
+Chat/CommandError/EmptyMessage=Message cannot be empty.
+Chat/CommandError/InvalidNumArguments=Invalid number of arguments.
+Chat/CommandError/VeryInvalidSquadCode=That doesn't look like a squad code.
+Chat/CommandError/BlockedPlayerNotFound=No such player in your block list.
+Chat/CommandError/NoBlockedPlayers=No players are currently blocked.
+Chat/CommandError/BlockListCleared=Removed {0} players from block list.
+Chat/CommandError/NotInSquad=Not in a squad.
+Chat/CommandError/MustHaveFlower=Must have a flower to do this.
+Chat/CommandError/NoFlowersClose=No flowers close enough to you.
+Chat/CommandError/InvalidValue=Invalid value.
+Chat/CommandError/InvalidBooleanArgument=Boolean argument must be y or n.
+Chat/CommandError/InvalidNumberArgument=Number argument must be a valid number.
+Chat/CommandError/InvalidMobTypeArgument=Invalid mob type.
+Chat/CommandError/InvalidMobRarityArgument=Invalid mob rarity.
+Chat/CommandError/InvalidMap=Invalid map.
+Chat/CommandError/AccountNotLoaded=Account not loaded.
+Chat/CommandError/TargetEmpty=Target can't be empty.
+Chat/CommandError/TargetDisconnected=Target disconnected.
+Chat/CommandError/TargetNotFound=Can't find target.
+Chat/CommandError/TargetMustHaveFlower=Target doesn't have a flower.
+Chat/CommandError/InternalError=Internal error.
+Chat/CommandError/InvalidPetalArgument=Invalid petal id.
+Chat/CommandError/InvalidWhisperTarget=Invalid target.
+Chat/CommandError/WhisperTargetNotFound=Target not found.
+Chat/CommandError/WhisperTargetNotConnected=Target not connected or not accepting
+Chat/CommandError/WhisperSelf=You can keep those thoughts in your head.
+Chat/CommandError/GuestsCannotSendWhispers=Guests cannot send whispers.
+Chat/CommandError/GuestsCannotReceiveWhispers=Guests cannot receive whispers.
+
+UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} - {#Chat/Command/{0}/Description}
+
+Chat/Command/help/Args=[cmd]
+Chat/Command/help/Description=List all commands or list help for a specific command
+
+Chat/Command/guild/Args=<message>
+Chat/Command/guild/Description=Sends a message only to other guild members
+
+Chat/Command/guild-create/Args=<name> <tag>
+Chat/Command/guild-create/Description=Creates a new guild. Name must be 3-13 chars. Tag must be 2-4 chars
+
+Chat/Command/guild-invite/Args=<name>
+Chat/Command/guild-invite/Description=Invites player to guild. Must be the leader. Player must be near you
+
+Chat/Command/guild-transfer-leader/Args=
+Chat/Command/guild-transfer-leader/Description=Transfer guild leadership to someone else
+
+Chat/Command/guild-motd/Args=<text>
+Chat/Command/guild-motd/Description=Sets the guild MOTD
+
+Chat/Command/squad/Args=<message>
+Chat/Command/squad/Description=Sends a message only to other squad members
+
+Chat/Command/squad-create/Args=
+Chat/Command/squad-create/Description=Creates a squad
+
+Chat/Command/squad-join/Args=<code>
+Chat/Command/squad-join/Description=Joins a squad
+
+Chat/Command/squad-leave/Args=
+Chat/Command/squad-leave/Description=Leaves squad
+
+Chat/Command/squad-find-public/Args=
+Chat/Command/squad-find-public/Description=Joins a random public squad
+
+Chat/Command/squad-public/Args=
+Chat/Command/squad-public/Description=Make squad public
+
+Chat/Command/squad-private/Args=
+Chat/Command/squad-private/Description=Make squad private
+
+Chat/Command/whisper/Args=<target> <message>
+Chat/Command/whisper/Description=Sends a message to a specific player
+
+Chat/Command/w/Args={#Chat/Command/whisper/Args}
+Chat/Command/w/Description={#Chat/Command/whisper/Description}
+
+Chat/Command/reply/Args=<message>
+Chat/Command/reply/Description=Reply to the latest received whisper
+
+Chat/Command/r/Args={#Chat/Command/reply/Args}
+Chat/Command/r/Description={#Chat/Command/reply/Description}
+
+Chat/Command/local/Args=<message>
+Chat/Command/local/Description=Sends a message only to people around you
+
+Chat/Command/map/Args=<message>
+Chat/Command/map/Description=Sends a map message
+
+Chat/Command/global/Args=<message>
+Chat/Command/global/Description=Sends a global message
+
+Chat/Command/unblock/Args=<name>
+Chat/Command/unblock/Description=Remove someone from your block list
+
+Chat/Command/unblock-all/Args=
+Chat/Command/unblock-all/Description=Unblock everyone in your block list
+
+Chat/Command/print-players/Args=
+Chat/Command/print-players/Description=Lists the account id of the players near you
+
+##################################################################################
+# All the ones below do not need to be translated, they are admin-only commands: #
+##################################################################################
+
+Chat/Command/fake-achievements/Args=[n]
+Chat/Command/fake-achievements/Description=Make some fake achievement notifications
+
+Chat/Command/fill-chat/Args=
+Chat/Command/fill-chat/Description=Fill chat with messages
+
+Chat/Command/disable-save/Args=
+Chat/Command/disable-save/Description=Disables saving progress on this account
+
+Chat/Command/reset-talents/Args=
+Chat/Command/reset-talents/Description=Resets talent tree
+
+Chat/Command/one-of-everything/Args=[n]
+Chat/Command/one-of-everything/Description=Gives 1 petal of every kind
+
+Chat/Command/wipe/Args=
+Chat/Command/wipe/Description=Removes everything from account
+
+Chat/Command/flush/Args=
+Chat/Command/flush/Description=Forces an account flush
+
+Chat/Command/make-enemies/Args=
+Chat/Command/make-enemies/Description=Everyone else is an enemy
+
+Chat/Command/spawn-mob/Args=<type> <rarity> <normal drops? y/n> <enemy? y/n> [num] [global? y/n]
+Chat/Command/spawn-mob/Description=Spawns a mob
+
+Chat/Command/warp/Args=<map>
+Chat/Command/warp/Description=Warp to a specific map
+
+Chat/Command/warp-everyone/Args=<map>
+Chat/Command/warp-everyone/Description=Warp everyone to a specific map
+
+Chat/Command/kill/Args=
+Chat/Command/kill/Description=Kills self
+
+Chat/Command/kill-everyone/Args=
+Chat/Command/kill-everyone/Description=Kills everyone
+
+Chat/Command/revive-everyone/Args=
+Chat/Command/revive-everyone/Description=Revives everyone
+
+Chat/Command/kill-mobs/Args=<drops? y/n>
+Chat/Command/kill-mobs/Description=Kills every mob
+
+Chat/Command/revive/Args=
+Chat/Command/revive/Description=Revives self
+
+Chat/Command/set-loadout/Args=
+Chat/Command/set-loadout/Description=Set loadout
+
+Chat/Command/set-loadout-all/Args=
+Chat/Command/set-loadout-all/Description=Set everyone's loadout
+
+Chat/Command/levelup/Args=[n]
+Chat/Command/levelup/Description=Level up
+
+Chat/Command/isolate/Args=<target>
+Chat/Command/isolate/Description=Isolate player
+
+Chat/Command/unisolate/Args=
+Chat/Command/unisolate/Description=Unisolates
+
+Chat/Command/change-name/Args=<name>
+Chat/Command/change-name/Description=Changes flower's name temporarily
+
+Chat/Command/dev-boss/Args=
+Chat/Command/dev-boss/Description=
+
+Chat/Command/afk-check/Args=[target]
+Chat/Command/afk-check/Description=Runs manual AFK check
+
+Chat/Command/bot-finder/Args=<start/y/n/print>
+Chat/Command/bot-finder/Description=Hehehe
+
+Chat/Command/wipe-achievements/Args=
+Chat/Command/wipe-achievements/Description=Wipe achievements
+
+Chat/Command/reset-coin-delay/Args=
+Chat/Command/reset-coin-delay/Description=Reset coin trade delay
+
+Chat/Command/bring/Args=<target>
+Chat/Command/bring/Description=Bring player to me
+
+Chat/Command/goto/Args=<target>
+Chat/Command/goto/Description=Go to player
+
+Chat/Command/bring-everyone/Args=
+Chat/Command/bring-everyone/Description=Bring everyone to me
+
+Chat/Command/contagious-corruption/Args=
+Chat/Command/contagious-corruption/Description=Start the plague
+
+Chat/Command/purge-contagious-corruption/Args=
+Chat/Command/purge-contagious-corruption/Description=End the plague
+
+Chat/Command/calculate-next-shop/Args=<petal:rarity> [min discount level 0~3]
+Chat/Command/calculate-next-shop/Description=Calculates in how many periods the petal will appear in shop
+
+Maps/ant_hell/Name=Ant Hell
+
+Maps/ant_hole1/Name=Termite Mound
+Maps/ant_hole2/Name=Termite Mound
+Maps/ant_hole3/Name=Termite Mound
+Maps/ant_hole4/Name=Termite Mound
+Maps/ant_hole5/Name=Termite Mound
+
+Maps/battle_ground/Name=Battle Ground
+
+Maps/desert/Name=Desert
+
+Maps/garden/Name=Garden
+
+Maps/hel/Name=Hel
+
+Maps/jungle/Name=Jungle
+
+Maps/ocean/Name=Ocean
+
+Maps/sewers/Name=Sewers
+
+Maps/worm/Name=Worm
+
+Mobs/rock/Name=Rock
+Mobs/rock/Description=A rock. It doesn't do much.
+Mobs/rock/Spawn=Something mountain-like appears in the distance...
+
+Mobs/cactus/Name=Cactus
+Mobs/cactus/Description=Avoid touching it, it hurts.
+Mobs/cactus/Spawn=A tower of thorns rises from the sands...
+
+Mobs/ladybug/Name=Normal Ladybug
+Mobs/ladybug/Description=Cute and harmless.
+
+Mobs/bee/Name=Bee
+Mobs/bee/Description=It stings. Don't touch it.
+
+Mobs/ant_baby/Name=Baby Ant
+Mobs/ant_baby/Description=Weak and defenseless, but big dreams.
+
+Mobs/ant_worker/Name=Worker Ant
+Mobs/ant_worker/Description=It's a bit temperamental, probably from working all the time.
+
+Mobs/ant_soldier/Name=Soldier Ant
+Mobs/ant_soldier/Description=It's got wings and it's ready to use them.
+
+Mobs/ant_queen/Name=Queen Ant
+Mobs/ant_queen/Description=You must have done something really bad if she's chasing you.
+
+Mobs/ant_hole/Name=Ant Hole
+Mobs/ant_hole/Description=Ants go in, and come out. Can't explain that.
+
+Mobs/beetle/Name=Beetle
+Mobs/beetle/Description=It's hungry and flowers are its favorite meal.
+
+Mobs/hornet/Name=Hornet
+Mobs/hornet/Description=These aren't quite as nice as the little bees.
+Mobs/hornet/Spawn=A big yellow spot shows up in the distance...
+
+Mobs/centipede/Name=Normal Centipede
+Mobs/centipede/Description=It's just there doing its thing.
+
+Mobs/centipede_body/Name=Normal Centipede
+Mobs/centipede_body/Description=It's just there doing its thing.
+
+Mobs/centipede_evil/Name=Evil Centipede
+Mobs/centipede_evil/Description=This one loves flowers.
+
+Mobs/centipede_evil_body/Name=Evil Centipede
+Mobs/centipede_evil_body/Description=This one loves flowers.
+
+Mobs/centipede_desert/Name=Desert Centipede
+Mobs/centipede_desert/Description=Gotta go fast.
+
+Mobs/centipede_desert_body/Name=Desert Centipede
+Mobs/centipede_desert_body/Description=Gotta go fast.
+
+Mobs/square/Name=Square
+Mobs/square/Description=This shape... it looks familiar...
+
+Mobs/ladybug_dark/Name=Dark Ladybug
+Mobs/ladybug_dark/Description=Cute and harmless... if left unprovoked.
+
+Mobs/ladybug_shiny/Name=Shiny Ladybug
+Mobs/ladybug_shiny/Description=Shiny, cute and mostly harmless.
+
+Mobs/spider/Name=Spider
+Mobs/spider/Description=Spooky.
+
+Mobs/scorpion/Name=Scorpion
+Mobs/scorpion/Description=IT STINGS!
+
+Mobs/fire_ant_soldier/Name=Soldier Fire Ant
+Mobs/fire_ant_soldier/Description=This ant is on fireeeeeeeeeeeeee.
+
+Mobs/fire_ant_burrow/Name=Fire Ant Burrow
+Mobs/fire_ant_burrow/Description=What could be in here?
+
+Mobs/sandstorm/Name=Sandstorm
+Mobs/sandstorm/Description=Darude (1999)
+
+Mobs/bubble/Name=Bubble
+Mobs/bubble/Description=Pop
+
+Mobs/bumble_bee/Name=Bumble Bee
+Mobs/bumble_bee/Description=GOTTA RUN.
+
+Mobs/shell/Name=Shell
+Mobs/shell/Description=Not an advertisement.
+
+Mobs/starfish/Name=Starfish
+Mobs/starfish/Description=His name is Patrick.
+
+Mobs/crab/Name=Crab
+Mobs/crab/Description=Mr. Crab.
+
+Mobs/jellyfish/Name=Jellyfish
+Mobs/jellyfish/Description=Makes the most delicious jam.
+Mobs/jellyfish/Spawn=You hear lightning strikes coming from a far distance...
+
+Mobs/digger/Name=Digger
+Mobs/digger/Description=Wrong game, bud.
+
+Mobs/sponge/Name=Sponge
+Mobs/sponge/Description=Bob.
+
+Mobs/leech/Name=Leech
+Mobs/leech/Description=Slurp slurp.
+
+Mobs/leech_body/Name=Leech
+Mobs/leech_body/Description=Slurp slurp.
+
+Mobs/dandelion/Name=Dandelion
+Mobs/dandelion/Description=Puffy.
+
+Mobs/fire_ant_baby/Name=Baby Fire Ant
+Mobs/fire_ant_baby/Description=This ant is on fireeeeeeeeeeeeee.
+
+Mobs/fire_ant_worker/Name=Worker Fire Ant
+Mobs/fire_ant_worker/Description=This ant is on fireeeeeeeeeeeeee.
+
+Mobs/fire_ant_queen/Name=Queen Fire Ant
+Mobs/fire_ant_queen/Description=This ant is on fireeeeeeeeeeeeee.
+
+Mobs/ant_egg/Name=Ant Egg
+Mobs/ant_egg/Description=Not yet an ant but perhaps soon.
+
+Mobs/fire_ant_egg/Name=Fire Ant Egg
+Mobs/fire_ant_egg/Description=This ant is not yet on fire.
+
+Mobs/fly/Name=Fly
+Mobs/fly/Description=Hzzzzzzzzzzzz.
+
+Mobs/leafbug/Name=Leafbug
+Mobs/leafbug/Description=It's not a leaf, but it is a bug.
+
+Mobs/mantis/Name=Mantis
+Mobs/mantis/Description=You better pray you don't become dinner.
+
+Mobs/termite_baby/Name=Baby Termite
+Mobs/termite_baby/Description=Weak and defenseless, but big dreams.<n/>These creatures appear to be connected somehow.
+
+Mobs/termite_worker/Name=Worker Termite
+Mobs/termite_worker/Description=It's a bit temperamental, probably from working all the time.<n/>These creatures appear to be connected somehow.
+
+Mobs/termite_soldier/Name=Soldier Termite
+Mobs/termite_soldier/Description=It's got wings and it's ready to use them.<n/>These creatures appear to be connected somehow.
+
+Mobs/termite_overmind/Name=Termite Overmind
+Mobs/termite_overmind/Description=The one who oversees all.
+
+Mobs/termite_mound/Name=Termite Mound
+Mobs/termite_mound/Description=Termites go in, and come out. Can't explain that.
+
+Mobs/termite_egg/Name=Termite Egg
+Mobs/termite_egg/Description=Not yet a termite but perhaps soon.
+
+Mobs/bush/Name=Bush
+Mobs/bush/Description=Don't misunderestimate me.
+
+Mobs/roach/Name=Roach
+Mobs/roach/Description=Gotta go FAST... until they get tired.
+
+Mobs/moth/Name=Moth
+Mobs/moth/Description=Easily scared, be nice.
+
+Mobs/firefly/Name=Firefly
+Mobs/firefly/Description=Oooooh shiny.
+Mobs/firefly/Spawn=There's a bright light in the horizon...
+
+Mobs/beetle_hel/Name=Hel Beetle
+Mobs/beetle_hel/Description=Scourge that spawns in the other plane.
+Mobs/beetle_hel/Spawn=You sense ominous vibrations coming from a different realm by HEL BEETLE...
+
+Mobs/wasp/Name=Hel Wasp
+Mobs/wasp/Description=They are ANGRY.
+
+Mobs/dummy/Name=Target Dummy
+Mobs/dummy/Description=How do you have this in your gallery?
+
+Mobs/spider_hel/Name=Hel Spider
+Mobs/spider_hel/Description=Scourge that spawns in the other plane.
+Mobs/spider_hel/Spawn=You sense ominous vibrations coming from a different realm by HEL SPIDER...
+
+Mobs/centipede_hel/Name=Hel Centipede
+Mobs/centipede_hel/Description=Scourge that spawns in the other plane.
+Mobs/centipede_hel/Spawn=You sense ominous vibrations coming from a different realm by HEL CENTIPEDE...
+
+Mobs/centipede_hel_body/Name=Hel Centipede
+Mobs/centipede_hel_body/Description=Scourge that spawns in the other plane.
+Mobs/centipede_hel_body/Spawn=You sense ominous vibrations coming from a different realm by HEL CENTIPEDE...
+
+Mobs/wasp_hel/Name=Hel Wasp
+Mobs/wasp_hel/Description=Scourge that spawns in the other plane.
+Mobs/wasp_hel/Spawn=You sense ominous vibrations coming from a different realm by HEL WASP...
+
+Mobs/trader/Name=Trader
+
+Mobs/gambler/Name=Gambler
+Mobs/gambler/Description=This can happen to YOU.
+Mobs/gambler/Spawn=You hear someone whisper faintly... "just... one more game..."
+
+Mobs/oracle/Name=Oracle
+
+Mobs/firefly_magic/Name=Magic Firefly
+Mobs/firefly_magic/Description=There's something magical about this one.
+
+Mobs/titan/Name=Titan
+
+Mobs/beetle_nazar/Name=Beetle
+Mobs/beetle_nazar/Description=This one has a different pattern... what does that mean?
+
+Mobs/worm/Name=Worm
+Mobs/worm/Description=It's supposed to eat dirt but this one's eating flowers.
+
+Mobs/worm_guts/Name=Worm guts
+Mobs/worm_guts/Description=You're not supposed to see this text. I'm calling the police.
+
+Mobs/mecha_flower/Name=Mecha Flower
+Mobs/mecha_flower/Description=Someone has been making these mechanical flowers... What could this mean?
+
+Mobs/wasp_mecha/Name=Mecha Wasp
+Mobs/wasp_mecha/Description=They're MECHA ANGRY.
+
+Mobs/spider_mecha/Name=Mecha Spider
+Mobs/spider_mecha/Description=Mecha Spooky.
+
+Petals/basic/Name=Basic
+Petals/basic/FullName=Basic
+Petals/basic/Description=A nice petal, not too strong but not too weak.
+
+Petals/light/Name=Light
+Petals/light/FullName=Light
+Petals/light/Description=Weaker than most petals, but recharges very quickly.
+
+Petals/rock/Name=Rock
+Petals/rock/FullName=Rock
+Petals/rock/Description=Extremely durable, but takes a bit longer to recharge.
+
+Petals/square/Name=Square
+Petals/square/FullName=Square
+Petals/square/Description=This shape... it looks familiar...
+
+Petals/rose/Name=Rose
+Petals/rose/FullName=Rose
+Petals/rose/Description=Its healing properties are amazing. Not so good at combat though.
+
+Petals/stinger/Name=Stinger
+Petals/stinger/FullName=Stinger
+Petals/stinger/Description=It really hurts, but it's very fragile.
+
+Petals/iris/Name=Iris
+Petals/iris/FullName=Iris
+Petals/iris/Description=Very poisonous, but takes a little while to do its work.<n/>-50% damage vs other flowers.
+
+Petals/wing/Name=Wing
+Petals/wing/FullName=Wing
+Petals/wing/Description=It comes and goes.
+
+Petals/missile/Name=Missile
+Petals/missile/FullName=Missile
+Petals/missile/Description=You can actually shoot this one.
+
+Petals/grapes/Name=Grapes
+Petals/grapes/FullName=Grapes
+Petals/grapes/Description=It goes poof. Now with a secret ingredient: poison.
+
+Petals/cactus/Name=Cactus
+Petals/cactus/FullName=Cactus
+Petals/cactus/Description=Not very strong, but somehow increases your maximum health.
+
+Petals/faster/Name=Faster
+Petals/faster/FullName=Faster
+Petals/faster/Description=It's so light it makes your other petals spin faster.
+
+Petals/bubble/Name=Bubble
+Petals/bubble/FullName=Bubble
+Petals/bubble/Description=Physics are for the weak.
+
+Petals/pollen/Name=Pollen
+Petals/pollen/FullName=Pollen
+Petals/pollen/Description=Asthmatics beware.
+
+Petals/dandelion/Name=Dandelion
+Petals/dandelion/FullName=Dandelion
+Petals/dandelion/Description=Its interesting properties inhibits healing effects on affected units.<n/>Affected units have their healing reduced by 20%. Stacks with itself.
+
+Petals/beetle_egg/Name=Egg
+Petals/beetle_egg/FullName=Beetle Egg
+Petals/beetle_egg/Description=Something interesting might pop out of this.
+
+Petals/antennae/Name=Antennae
+Petals/antennae/FullName=Antennae
+Petals/antennae/Description=Allows your flower to sense foes farther away.
+
+Petals/heavy/Name=Heavy
+Petals/heavy/FullName=Heavy
+Petals/heavy/Description=This thing is so heavy that nothing gets in the way.<n/>Slows down petal rotation speed when equipped.
+
+Petals/yin_yang/Name=Yin Yang
+Petals/yin_yang/FullName=Yin Yang
+Petals/yin_yang/Description=This mysterious petal affects the rotation of your petals in unpredictable ways.
+
+Petals/web/Name=Web
+Petals/web/FullName=Web
+Petals/web/Description=It's really sticky.
+
+Petals/honey/Name=Honey
+Petals/honey/FullName=Honey
+Petals/honey/Description=Mobs love this. Attracts them in a large radius.<n/>Mobs will prioritize this over flowers.<n/>Affected units develop immunity to its effects after some time.
+
+Petals/leaf/Name=Leaf
+Petals/leaf/FullName=Leaf
+Petals/leaf/Description=Gathers energy from the sun to heal your flower passively.
+
+Petals/salt/Name=Salt
+Petals/salt/FullName=Salt
+Petals/salt/Description=Reflects some of the damage you take back to the enemy that dealt it.<n/>Higher rarity mobs have higher resistance to damage reflection.
+
+Petals/rice/Name=Rice
+Petals/rice/FullName=Rice
+Petals/rice/Description=Spawns very quickly, but not very strong.
+
+Petals/corn/Name=Corn
+Petals/corn/FullName=Corn
+Petals/corn/Description=Takes a long time to spawn, but has a lot of health.
+
+Petals/sand/Name=Sand
+Petals/sand/FullName=Sand
+Petals/sand/Description=A bunch of sand particles.
+
+Petals/pincer/Name=Pincer
+Petals/pincer/FullName=Pincer
+Petals/pincer/Description=Debilitates enemies temporarily, reducing their movement speed.
+
+Petals/yucca/Name=Yucca
+Petals/yucca/FullName=Yucca
+Petals/yucca/Description=Heals your flower but only while in the defensive position.
+
+Petals/magnet/Name=Magnet
+Petals/magnet/FullName=Magnet
+Petals/magnet/Description=Increases drop pick up range.
+
+Petals/yggdrasil/Name=Yggdrasil
+Petals/yggdrasil/FullName=Yggdrasil
+Petals/yggdrasil/Description=A dried leaf from the Yggdrasil tree.<n/>Rumored to be able to bring the fallen back to life.
+
+Petals/starfish/Name=Starfish
+Petals/starfish/FullName=Starfish
+Petals/starfish/Description=Increases health regen while below 75% health.
+
+Petals/pearl/Name=Pearl
+Petals/pearl/FullName=Pearl
+Petals/pearl/Description=Just drop it off somewhere and use your kinetic powers so you don't lose it.
+
+Petals/lightning/Name=Lightning
+Petals/lightning/FullName=Lightning
+Petals/lightning/Description=Strikes several nearby enemies.
+
+Petals/jelly/Name=Jelly
+Petals/jelly/FullName=Jelly
+Petals/jelly/Description=No one likes touching this.
+
+Petals/claw/Name=Claw
+Petals/claw/FullName=Claw
+Petals/claw/Description=Deals extra damage if the victim is above 80% health.<n/>-50% damage vs other flowers.
+
+Petals/shell/Name=Shell
+Petals/shell/FullName=Shell
+Petals/shell/Description=Adds a temporary shield to yourself or allies.
+
+Petals/cutter/Name=Cutter
+Petals/cutter/FullName=Cutter
+Petals/cutter/Description=A friend used to own this... now it's time for revenge.<n/>Increases body damage.
+
+Petals/dahlia/Name=Dahlia
+Petals/dahlia/FullName=Dahlia
+Petals/dahlia/Description=A small amount of heal but fairly consistent.
+
+Petals/uranium/Name=Uranium
+Petals/uranium/FullName=Uranium
+Petals/uranium/Description=Periodically releases radiation.<n/>-75% damage versus other flowers.<n/>Effect strength depends on distance to petal.
+
+Petals/sponge/Name=Sponge
+Petals/sponge/FullName=Sponge
+Petals/sponge/Description=Spreads damage taken by the flower over a period of time.<n/>If destroyed, deals remaining damage all at once.<n/>Does not delay {#UI/Attribute/PoisonColored} damage.
+
+Petals/soil/Name=Soil
+Petals/soil/FullName=Soil
+Petals/soil/Description=Increases health, but also increases flower size and decreases movement speed.
+
+Petals/fangs/Name=Fangs
+Petals/fangs/FullName=Fangs
+Petals/fangs/Description=Heals based on damage dealt by this petal.
+
+Petals/third_eye/Name=Third Eye
+Petals/third_eye/FullName=Third Eye
+Petals/third_eye/Description=Allows your flower to expand your petals further out.
+
+Petals/peas/Name=Peas
+Petals/peas/FullName=Peas
+Petals/peas/Description=It goes poof.
+
+Petals/stick/Name=Stick
+Petals/stick/FullName=Mysterious Stick
+Petals/stick/Description=A mysterious stick that summons the forces of the wind.
+
+Petals/clover/Name=Clover
+Petals/clover/FullName=Clover
+Petals/clover/Description=Increases your luck.<n/>Luck is used by specific petals to change their stats.
+
+Petals/powder/Name=Powder
+Petals/powder/FullName=Mysterious Powder
+Petals/powder/Description=Increases movement speed.<n/>Disabled if flower takes damage or if near a mob higher than a certain rarity.
+
+Petals/air/Name=Air
+Petals/air/FullName=Air
+Petals/air/Description=It's literally nothing.
+
+Petals/basil/Name=Basil
+Petals/basil/FullName=Basil
+Petals/basil/Description=Increases all healing received.
+
+Petals/orange/Name=Orange
+Petals/orange/FullName=Orange
+Petals/orange/Description=A sweet citrus fruit.
+
+Petals/ant_egg/Name=Egg
+Petals/ant_egg/FullName=Ant Egg
+Petals/ant_egg/Description=Something interesting might pop out of this.
+
+Petals/poo/Name=Poo
+Petals/poo/FullName=Poo
+Petals/poo/Description=Makes mobs less likely to want to attack you.
+
+Petals/relic/Name=Relic
+Petals/relic/FullName=Mysterious Relic
+Petals/relic/Description=A strange relic. Significantly increases maximum health.<n/>Damage taken is spread among other wearers.
+
+Petals/lotus/Name=Lotus
+Petals/lotus/FullName=Lotus
+Petals/lotus/Description=Absorbs poison damage taken by the flower.
+
+Petals/bulb/Name=Bulb
+Petals/bulb/FullName=Light Bulb
+Petals/bulb/Description=A shiny lightbulb. Draws aggro from mobs.
+
+Petals/cotton/Name=Cotton
+Petals/cotton/FullName=Cotton
+Petals/cotton/Description=Absorbs damage taken by the flower.
+
+Petals/carrot/Name=Carrot
+Petals/carrot/FullName=Carrot
+Petals/carrot/Description=Sturdy and reliable. Can be shot and bounces off walls.
+
+Petals/bone/Name=Bone
+Petals/bone/FullName=Bone
+Petals/bone/Description=Sturdy.
+
+Petals/plank/Name=Plank
+Petals/plank/FullName=Plank
+Petals/plank/Description=Does 20x damage vs projectiles and petals.
+
+Petals/tomato/Name=Tomato
+Petals/tomato/FullName=Tomato
+Petals/tomato/Description=Gets stronger over time.
+
+Petals/mark/Name=Mark
+Petals/mark/FullName=Dark Mark
+Petals/mark/Description=A dark mark that binds itself to a fallen soul.
+
+Petals/rubber/Name=Rubber
+Petals/rubber/FullName=Rubber
+Petals/rubber/Description=Increases knockback received. Also absorbs lightning damage dealt to the flower.
+
+Petals/blood_stinger/Name=Stinger
+Petals/blood_stinger/FullName=Blood Stinger
+Petals/blood_stinger/Description=It really hurts, but it's very fragile.<n/>Deals damage to self when spawned.
+
+Petals/bur/Name=Bur
+Petals/bur/FullName=Bur
+Petals/bur/Description=Decreases armor of affected unit. Does not stack with itself.
+
+Petals/root/Name=Root
+Petals/root/FullName=Root
+Petals/root/Description=Provides additional armor but only while in the defensive position.
+
+Petals/ankh/Name=Ankh
+Petals/ankh/FullName=Ankh
+Petals/ankh/Description=An ancient relic.<n/>When destroyed, will teleport the flower back to where it was destroyed.
+
+Petals/dice/Name=Dice
+Petals/dice/FullName=Dice
+Petals/dice/Description=Has a 5% chance of dealing 35x damage.<n/>Chance increases by 4% per point in luck.
+
+Petals/talisman/Name=Talisman
+Petals/talisman/FullName=Talisman of Evasion
+Petals/talisman/Description=A necklace that allows the wearer to anticipate enemy attacks.
+
+Petals/battery/Name=Battery
+Petals/battery/FullName=Battery
+Petals/battery/Description=Discharges electricity whenever the flower gets hit.
+
+Petals/amulet/Name=Amulet
+Petals/amulet/FullName=Amulet
+Petals/amulet/Description=Converts a percentage of overheal into shields.
+
+Petals/compass/Name=Compass
+Petals/compass/FullName=Compass
+Petals/compass/Description=This crappy thing might be able to find something interesting...
+
+Petals/disc/Name=Disc
+Petals/disc/FullName=Disc
+Petals/disc/Description=Reduces damage taken from collisions with mobs and flowers.
+
+Petals/shovel/Name=Shovel
+Petals/shovel/FullName=Shovel
+Petals/shovel/Description=Becomes untargetable but unable to use petals for a limited time.
+
+Petals/coin/Name=Coin
+Petals/coin/FullName=Coin
+Petals/coin/Description=The power of capitalism compels you!
+
+Petals/chip/Name=Chip
+Petals/chip/FullName=Poker Chip
+Petals/chip/Description=ALL IN.
+
+Petals/card/Name=Card
+Petals/card/FullName=Card
+Petals/card/Description=A playing card. Likely marked.
+
+Petals/moon/Name=Moon
+Petals/moon/FullName=Moon Rock
+Petals/moon/Description=This thing is so big your petals orbit it instead.<n/>Where did you find this anyway?
+
+Petals/privet/Name=Privet
+Petals/privet/FullName=Privet Berry
+Petals/privet/Description=Deals extra {#UI/Attribute/PoisonColored} damage based on the existing {#UI/Attribute/PoisonColored} damage per second.
+
+Petals/glass/Name=Glass
+Petals/glass/FullName=Glass
+Petals/glass/Description=Phases through enemies.<n/>Cannot damage enemies more often than a certain interval.
+
+Petals/corruption/Name=Corruption
+Petals/corruption/FullName=Corruption
+Petals/corruption/Description=Corrupts one's soul, turning them against their own kind.
+
+Petals/orb/Name=Orb
+Petals/orb/FullName=Mana Orb
+Petals/orb/Description=Creates mana.
+
+Petals/blueberries/Name=Blueberries
+Petals/blueberries/FullName=Blueberries
+Petals/blueberries/Description=It goes poof. Now with the extra secret ingredient: lightning.
+
+Petals/magic_cotton/Name=Cotton
+Petals/magic_cotton/FullName=Magic Cotton
+Petals/magic_cotton/Description=Absorbs damage taken by the flower.
+
+Petals/magic_stinger/Name=Stinger
+Petals/magic_stinger/FullName=Magic Stinger
+Petals/magic_stinger/Description=It really hurts, but it's very fragile.
+
+Petals/magic_leaf/Name=Leaf
+Petals/magic_leaf/FullName=Magic Leaf
+Petals/magic_leaf/Description=Gathers mana from the environment passively.
+
+Petals/magic_cactus/Name=Cactus
+Petals/magic_cactus/FullName=Magic Cactus
+Petals/magic_cactus/Description=Increases maximum mana capacity.
+
+Petals/magic_eye/Name=Magic Eye
+Petals/magic_eye/FullName=Magic Eye
+Petals/magic_eye/Description=Consumes half the current mana and deals damage based on that value.
+
+Petals/magic_missile/Name=Missile
+Petals/magic_missile/FullName=Magic Missile
+Petals/magic_missile/Description=You can actually shoot this one... with magic.
+
+Petals/magic_stick/Name=Stick
+Petals/magic_stick/FullName=Magic Stick
+Petals/magic_stick/Description=A mysterious stick that summons the forces of the wind... with magic.
+
+Petals/coral/Name=Coral
+Petals/coral/FullName=Coral
+Petals/coral/Description=Breaks apart on impact.<n/>Each piece has 50% of the stats of the predecessor.
+
+Petals/magic_bubble/Name=Bubble
+Petals/magic_bubble/FullName=Magic Bubble
+Petals/magic_bubble/Description=Physics are for the magicless.
+
+Petals/nazar/Name=Nazar
+Petals/nazar/FullName=Nazar Amulet
+Petals/nazar/Description=Reduces one damage instance damage by 98%.
+
+Petals/mimic/Name=Mimic
+Petals/mimic/FullName=Mimic
+Petals/mimic/Description=Copies the petal to the left of this, with the same rarity as this.
+
+Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
+Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
+Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
+
+Petals/mjolnir/not-unique/Name=Fragment
+Petals/mjolnir/not-unique/FullName=Fragment
+Petals/mjolnir/not-unique/Description=Perhaps this could be used to forge something great?
+
+Petals/mjolnir/unique/Name=Mjölnir
+Petals/mjolnir/unique/FullName=Mjölnir
+Petals/mjolnir/unique/Description=Only the most powerful hammer in the universe.
+	
+Petals/mecha_missile/Name=Missile
+Petals/mecha_missile/FullName=Mecha Missile
+Petals/mecha_missile/Description=Locked on.
+
+Rarities/common/Name=Common
+Rarities/common/ArticleUpper=A
+Rarities/common/Article=a
+Rarities/common/NameColored=<c val="#7EEF6D">{#Rarities/common/Name}</c>
+
+Rarities/unusual/Name=Unusual
+Rarities/unusual/ArticleUpper=An
+Rarities/unusual/Article=an
+Rarities/unusual/NameColored=<c val="#FFE65D">{#Rarities/unusual/Name}</c>
+
+Rarities/rare/Name=Rare
+Rarities/rare/ArticleUpper=A
+Rarities/rare/Article=a
+Rarities/rare/NameColored=<c val="#4d52e3">{#Rarities/rare/Name}</c>
+
+Rarities/epic/Name=Epic
+Rarities/epic/ArticleUpper=An
+Rarities/epic/Article=an
+Rarities/epic/NameColored=<c val="#861FDE">{#Rarities/epic/Name}</c>
+
+Rarities/legendary/Name=Legendary
+Rarities/legendary/ArticleUpper=A
+Rarities/legendary/Article=a
+Rarities/legendary/NameColored=<c val="#DE1F1F">{#Rarities/legendary/Name}</c>
+
+Rarities/mythic/Name=Mythic
+Rarities/mythic/ArticleUpper=A
+Rarities/mythic/Article=a
+Rarities/mythic/NameColored=<c val="#1fdbde">{#Rarities/mythic/Name}</c>
+
+Rarities/ultra/Name=Ultra
+Rarities/ultra/ArticleUpper=An
+Rarities/ultra/Article=an
+Rarities/ultra/NameColored=<c val="#ff2b75">{#Rarities/ultra/Name}</c>
+
+Rarities/super/Name=Super
+Rarities/super/ArticleUpper=A
+Rarities/super/Article=a
+Rarities/super/NameColored=<c val="#2bffa3">{#Rarities/super/Name}</c>
+
+Rarities/unique/Name=Unique
+Rarities/unique/ArticleUpper=A
+Rarities/unique/Article=a
+Rarities/unique/NameColored=<c val="#555555">{#Rarities/unique/Name}</c>
+
+Talents/crafting/Name=Crafting
+Talents/crafting/Description=Unlocks the ability to craft <c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name}</c> petals
+
+Talents/crafting_unusual/Name={#Talents/crafting/Name}
+Talents/crafting_unusual/Description={#Talents/crafting/Description}
+
+Talents/crafting_rare/Name={#Talents/crafting/Name}
+Talents/crafting_rare/Description={#Talents/crafting/Description}
+
+Talents/crafting_epic/Name={#Talents/crafting/Name}
+Talents/crafting_epic/Description={#Talents/crafting/Description}
+
+Talents/crafting_legendary/Name={#Talents/crafting/Name}
+Talents/crafting_legendary/Description={#Talents/crafting/Description}
+
+Talents/crafting_mythic/Name={#Talents/crafting/Name}
+Talents/crafting_mythic/Description={#Talents/crafting/Description}
+
+Talents/crafting_ultra/Name={#Talents/crafting/Name}
+Talents/crafting_ultra/Description={#Talents/crafting/Description}
+
+Talents/crafting_super/Name={#Talents/crafting/Name}
+Talents/crafting_super/Description={#Talents/crafting/Description}
+
+Talents/inventory6/Name=Inventory
+Talents/inventory6/Description=Enables a 6th loadout slot to equip petals.
+
+Talents/inventory7/Name=Inventory
+Talents/inventory7/Description=Enables a 7th loadout slot to equip petals.
+
+Talents/inventory8/Name=Inventory
+Talents/inventory8/Description=Enables a 8th loadout slot to equip petals.
+
+Talents/inventory9/Name=Inventory
+Talents/inventory9/Description=Enables a 9th loadout slot to equip petals.
+
+Talents/inventory10/Name=Inventory
+Talents/inventory10/Description=Enables a 10th loadout slot to equip petals.
+
+Talents/health/Name=Health
+Talents/health/Description=Increases base {#UI/Attribute/FlowerHealthColored} by {0:perc}%.
+
+Talents/health1/Name={#Talents/health/Name}
+Talents/health1/Description={#Talents/health/Description}
+
+Talents/health2/Name={#Talents/health/Name}
+Talents/health2/Description={#Talents/health/Description}
+
+Talents/health3/Name={#Talents/health/Name}
+Talents/health3/Description={#Talents/health/Description}
+
+Talents/health4/Name={#Talents/health/Name}
+Talents/health4/Description={#Talents/health/Description}
+
+Talents/health5/Name={#Talents/health/Name}
+Talents/health5/Description={#Talents/health/Description}
+
+Talents/health6/Name={#Talents/health/Name}
+Talents/health6/Description={#Talents/health/Description}
+
+Talents/health7/Name={#Talents/health/Name}
+Talents/health7/Description={#Talents/health/Description}
+
+Talents/health8/Name={#Talents/health/Name}
+Talents/health8/Description={#Talents/health/Description}
+
+Talents/luck/Name=Luck
+Talents/luck/Description=Increases {#UI/Attribute/LuckColored} by {0:tooltip}.<n/>Luck is used by specific petals to change their stats.
+
+Talents/luck1/Name={#Talents/luck/Name}
+Talents/luck1/Description={#Talents/luck/Description}
+
+Talents/luck2/Name={#Talents/luck/Name}
+Talents/luck2/Description={#Talents/luck/Description}
+
+Talents/luck3/Name={#Talents/luck/Name}
+Talents/luck3/Description={#Talents/luck/Description}
+
+Talents/luck4/Name={#Talents/luck/Name}
+Talents/luck4/Description={#Talents/luck/Description}
+
+Talents/medic/Name=Medic
+Talents/medic/Description=Increases {#UI/Attribute/HealingColored} from your petals by {0:perc}%.<n/>Affects allies healed by your petals.
+
+Talents/medic1/Name={#Talents/medic/Name}
+Talents/medic1/Description={#Talents/medic/Description}
+
+Talents/medic2/Name={#Talents/medic/Name}
+Talents/medic2/Description={#Talents/medic/Description}
+
+Talents/medic3/Name={#Talents/medic/Name}
+Talents/medic3/Description={#Talents/medic/Description}
+
+Talents/medic4/Name={#Talents/medic/Name}
+Talents/medic4/Description={#Talents/medic/Description}
+
+Talents/medic5/Name={#Talents/medic/Name}
+Talents/medic5/Description={#Talents/medic/Description}
+
+Talents/medic6/Name={#Talents/medic/Name}
+Talents/medic6/Description={#Talents/medic/Description}
+
+Talents/medic7/Name={#Talents/medic/Name}
+Talents/medic7/Description={#Talents/medic/Description}
+
+Talents/medic8/Name={#Talents/medic/Name}
+Talents/medic8/Description={#Talents/medic/Description}
+
+Talents/summoner/Name=Summoner
+Talents/summoner/Description=Increases {#UI/Attribute/HealthColored} of summoned mobs by {0:perc}%.
+
+Talents/summoner1/Name={#Talents/summoner/Name}
+Talents/summoner1/Description={#Talents/summoner/Description}
+
+Talents/summoner2/Name={#Talents/summoner/Name}
+Talents/summoner2/Description={#Talents/summoner/Description}
+
+Talents/summoner3/Name={#Talents/summoner/Name}
+Talents/summoner3/Description={#Talents/summoner/Description}
+
+Talents/summoner4/Name={#Talents/summoner/Name}
+Talents/summoner4/Description={#Talents/summoner/Description}
+
+Talents/summoner5/Name={#Talents/summoner/Name}
+Talents/summoner5/Description={#Talents/summoner/Description}
+
+Talents/summoner6/Name={#Talents/summoner/Name}
+Talents/summoner6/Description={#Talents/summoner/Description}
+
+Talents/summoner7/Name={#Talents/summoner/Name}
+Talents/summoner7/Description={#Talents/summoner/Description}
+
+Talents/summoner8/Name={#Talents/summoner/Name}
+Talents/summoner8/Description={#Talents/summoner/Description}
+
+Talents/reload1/Name=Reload
+Talents/reload1/Description=Decreases the reload time for petals by -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+
+Talents/reload2/Name=Reload
+Talents/reload2/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+
+Talents/reload3/Name=Reload
+Talents/reload3/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+
+Talents/reload4/Name=Reload
+Talents/reload4/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+
+Talents/reload5/Name=Reload
+Talents/reload5/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.<n/>Decreases minimum reload time when swapping petals from {3}s to {2}s.
+
+Talents/reload6/Name=Reload
+Talents/reload6/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+
+Talents/reload7/Name=Reload
+Talents/reload7/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+
+Talents/reload8/Name=Reload
+Talents/reload8/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
+
+Talents/body_damage/Name=Sharp Edges
+Talents/body_damage/Description=Increases {#UI/Attribute/BodyDamageColored} by {0:perc}%.
+
+Talents/body_damage1/Name={#Talents/body_damage/Name}
+Talents/body_damage1/Description={#Talents/body_damage/Description}
+
+Talents/body_damage2/Name={#Talents/body_damage/Name}
+Talents/body_damage2/Description={#Talents/body_damage/Description}
+
+Talents/body_damage3/Name={#Talents/body_damage/Name}
+Talents/body_damage3/Description={#Talents/body_damage/Description}
+
+Talents/body_damage4/Name={#Talents/body_damage/Name}
+Talents/body_damage4/Description={#Talents/body_damage/Description}
+
+Talents/body_damage5/Name={#Talents/body_damage/Name}
+Talents/body_damage5/Description={#Talents/body_damage/Description}
+
+Talents/body_damage6/Name={#Talents/body_damage/Name}
+Talents/body_damage6/Description={#Talents/body_damage/Description}
+
+Talents/body_damage7/Name={#Talents/body_damage/Name}
+Talents/body_damage7/Description={#Talents/body_damage/Description}
+
+Talents/body_damage8/Name={#Talents/body_damage/Name}
+Talents/body_damage8/Description={#Talents/body_damage/Description}
+
+Talents/petal_rotation/Name=Petal Rotation
+Talents/petal_rotation/Description=Increases petal {#UI/Attribute/RotationSpeedColored} from {1:tooltip} to {0:tooltip} rad/s.
+
+Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation1/Description={#Talents/petal_rotation/Description}
+
+Talents/petal_rotation2/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation2/Description={#Talents/petal_rotation/Description}
+
+Talents/petal_rotation3/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation3/Description={#Talents/petal_rotation/Description}
+
+Talents/petal_rotation4/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation4/Description={#Talents/petal_rotation/Description}
+
+Talents/petal_rotation5/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation5/Description={#Talents/petal_rotation/Description}
+
+Talents/reach/Name=Reach
+Talents/reach/Description=Increases petal {#UI/Attribute/AttackRangeColored} by {0:tooltip}.
+
+Talents/reach1/Name={#Talents/reach/Name}
+Talents/reach1/Description={#Talents/reach/Description}
+
+Talents/reach2/Name={#Talents/reach/Name}
+Talents/reach2/Description={#Talents/reach/Description}
+
+Talents/reach3/Name={#Talents/reach/Name}
+Talents/reach3/Description={#Talents/reach/Description}
+
+Talents/second_chance1/Name=Second Chance
+Talents/second_chance1/Description=Prevents death for {0:tooltip}s upon taking fatal damage. Has a {1:tooltip}s cooldown.
+
+Talents/second_chance2/Name=Second Chance
+Talents/second_chance2/Description=Increases duration to {0:tooltip}s, decreases cooldown to {1:tooltip}s.
+
+Talents/magnetism/Name=Magnetism
+Talents/magnetism/Description=Increases petal pick up range by {0} while alive.
+
+Talents/body_toxicity/Name=Body Toxicity
+Talents/body_toxicity/Description=When colliding with an enemy, deals additional damage<n/>equal to {0:tooltip}x {#UI/Attribute/BodyDamageColored} as {#UI/Attribute/PoisonColored} over {1:tooltip}s.
+
+Talents/poison/Name=Poison
+Talents/poison/Description=Increases all {#UI/Attribute/PoisonColored} damage by {0:perc}%.
+
+Talents/poison1/Name={#Talents/poison/Name}
+Talents/poison1/Description={#Talents/poison/Description}
+
+Talents/poison2/Name={#Talents/poison/Name}
+Talents/poison2/Description={#Talents/poison/Description}
+
+Talents/poison3/Name={#Talents/poison/Name}
+Talents/poison3/Description={#Talents/poison/Description}
+
+Talents/poison4/Name={#Talents/poison/Name}
+Talents/poison4/Description={#Talents/poison/Description}
+
+Talents/poison5/Name={#Talents/poison/Name}
+Talents/poison5/Description={#Talents/poison/Description}
+
+Talents/poison6/Name={#Talents/poison/Name}
+Talents/poison6/Description={#Talents/poison/Description}
+
+Talents/poison7/Name={#Talents/poison/Name}
+Talents/poison7/Description={#Talents/poison/Description}
+
+Talents/poison8/Name={#Talents/poison/Name}
+Talents/poison8/Description={#Talents/poison/Description}
+
+Talents/concentrated_poison/Name=Concentrated Poison
+Talents/concentrated_poison/Description=Increases {#UI/Attribute/PoisonColored} damage per second by {0:perc}%.<n/>Decreases {#UI/Attribute/PoisonColored} duration by {1:perc}%.
+
+Talents/duplicator/Name=Duplicator
+Talents/duplicator/Description=Adds an extra copy for petals that have at least {0:tooltip} copies.
+
+Talents/antennae1/Name=Antennae
+Talents/antennae1/Description=Increases vision range by {0:perc}%.
+
+Talents/antennae2/Name=Antennae
+Talents/antennae2/Description=Increases extra vision range from {2:perc}% to {1:perc}%.
+
+Talents/antennae3/Name=Antennae
+Talents/antennae3/Description=Increases extra vision range from {2:perc}% to {1:perc}%.
+
+Tutorial/Start=<s val="1.5">Tutorial</s><n/><n/>You seem to be new here, let's get you through the basics.<n/>Click READY to start.
+Tutorial/End=<s val="1.5">Tutorial</s><n/><n/>That's it! Remember to use the inventory to equip and unequip petals.<n/>You can click a petal to equip/unequip it.<n/><n/>Keep expanding your petal collection and good luck!
+Tutorial/MustBeAlive=You must be alive to proceed in the tutorial.
+Tutorial/MustBeInGame=You must be in-game for this part of the tutorial, just click the big green READY button.
+Tutorial/MustLeaveGame=To proceed, abandon this game by clicking the abandon button on the top left.
+Tutorial/Next=Next
+Tutorial/Done=Done
+
+UI/Language/Name=English (US)
+
+UI/Time/1day=1 day
+UI/Time/Ndays={0} days
+UI/Time/Nhours={0} hours
+UI/Time/1minute=1 minute
+UI/Time/Nminutes={0} minutes
+UI/Time/1second=1 second
+UI/Time/Nseconds={0} seconds
+UI/Time/Now=immediately
+
+UI/TooltipTime/1day=1 day
+UI/TooltipTime/Ndays={0:tooltip} days
+UI/TooltipTime/Nhours={0:tooltip} hours
+UI/TooltipTime/1minute=1 minute
+UI/TooltipTime/Nminutes={0:tooltip} minutes
+UI/TooltipTime/1second=1 second
+UI/TooltipTime/Nseconds={0:tooltip} seconds
+UI/TooltipTime/Now=immediately
+
+UI/TimeLeft/1day=in 1 day
+UI/TimeLeft/Ndays=in {0} days
+UI/TimeLeft/Nhours=in {0} hours
+UI/TimeLeft/1minute=in 1 minute
+UI/TimeLeft/Nminutes=in {0} minutes
+UI/TimeLeft/1second=in 1 second
+UI/TimeLeft/Nseconds=in {0} seconds
+UI/TimeLeft/Now=any second now
+
+UI/Title/Loading=Loading...
+UI/Title/Connecting=Connecting...
+UI/Title/LoggingIn=Logging in...
+UI/Title/Ready=Ready
+
+UI/Title/Biome={#UI/Title/Biome/{0}}
+UI/Title/Biome/0=Garden
+UI/Title/Biome/1=Desert
+UI/Title/Biome/2=Ocean
+UI/Title/Biome/3=Jungle
+UI/Title/Biome/4=Hel
+
+UI/Login/PlayAsGuest=Play as guest
+UI/Login/SignInApple=Sign in with Apple
+UI/Login/SignInDiscord=Sign in with Discord
+UI/Login/Logout=Logout
+UI/Login/AccountID=Account ID:
+UI/Login/Connecting=(connecting)
+UI/Login/GuestName=Guest
+UI/Login/GuestInfo=If you already have a guest account in this device,<n/>signing in will link that account and keep your progress.
+UI/Login/LinkInfo=You can link your account to<n/>keep your progress across devices.
+UI/Login/Linked=Linked
+UI/Login/SupportPIN=Support PIN: {0}
+UI/Login/SupportPINHidden=Support PIN: (click to show)
+UI/Login/SupportPINInstructions1=Save this in case you lose access to your account
+UI/Login/SupportPINInstructions2=Do not share your support PIN with anyone
+UI/Login/Reminder=Link your account to save your progress
+
+UI/Premium/MustLink1=To make any purchases, you must first
+UI/Premium/MustLink2=link your account to Discord or Apple.
+
+UI/AFKCheck/Title=AFK Check
+UI/AFKCheck/Instructions=Drag the circle until the end
+
+UI/Achievement/Reward=Reward
+UI/Achievement/RewardTP={0} TP
+UI/Achievement/Done=Done
+UI/Achievement/Track=Track
+UI/Achievement/TrackAutomatically=Track automatically
+UI/Achievement/Hidden=???
+UI/Achievement/TotalProgress={0}/{1} completed
+
+UI/Petal/Name={#Petals/{0:base}/Name}
+UI/Petal/FullName={#Petals/{0:base}/FullName}
+UI/Petal/Description={#Petals/{0:base}/Description}
+UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+
+UI/Mob/Name={#Mobs/{0:base}/Name}
+UI/Mob/Description={#Mobs/{0:base}/Description}
+UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
+
+UI/Map/Name={#Maps/{0}/Name}
+
+UI/Talent/Rarity={#Rarities/{0}/Name}
+
+UI/Craft/Title=Craft
+UI/Craft/Button=Craft
+UI/Craft/Chance={0:perc}% success chance
+UI/Craft/UnknownChance=?% success chance
+UI/Craft/CombineInstructions=Combine {0} of the same petal to craft an upgrade
+UI/Craft/FailureInstructions=Failure will destroy {0}-{1} petals
+
+UI/Absorb/Title=Absorb
+UI/Absorb/Button=Absorb
+UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="#FF6666">WARNING: The petals will be destroyed in the process</c>
+
+UI/CoinCraft/Title=Trade
+UI/CoinCraft/Button=Trade
+UI/CoinCraft/Instructions=You can trade a petal for a coin of the same rarity
+UI/CoinCraft/Delay=You'll be able to trade again {0:timeLeft}
+
+UI/OracleCraft/Title=Oracle
+UI/OracleCraft/Button=Craft
+UI/OracleCraft/Instructions=The Oracle will guarantee a craft... for the right price.
+UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
+
+UI/Plinko/Title=Plinko
+UI/Plinko/Auto=Auto
+
+UI/UniqueCraft/Title=Forge
+UI/UniqueCraft/Button=Forge
+UI/UniqueCraft/Instructions=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
+UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
+
+UI/Death/Poison=Poison
+
+UI/Attribute/Health=Health
+UI/Attribute/HealthColored=<c val="#66FF66">{#UI/Attribute/Health}</c>
+
+UI/Attribute/FlowerHealth=Flower Health
+UI/Attribute/FlowerHealthColored=<c val="#66FF66">{#UI/Attribute/FlowerHealth}</c>
+
+UI/Attribute/BodyDamage=Body Damage
+UI/Attribute/BodyDamageColored=<c val="#FF6666">{#UI/Attribute/BodyDamage}</c>
+
+UI/Attribute/Poison=Poison
+UI/Attribute/PoisonColored=<c val="#ce76db">{#UI/Attribute/Poison}</c>
+
+UI/Attribute/Luck=Luck
+UI/Attribute/LuckColored=<c val="#d2eb34">{#UI/Attribute/Luck}</c>
+
+UI/Attribute/Healing=Healing
+UI/Attribute/HealingColored=<c val="#ff94c9">{#UI/Attribute/Healing}</c>
+
+UI/Attribute/RotationSpeed=Rotation Speed
+UI/Attribute/RotationSpeedColored=<c val="#d2eb34">{#UI/Attribute/RotationSpeed}</c>
+
+UI/Attribute/AttackRange=Attack Range
+UI/Attribute/AttackRangeColored=<c val="#d2eb34">{#UI/Attribute/AttackRange}</c>
+
