@@ -425,74 +425,112 @@ Achievements/137/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name}+
 Achievements/138/Name=Magician
 Achievements/138/Description=Equip an {#Petals/{0}/Name}.
 
-Petal/Attribute/Health=<c val="#66FF66">Health:</c> {0:tooltip}
-Petal/Attribute/Damage=<c val="#FF6666">Damage:</c> {0:tooltip}
-Petal/Attribute/Damage/Lightning=<c val="#FF6666">Damage:</c> {0:tooltip} <c val="#36ffe7">(lightning)</c>
-Petal/Attribute/DamageRange=<c val="#FF6666">Damage:</c> {0:tooltip}~{1:tooltip}
-Petal/Attribute/Armor=<c val="#666666">Armor:</c> {0:tooltip}
-Petal/Attribute/RotationSpeed=<c val="#d2eb34">Rotation Speed:</c> +{0:tooltip} rad/s
-Petal/Attribute/Heal=<c val="#ff94c9">Heal:</c> {0:tooltip}
-Petal/Attribute/HealPerSecond=<c val="#ff94c9">Heal:</c> {0:tooltip}/s
-Petal/Attribute/HealPerc=<c val="#ff94c9">Heal:</c> {0:perc}%
-Petal/Attribute/Poison=<c val="#ce76db">Poison:</c> {0:tooltip} ({1:tooltip}/s)
-Petal/Attribute/PoisonPerSecond=<c val="#ce76db">Poison:</c> {0:tooltip}/s
-Petal/Attribute/PoisonResistance=<c val="#ce76db">Poison Resistance:</c> {0:tooltip}/s
-Petal/Attribute/FlowerHealth=<c val="#66FF66">Flower Health:</c> {0:tooltip}
-Petal/Attribute/FlowerHealthPerc=<c val="#66FF66">Flower Health:</c> +{0:perc}%
-Petal/Attribute/Duration=<c val="#6666FF">Duration:</c> {0:tooltipTime}
+Attribute/PoisonNoColon=<c val="{#Colors/poison}">Poison</c>
+
+Flower/Attribute/Health=<c val="{#Colors/health}">Flower Health:</c> {0:tooltip}
+Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">Flower Health</c>
+Flower/Attribute/BodyDamage=<c val="{#Colors/damage}">Body Damage:</c> {0:tooltip}
+Flower/Attribute/BodyDamageNoColon=<c val="{#Colors/damage}">Body Damage</c>
+Flower/Attribute/BodyPoison=<c val="{#Colors/poison}">Body Poison:</c> {0:tooltip} ({1:tooltip}/s)
+Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">Luck</c>
+Flower/Attribute/RotationSpeedNoColon=<c val="{#Colors/generic}">Rotation Speed</c>
+Flower/Attribute/AttackRangeNoColon=<c val="{#Colors/generic}">Attack Range</c>
+Flower/Attribute/HealingNoColon=<c val="{#Colors/heal}">Healing</c>
+
+Mob/Attribute/Health=<c val="{#Colors/health}">Health:</c> {0:tooltip}
+Mob/Attribute/HealthRange=<c val="{#Colors/health}">Health:</c> {0:tooltip}~{1:tooltip}
+Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">Health</c>
+Mob/Attribute/Damage=<c val="{#Colors/damage}">Damage:</c> {0:tooltip}
+Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Damage:</c> {0:tooltip} <c val="{#Colors/lightning}">(lightning)</c>
+Mob/Attribute/Armor=<c val="{#Colors/armor}">Armor:</c> {0:tooltip}
+Mob/Attribute/Poison=<c val="{#Colors/poison}">Poison:</c> {0:tooltip} ({1:tooltip}/s)
+Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Poison:</c> {0:tooltip}/s
+Mob/Attribute/PsyonicConnection=<c val="{#Colors/psyonic}">Psyonic Connection</c>
+Mob/Attribute/PollenHealth=<c val="{#Colors/health}">Pollen Health:</c> {0:tooltip}
+Mob/Attribute/PollenDamage=<c val="{#Colors/damage}">Pollen Damage:</c> {0:tooltip}
+Mob/Attribute/MissileHealth=<c val="{#Colors/health}">Missile Health:</c> {0:tooltip}
+Mob/Attribute/MissileDamage=<c val="{#Colors/damage}">Missile Damage:</c> {0:tooltip}
+Mob/Attribute/MissilePoison=<c val="{#Colors/poison}">Missile Poison:</c> {0:tooltip} ({1:tooltip}/s)
+Mob/Attribute/PearlHealth=<c val="{#Colors/health}">Pearl Health:</c> {0:tooltip}
+Mob/Attribute/PearlDamage=<c val="{#Colors/damage}">Pearl Damage:</c> {0:tooltip}
+Mob/Attribute/DandelionHealth=<c val="{#Colors/health}">Missile Health:</c> {0:tooltip}
+Mob/Attribute/DandelionDamage=<c val="{#Colors/damage}">Missile Damage:</c> {0:tooltip}
+Mob/Attribute/Duration=<c val="{#Colors/duration}">Duration:</c> {0:tooltipTime}
+Mob/Attribute/Swallows=<c val="{#Colors/generic}">Swallows</c>
+Mob/Attribute/ArmorDebuff=<c val="{#Colors/armor}">Armor Debuff:</c> {0:tooltip}
+Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">Lifesteal:</c> {0:tooltip}
+Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Lightning:</c> {0:tooltip}
+Mob/Attribute/Bounces=<c val="{#Colors/generic}">Bounces:</c> {0:tooltip}
+Mob/Attribute/Evasion=<c val="{#Colors/generic}">Evasion:</c> {0:perc}%
+
+Petal/Attribute/Health=<c val="{#Colors/health}">Health:</c> {0:tooltip}
+Petal/Attribute/Damage=<c val="{#Colors/damage}">Damage:</c> {0:tooltip}
+Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">Damage:</c> {0:tooltip} <c val="{#Colors/lightning}">(lightning)</c>
+Petal/Attribute/DamageRange=<c val="{#Colors/damage}">Damage:</c> {0:tooltip}~{1:tooltip}
+Petal/Attribute/Armor=<c val="{#Colors/armor}">Armor:</c> {0:tooltip}
+Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">Rotation Speed:</c> +{0:tooltip} rad/s
+Petal/Attribute/Heal=<c val="{#Colors/heal}">Heal:</c> {0:tooltip}
+Petal/Attribute/HealPerSecond=<c val="{#Colors/heal}">Heal:</c> {0:tooltip}/s
+Petal/Attribute/HealPerc=<c val="{#Colors/heal}">Heal:</c> {0:perc}%
+Petal/Attribute/Poison=<c val="{#Colors/poison}">Poison:</c> {0:tooltip} ({1:tooltip}/s)
+Petal/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Poison:</c> {0:tooltip}/s
+Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">Poison Resistance:</c> {0:tooltip}/s
+Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">Flower Health:</c> {0:tooltip}
+Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">Flower Health:</c> +{0:perc}%
+Petal/Attribute/Duration=<c val="{#Colors/duration}">Duration:</c> {0:tooltipTime}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
-Petal/Attribute/Contents1=<c val="#d2eb34">Contents:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
-Petal/Attribute/ContentsN=<c val="#d2eb34">Contents:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
-Petal/Attribute/ExtraVision=<c val="#d2eb34">Extra Vision:</c> {0:perc}%
-Petal/Attribute/Radius=<c val="#d2eb34">Radius:</c> {0:tooltip}
-Petal/Attribute/MaxMobRarity=<c val="#d2eb34">Max Mob Rarity:</c> {#Rarities/{0}/NameColored}
-Petal/Attribute/DamageReflection=<c val="#999999">Damage Reflection:</c> {0:perc}% (vs {#Rarities/{2}/NameColored} mobs), {1:perc}% (vs flowers)
-Petal/Attribute/PickUpRange=<c val="#d2eb34">Pickup Range:</c> +{0:tooltip}
-Petal/Attribute/Lightning=<c val="#36ffe7">Lightning:</c> {0:tooltip}
-Petal/Attribute/Bounces=<c val="#d2eb34">Bounces:</c> {0:tooltip}
-Petal/Attribute/Knockback=<c val="#d2eb34">Knockback:</c> {0:tooltip}
-Petal/Attribute/ExtraDamage=<c val="#FF6666">Extra Damage:</c> {0:tooltip}
-Petal/Attribute/Shield=<c val="#d2eb34">Shield:</c> {0:tooltip}
-Petal/Attribute/BodyDamage=<c val="#FF6666">Body Damage:</c> {0:tooltip}
-Petal/Attribute/Period=<c val="#d2eb34">Period:</c> {0:tooltipTime}
-Petal/Attribute/FlowerRadius=<c val="#d2eb34">Flower Radius:</c> +{0:tooltip}
-Petal/Attribute/DamageHealed=<c val="#ff94c9">Damage Healed:</c> {0:perc}%
-Petal/Attribute/AttackRange=<c val="#d2eb34">Attack Range:</c> +{0:tooltip}
+Petal/Attribute/Contents1=<c val="{#Colors/generic}">Contents:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Contents:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">Extra Vision:</c> {0:perc}%
+Petal/Attribute/Radius=<c val="{#Colors/generic}">Radius:</c> {0:tooltip}
+Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">Max Mob Rarity:</c> {#Rarities/{0}/NameColored}
+Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">Damage Reflection:</c> {0:perc}% (vs {#Rarities/{2}/NameColored} mobs), {1:perc}% (vs flowers)
+Petal/Attribute/PickUpRange=<c val="{#Colors/generic}">Pickup Range:</c> +{0:tooltip}
+Petal/Attribute/Lightning=<c val="{#Colors/lightning}">Lightning:</c> {0:tooltip}
+Petal/Attribute/Bounces=<c val="{#Colors/generic}">Bounces:</c> {0:tooltip}
+Petal/Attribute/Knockback=<c val="{#Colors/generic}">Knockback:</c> {0:tooltip}
+Petal/Attribute/ExtraDamage=<c val="{#Colors/damage}">Extra Damage:</c> {0:tooltip}
+Petal/Attribute/Shield=<c val="{#Colors/generic}">Shield:</c> {0:tooltip}
+Petal/Attribute/BodyDamage=<c val="{#Colors/damage}">Body Damage:</c> {0:tooltip}
+Petal/Attribute/Period=<c val="{#Colors/generic}">Period:</c> {0:tooltipTime}
+Petal/Attribute/FlowerRadius=<c val="{#Colors/generic}">Flower Radius:</c> +{0:tooltip}
+Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">Damage Healed:</c> {0:perc}%
+Petal/Attribute/AttackRange=<c val="{#Colors/generic}">Attack Range:</c> +{0:tooltip}
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
-Petal/Attribute/Spawn1=<c val="#d2eb34">Spawn:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
-Petal/Attribute/SpawnN=<c val="#d2eb34">Spawn:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
-Petal/Attribute/Luck=<c val="#d2eb34">Luck:</c> +{0:tooltip}
-Petal/Attribute/MovementSpeed=<c val="#d2eb34">Movement Speed:</c> +{0:perc}%
-Petal/Attribute/HealBonus=<c val="#ff94c9">Heal Bonus:</c> +{0:perc}%
-Petal/Attribute/MobAggroRange=<c val="#d2eb34">Mob Aggro Range:</c> -{0:perc}%
-Petal/Attribute/FlowerKnockback=<c val="#d2eb34">Flower Knockback:</c> +{0:tooltip}
-Petal/Attribute/SelfDamage=<c val="#FF6666">Self Damage:</c> {0:tooltip}
-Petal/Attribute/ArmorDebuff=<c val="#666666">Armor Debuff:</c> {0:tooltip}
-Petal/Attribute/FlowerArmor=<c val="#666666">Flower Armor:</c> {0:tooltip}
-Petal/Attribute/FlowerEvasion=<c val="#d2eb34">Flower Evasion:</c> +{0:perc}%
-Petal/Attribute/Charges=<c val="#d2eb34">Charges:</c> {0:tooltip}
-Petal/Attribute/OverhealConversion=<c val="#d2eb34">Overheal Conversion:</c> +{0:perc}%
-Petal/Attribute/AffectedByMagnets=<c val="#d2eb34">Affected by Magnets</c>
-Petal/Attribute/CanFindSquares=<c val="#d2eb34">Can find mobs that do not belong</c>
-Petal/Attribute/CollisionDamageResistance=<c val="#d2eb34">Collision Damage Resistance:</c> +{0:perc}%
-Petal/Attribute/Evasion=<c val="#d2eb34">Evasion:</c> {0:perc}%
-Petal/Attribute/Health4=<c val="#66FF66">Health:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
-Petal/Attribute/Damage4=<c val="#FF6666">Damage:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
-Petal/Attribute/ExtraPoison=<c val="#ce76db">Extra Poison:</c> {0:tooltip}s
-Petal/Attribute/Interval=<c val="#d2eb34">Interval:</c> {0:tooltipTime}
-Petal/Attribute/CorruptsFlowersAround=<c val="#d2eb34">Corrupts flowers around you.</c>
-Petal/Attribute/CannotBeUnequipped=<c val="#d2eb34">Cannot be unequipped.</c>
-Petal/Attribute/PetalLostOnDeath=<c val="#FF3333">Petal is lost on death.</c>
-Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="#d2eb34">Cannot be unequipped while alive.</c>
-Petal/Attribute/Mana=<c val="#42e3f5">Mana:</c> {0:tooltip}
-Petal/Attribute/ManaPerSecond=<c val="#42e3f5">Mana:</c> {0:tooltip}/s
-Petal/Attribute/BaseMaxMana=<c val="#42e3f5">Base Max Mana:</c> {0:tooltip}
-Petal/Attribute/MaxMana=<c val="#42e3f5">Max Mana:</c> +{0:tooltip}
-Petal/Attribute/AllowsFindingMagicPetals=<c val="#42e3f5">Allows finding magic petals.</c>
-Petal/Attribute/DamageAbsorptionPerMana=<c val="#d2eb34">Damage Absorption:</c> {0:tooltip}/<c val="#42e3f5">mana</c>
-Petal/Attribute/LightningPerMana=<c val="#36ffe7">Lightning:</c> {0:tooltip}/<c val="#42e3f5">mana</c>
-Petal/Attribute/SpawnManaCost=<c val="#d2eb34">Spawn Cost:</c> {0:tooltip} <c val="#42e3f5">mana</c>
-Petal/Attribute/MaintenanceManaCost=<c val="#d2eb34">Maintenance Cost:</c> {0:tooltip} <c val="#42e3f5">mana</c>/s
+Petal/Attribute/Spawn1=<c val="{#Colors/generic}">Spawn:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/SpawnN=<c val="{#Colors/generic}">Spawn:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Luck=<c val="{#Colors/generic}">Luck:</c> +{0:tooltip}
+Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">Movement Speed:</c> +{0:perc}%
+Petal/Attribute/HealBonus=<c val="{#Colors/heal}">Heal Bonus:</c> +{0:perc}%
+Petal/Attribute/MobAggroRange=<c val="{#Colors/generic}">Mob Aggro Range:</c> -{0:perc}%
+Petal/Attribute/FlowerKnockback=<c val="{#Colors/generic}">Flower Knockback:</c> +{0:tooltip}
+Petal/Attribute/SelfDamage=<c val="{#Colors/damage}">Self Damage:</c> {0:tooltip}
+Petal/Attribute/ArmorDebuff=<c val="{#Colors/armor}">Armor Debuff:</c> {0:tooltip}
+Petal/Attribute/FlowerArmor=<c val="{#Colors/armor}">Flower Armor:</c> {0:tooltip}
+Petal/Attribute/FlowerEvasion=<c val="{#Colors/generic}">Flower Evasion:</c> +{0:perc}%
+Petal/Attribute/Charges=<c val="{#Colors/generic}">Charges:</c> {0:tooltip}
+Petal/Attribute/OverhealConversion=<c val="{#Colors/generic}">Overheal Conversion:</c> +{0:perc}%
+Petal/Attribute/AffectedByMagnets=<c val="{#Colors/generic}">Affected by Magnets</c>
+Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">Can find mobs that do not belong</c>
+Petal/Attribute/CollisionDamageResistance=<c val="{#Colors/generic}">Collision Damage Resistance:</c> +{0:perc}%
+Petal/Attribute/Evasion=<c val="{#Colors/generic}">Evasion:</c> {0:perc}%
+Petal/Attribute/Health4=<c val="{#Colors/health}">Health:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/Damage4=<c val="{#Colors/damage}">Damage:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/ExtraPoison=<c val="{#Colors/poison}">Extra Poison:</c> {0:tooltip}s
+Petal/Attribute/Interval=<c val="{#Colors/generic}">Interval:</c> {0:tooltipTime}
+Petal/Attribute/CorruptsFlowersAround=<c val="{#Colors/generic}">Corrupts flowers around you.</c>
+Petal/Attribute/CannotBeUnequipped=<c val="{#Colors/generic}">Cannot be unequipped.</c>
+Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">Petal is lost on death.</c>
+Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="{#Colors/generic}">Cannot be unequipped while alive.</c>
+Petal/Attribute/Mana=<c val="{#Colors/mana}">Mana:</c> {0:tooltip}
+Petal/Attribute/ManaPerSecond=<c val="{#Colors/mana}">Mana:</c> {0:tooltip}/s
+Petal/Attribute/BaseMaxMana=<c val="{#Colors/mana}">Base Max Mana:</c> {0:tooltip}
+Petal/Attribute/MaxMana=<c val="{#Colors/mana}">Max Mana:</c> +{0:tooltip}
+Petal/Attribute/AllowsFindingMagicPetals=<c val="{#Colors/mana}">Allows finding magic petals.</c>
+Petal/Attribute/DamageAbsorptionPerMana=<c val="{#Colors/generic}">Damage Absorption:</c> {0:tooltip}/<c val="{#Colors/mana}">mana</c>
+Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">Lightning:</c> {0:tooltip}/<c val="{#Colors/mana}">mana</c>
+Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">Spawn Cost:</c> {0:tooltip} <c val="{#Colors/mana}">mana</c>
+Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">Maintenance Cost:</c> {0:tooltip} <c val="{#Colors/mana}">mana</c>/s
 
 Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Mobs/{0:base}/Name}
 Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
@@ -536,6 +574,12 @@ Chat/ServerClosing=This server is scheduled to close {0:timeLeft}.
 Chat/ServerClosed=Server is closed, time to leave.
 Chat/ServerNoLongerClosing=Server is no longer scheduled to close.
 
+Chat/Squad/Created=Squad {0} created.
+Chat/Squad/Joined=Joined squad.
+Chat/Squad/Left=Left squad.
+Chat/Squad/MemberJoined={0} has joined the squad.
+Chat/Squad/MemberLeft={0} has left the squad.
+
 Chat/Channel/Local=Local
 Chat/Channel/Squad=Squad
 Chat/Channel/Guild=Guild
@@ -574,10 +618,11 @@ Chat/CommandError/InternalError=Internal error.
 Chat/CommandError/InvalidPetalArgument=Invalid petal id.
 Chat/CommandError/InvalidWhisperTarget=Invalid target.
 Chat/CommandError/WhisperTargetNotFound=Target not found.
-Chat/CommandError/WhisperTargetNotConnected=Target not connected or not accepting
+Chat/CommandError/WhisperTargetNotConnected=Target not connected or not accepting whispers.
 Chat/CommandError/WhisperSelf=You can keep those thoughts in your head.
 Chat/CommandError/GuestsCannotSendWhispers=Guests cannot send whispers.
 Chat/CommandError/GuestsCannotReceiveWhispers=Guests cannot receive whispers.
+Chat/CommandError/WhispersDisabled=You cannot send whispers if you have whispers disabled in the settings.
 
 UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} - {#Chat/Command/{0}/Description}
 
@@ -1159,7 +1204,7 @@ Petals/uranium/Description=Periodically releases radiation.<n/>-75% damage versu
 
 Petals/sponge/Name=Sponge
 Petals/sponge/FullName=Sponge
-Petals/sponge/Description=Spreads damage taken by the flower over a period of time.<n/>If destroyed, deals remaining damage all at once.<n/>Does not delay {#UI/Attribute/PoisonColored} damage.
+Petals/sponge/Description=Spreads damage taken by the flower over a period of time.<n/>If destroyed, deals remaining damage all at once.<n/>Does not delay {#Attribute/PoisonNoColon} damage.
 
 Petals/soil/Name=Soil
 Petals/soil/FullName=Soil
@@ -1311,7 +1356,7 @@ Petals/moon/Description=This thing is so big your petals orbit it instead.<n/>Wh
 
 Petals/privet/Name=Privet
 Petals/privet/FullName=Privet Berry
-Petals/privet/Description=Deals extra {#UI/Attribute/PoisonColored} damage based on the existing {#UI/Attribute/PoisonColored} damage per second.
+Petals/privet/Description=Deals extra {#Attribute/PoisonNoColon} damage based on the existing {#Attribute/PoisonNoColon} damage per second.
 
 Petals/glass/Name=Glass
 Petals/glass/FullName=Glass
@@ -1392,47 +1437,47 @@ Petals/mecha_missile/Description=Locked on.
 Rarities/common/Name=Common
 Rarities/common/ArticleUpper=A
 Rarities/common/Article=a
-Rarities/common/NameColored=<c val="#7EEF6D">{#Rarities/common/Name}</c>
+Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
 
 Rarities/unusual/Name=Unusual
 Rarities/unusual/ArticleUpper=An
 Rarities/unusual/Article=an
-Rarities/unusual/NameColored=<c val="#FFE65D">{#Rarities/unusual/Name}</c>
+Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
 
 Rarities/rare/Name=Rare
 Rarities/rare/ArticleUpper=A
 Rarities/rare/Article=a
-Rarities/rare/NameColored=<c val="#4d52e3">{#Rarities/rare/Name}</c>
+Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
 
 Rarities/epic/Name=Epic
 Rarities/epic/ArticleUpper=An
 Rarities/epic/Article=an
-Rarities/epic/NameColored=<c val="#861FDE">{#Rarities/epic/Name}</c>
+Rarities/epic/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Name}</c>
 
 Rarities/legendary/Name=Legendary
 Rarities/legendary/ArticleUpper=A
 Rarities/legendary/Article=a
-Rarities/legendary/NameColored=<c val="#DE1F1F">{#Rarities/legendary/Name}</c>
+Rarities/legendary/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Name}</c>
 
 Rarities/mythic/Name=Mythic
 Rarities/mythic/ArticleUpper=A
 Rarities/mythic/Article=a
-Rarities/mythic/NameColored=<c val="#1fdbde">{#Rarities/mythic/Name}</c>
+Rarities/mythic/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Name}</c>
 
 Rarities/ultra/Name=Ultra
 Rarities/ultra/ArticleUpper=An
 Rarities/ultra/Article=an
-Rarities/ultra/NameColored=<c val="#ff2b75">{#Rarities/ultra/Name}</c>
+Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
 
 Rarities/super/Name=Super
 Rarities/super/ArticleUpper=A
 Rarities/super/Article=a
-Rarities/super/NameColored=<c val="#2bffa3">{#Rarities/super/Name}</c>
+Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
 
 Rarities/unique/Name=Unique
 Rarities/unique/ArticleUpper=A
 Rarities/unique/Article=a
-Rarities/unique/NameColored=<c val="#555555">{#Rarities/unique/Name}</c>
+Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>
 
 Talents/crafting/Name=Crafting
 Talents/crafting/Description=Unlocks the ability to craft <c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name}</c> petals
@@ -1474,7 +1519,7 @@ Talents/inventory10/Name=Inventory
 Talents/inventory10/Description=Enables a 10th loadout slot to equip petals.
 
 Talents/health/Name=Health
-Talents/health/Description=Increases base {#UI/Attribute/FlowerHealthColored} by {0:perc}%.
+Talents/health/Description=Increases base {#Flower/Attribute/HealthNoColon} by {0:perc}%.
 
 Talents/health1/Name={#Talents/health/Name}
 Talents/health1/Description={#Talents/health/Description}
@@ -1501,7 +1546,7 @@ Talents/health8/Name={#Talents/health/Name}
 Talents/health8/Description={#Talents/health/Description}
 
 Talents/luck/Name=Luck
-Talents/luck/Description=Increases {#UI/Attribute/LuckColored} by {0:tooltip}.<n/>Luck is used by specific petals to change their stats.
+Talents/luck/Description=Increases {#Flower/Attribute/LuckNoColon} by {0:tooltip}.<n/>Luck is used by specific petals to change their stats.
 
 Talents/luck1/Name={#Talents/luck/Name}
 Talents/luck1/Description={#Talents/luck/Description}
@@ -1516,7 +1561,7 @@ Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
 Talents/medic/Name=Medic
-Talents/medic/Description=Increases {#UI/Attribute/HealingColored} from your petals by {0:perc}%.<n/>Affects allies healed by your petals.
+Talents/medic/Description=Increases {#Flower/Attribute/HealingNoColon} from your petals by {0:perc}%.<n/>Affects allies healed by your petals.
 
 Talents/medic1/Name={#Talents/medic/Name}
 Talents/medic1/Description={#Talents/medic/Description}
@@ -1543,7 +1588,7 @@ Talents/medic8/Name={#Talents/medic/Name}
 Talents/medic8/Description={#Talents/medic/Description}
 
 Talents/summoner/Name=Summoner
-Talents/summoner/Description=Increases {#UI/Attribute/HealthColored} of summoned mobs by {0:perc}%.
+Talents/summoner/Description=Increases {#Mob/Attribute/HealthNoColon} of summoned mobs by {0:perc}%.
 
 Talents/summoner1/Name={#Talents/summoner/Name}
 Talents/summoner1/Description={#Talents/summoner/Description}
@@ -1594,7 +1639,7 @@ Talents/reload8/Name=Reload
 Talents/reload8/Description=Decreases the reload time for petals from -{1:perc}% to -{0:perc}%.
 
 Talents/body_damage/Name=Sharp Edges
-Talents/body_damage/Description=Increases {#UI/Attribute/BodyDamageColored} by {0:perc}%.
+Talents/body_damage/Description=Increases {#Flower/Attribute/BodyDamageNoColon} by {0:perc}%.
 
 Talents/body_damage1/Name={#Talents/body_damage/Name}
 Talents/body_damage1/Description={#Talents/body_damage/Description}
@@ -1621,7 +1666,7 @@ Talents/body_damage8/Name={#Talents/body_damage/Name}
 Talents/body_damage8/Description={#Talents/body_damage/Description}
 
 Talents/petal_rotation/Name=Petal Rotation
-Talents/petal_rotation/Description=Increases petal {#UI/Attribute/RotationSpeedColored} from {1:tooltip} to {0:tooltip} rad/s.
+Talents/petal_rotation/Description=Increases petal {#Flower/Attribute/RotationSpeedNoColon} from {1:tooltip} to {0:tooltip} rad/s.
 
 Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
 Talents/petal_rotation1/Description={#Talents/petal_rotation/Description}
@@ -1639,7 +1684,7 @@ Talents/petal_rotation5/Name={#Talents/petal_rotation/Name}
 Talents/petal_rotation5/Description={#Talents/petal_rotation/Description}
 
 Talents/reach/Name=Reach
-Talents/reach/Description=Increases petal {#UI/Attribute/AttackRangeColored} by {0:tooltip}.
+Talents/reach/Description=Increases petal {#Flower/Attribute/AttackRangeNoColon} by {0:tooltip}.
 
 Talents/reach1/Name={#Talents/reach/Name}
 Talents/reach1/Description={#Talents/reach/Description}
@@ -1660,10 +1705,10 @@ Talents/magnetism/Name=Magnetism
 Talents/magnetism/Description=Increases petal pick up range by {0} while alive.
 
 Talents/body_toxicity/Name=Body Toxicity
-Talents/body_toxicity/Description=When colliding with an enemy, deals additional damage<n/>equal to {0:tooltip}x {#UI/Attribute/BodyDamageColored} as {#UI/Attribute/PoisonColored} over {1:tooltip}s.
+Talents/body_toxicity/Description=When colliding with an enemy, deals additional damage<n/>equal to {0:tooltip}x {#Flower/Attribute/BodyDamageNoColon} as {#Attribute/PoisonNoColon} over {1:tooltip}s.
 
 Talents/poison/Name=Poison
-Talents/poison/Description=Increases all {#UI/Attribute/PoisonColored} damage by {0:perc}%.
+Talents/poison/Description=Increases all {#Attribute/PoisonNoColon} damage by {0:perc}%.
 
 Talents/poison1/Name={#Talents/poison/Name}
 Talents/poison1/Description={#Talents/poison/Description}
@@ -1690,7 +1735,7 @@ Talents/poison8/Name={#Talents/poison/Name}
 Talents/poison8/Description={#Talents/poison/Description}
 
 Talents/concentrated_poison/Name=Concentrated Poison
-Talents/concentrated_poison/Description=Increases {#UI/Attribute/PoisonColored} damage per second by {0:perc}%.<n/>Decreases {#UI/Attribute/PoisonColored} duration by {1:perc}%.
+Talents/concentrated_poison/Description=Increases {#Attribute/PoisonNoColon} damage per second by {0:perc}%.<n/>Decreases {#Attribute/PoisonNoColon} duration by {1:perc}%.
 
 Talents/duplicator/Name=Duplicator
 Talents/duplicator/Description=Adds an extra copy for petals that have at least {0:tooltip} copies.
@@ -1714,37 +1759,52 @@ Tutorial/Done=Done
 
 UI/Language/Name=English (US)
 
-UI/Time/1day=1 day
-UI/Time/Ndays={0} days
-UI/Time/Nhours={0} hours
-UI/Time/1minute=1 minute
-UI/Time/Nminutes={0} minutes
-UI/Time/1second=1 second
-UI/Time/Nseconds={0} seconds
+UI/Time/Days={#UI/Time/Days/{0:1orN}}
+UI/Time/Hours={#UI/Time/Hours/{0:1orN}}
+UI/Time/Minutes={#UI/Time/Minutes/{0:1orN}}
+UI/Time/Seconds={#UI/Time/Seconds/{0:1orN}}
 UI/Time/Now=immediately
 
-UI/TooltipTime/1day=1 day
-UI/TooltipTime/Ndays={0:tooltip} days
-UI/TooltipTime/Nhours={0:tooltip} hours
-UI/TooltipTime/1minute=1 minute
-UI/TooltipTime/Nminutes={0:tooltip} minutes
-UI/TooltipTime/1second=1 second
-UI/TooltipTime/Nseconds={0:tooltip} seconds
+UI/TimeLeft/Days=in {#UI/Time/Days/{0:1orN}}
+UI/TimeLeft/Hours=in {#UI/Time/Hours/{0:1orN}}
+UI/TimeLeft/Minutes=in {#UI/Time/Minutes/{0:1orN}}
+UI/TimeLeft/Seconds=in {#UI/Time/Seconds/{0:1orN}}
+UI/TimeLeft/Now=immediately
+
+UI/TooltipTime/Days={#UI/TooltipTime/Days/{0:1orN}}
+UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{0:1orN}}
+UI/TooltipTime/Minutes={#UI/TooltipTime/Minutes/{0:1orN}}
+UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{0:1orN}}
 UI/TooltipTime/Now=immediately
 
-UI/TimeLeft/1day=in 1 day
-UI/TimeLeft/Ndays=in {0} days
-UI/TimeLeft/Nhours=in {0} hours
-UI/TimeLeft/1minute=in 1 minute
-UI/TimeLeft/Nminutes=in {0} minutes
-UI/TimeLeft/1second=in 1 second
-UI/TimeLeft/Nseconds=in {0} seconds
-UI/TimeLeft/Now=any second now
+# Helpers
+UI/Time/Days=1 day
+UI/Time/Days/N={0} days
+UI/Time/Hours/1= hour
+UI/Time/Hours/N={0} hours
+UI/Time/Minutes/1=1 minute
+UI/Time/Minutes/N={0} minutes
+UI/Time/Seconds/1=1 second
+UI/Time/Seconds/N={0} seconds
+
+UI/TooltipTime/Days=1 day
+UI/TooltipTime/Days/N={0:tooltip} days
+UI/TooltipTime/Hours/1= hour
+UI/TooltipTime/Hours/N={0:tooltip} hours
+UI/TooltipTime/Minutes/1=1 minute
+UI/TooltipTime/Minutes/N={0:tooltip} minutes
+UI/TooltipTime/Seconds/1=1 second
+UI/TooltipTime/Seconds/N={0:tooltip} seconds
 
 UI/Title/Loading=Loading...
 UI/Title/Connecting=Connecting...
 UI/Title/LoggingIn=Logging in...
 UI/Title/Ready=Ready
+UI/Title/GuestName=Guest
+UI/Title/GuestLimitation=You can choose a nickname once you link an account or get level {0}.
+UI/Title/Name/Bad=Your nickname was reset, please choose a new one.
+UI/Title/Name/AlreadyTaken=Nickname already taken.
+UI/Title/Name/InternalError=Internal error, try again later.
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
 UI/Title/Biome/0=Garden
@@ -1753,6 +1813,7 @@ UI/Title/Biome/2=Ocean
 UI/Title/Biome/3=Jungle
 UI/Title/Biome/4=Hel
 
+UI/Login/Title=Account
 UI/Login/PlayAsGuest=Play as guest
 UI/Login/SignInApple=Sign in with Apple
 UI/Login/SignInDiscord=Sign in with Discord
@@ -1769,19 +1830,86 @@ UI/Login/SupportPINInstructions1=Save this in case you lose access to your accou
 UI/Login/SupportPINInstructions2=Do not share your support PIN with anyone
 UI/Login/Reminder=Link your account to save your progress
 
-UI/Premium/MustLink1=To make any purchases, you must first
-UI/Premium/MustLink2=link your account to Discord or Apple.
+UI/Social/Discord=Join our Discord community!
+UI/Social/QQ=加入我们的QQ群!
 
 UI/AFKCheck/Title=AFK Check
 UI/AFKCheck/Instructions=Drag the circle until the end
 
-UI/Achievement/Reward=Reward
-UI/Achievement/RewardTP={0} TP
-UI/Achievement/Done=Done
-UI/Achievement/Track=Track
-UI/Achievement/TrackAutomatically=Track automatically
-UI/Achievement/Hidden=???
-UI/Achievement/TotalProgress={0}/{1} completed
+UI/Achievements/Title=Achievements
+UI/Achievements/Reward=Reward
+UI/Achievements/RewardTP={0} TP
+UI/Achievements/Done=Done
+UI/Achievements/Track=Track
+UI/Achievements/TrackAutomatically=Track automatically
+UI/Achievements/Hidden=???
+UI/Achievements/TotalProgress={0}/{1} completed
+
+UI/MobGallery/Title=Mob Gallery
+
+UI/Changelog/Title=Changelog
+
+UI/Inventory/Title=Inventory
+UI/Inventory/Stack=Stack
+UI/Inventory/Instructions=Drag a petal to equip it
+
+UI/Guild/Title=Guild
+UI/Guild/NoGuild=You don't have a guild yet
+UI/Guild/Invite=You've been invited to:
+UI/Guild/Invite/Button=Accept
+UI/Guild/Invite/Expiration=This invitation will expire soon if not accepted
+UI/Guild/ChatSetting=Chat
+UI/Guild/SquadButton=Squad
+UI/Guild/KickButton=Kick
+UI/Guild/Leader=(Leader)
+UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
+UI/Guild/Members/1=Member (1)
+UI/Guild/Members/N=Members ({0})
+UI/Guild/LeaveButton=Leave
+UI/Guild/Leave/Title=Leave guild
+UI/Guild/Leave/Instructions=Are you sure?
+UI/Guild/Leave/Confirm=Leave
+UI/Guild/Leave/Cancel=Cancel
+
+UI/Squad/Title=Squad
+UI/Squad/Error/NotAllowed=Squads not allowed in this mode
+UI/Squad/Error/Spam=You're doing that too much
+UI/Squad/Error/DoesNotExist=Squad does not exist
+UI/Squad/Error/CannotJoin=You can't join this squad
+UI/Squad/Error/LevelDifference=Your level isn't close enough to the squad level
+UI/Squad/Error/Full=Squad is full
+
+UI/Shop/Title=Shop
+UI/Shop/Button=Shop
+UI/Shop/Instructions=Today's offers:
+UI/Shop/TimeLeft=Store will change {0:timeLeft}
+UI/Shop/Lock=Lock
+UI/Shop/LockedChanged=Store will change once unlocked.
+UI/Shop/LockedNoChange=Store will not change while locked.
+UI/Shop/StarsHelp1=You gain stars by completing challenges, or you can
+UI/Shop/StarsHelp2=buy some by clicking the number on the right.
+UI/Shop/MustLink1=To make any purchases, you must first
+UI/Shop/MustLink2=link your account to Discord or Apple.
+UI/Shop/MustLinkCancel=Cancel
+UI/Shop/BuyStars/Instructions=In case of any issues with your purchase,<n/>please contact our payment processor:<n/>support@xsolla.com or live chat at xsolla.com.
+UI/Shop/BuyStars/Extra=I have too much money
+UI/Shop/BuyStars/Cancel=Cancel
+UI/Shop/BuyPetal/Title=Confirm
+UI/Shop/BuyPetal/Instructions=Are you sure you want to buy this?<n/><c val="{#Colors/danger}">Petal purchases are not refundable</c>
+UI/Shop/BuyPetal/Cancel=Cancel
+UI/Shop/MagicPetalError/Title=Error
+UI/Shop/MagicPetalError/Instructions=You cannot buy magic petals<n/>until you have a {#Petals/{0}/FullName}.
+UI/Shop/MagicPetalError/Cancel=Cancel
+UI/Shop/Loyalty/Title=Thank you!
+UI/Shop/Loyalty/Instructions=As a thank you for your support,<n/>we'd like to give you some stars, for free.<n/><n/>This is the equivalent of what you'd have gotten had you spent<n/>the same amount of money you already did, but with larger packages.
+
+
+UI/DailyChallenge/Title=Challenge
+UI/DailyChallenge/Button=Challenge
+UI/DailyChallenge/Instructions=Defeat these enemies:
+UI/DailyChallenge/TimeLeft=Challenges will change {0:timeLeft}
+UI/DailyChallenge/Claimed=Claimed
+UI/DailyChallenge/SupportersOnly=Challenge available<n/>for supporters only.
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
@@ -1794,7 +1922,17 @@ UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
 
 UI/Map/Name={#Maps/{0}/Name}
 
+UI/Achievements/Name={#Achievements/{0}/Name:1-}
+UI/Achievements/Description={#Achievements/{0}/Description:1-}
+UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+
+UI/Talent/Title=Talents
+UI/Talent/Name={#Talents/{0}/Name:1-}
+UI/Talent/Description={#Talents/{0}/Description:1-}
 UI/Talent/Rarity={#Rarities/{0}/Name}
+UI/Talent/TP=TP
+UI/Talent/Tooltip=You can acquire more TP by leveling up
+UI/Talent/Reset=Reset
 
 UI/Craft/Title=Craft
 UI/Craft/Button=Craft
@@ -1805,7 +1943,7 @@ UI/Craft/FailureInstructions=Failure will destroy {0}-{1} petals
 
 UI/Absorb/Title=Absorb
 UI/Absorb/Button=Absorb
-UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="#FF6666">WARNING: The petals will be destroyed in the process</c>
+UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="{#Colors/danger}">WARNING: The petals will be destroyed in the process</c>
 
 UI/CoinCraft/Title=Trade
 UI/CoinCraft/Button=Trade
@@ -1827,27 +1965,58 @@ UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
 
 UI/Death/Poison=Poison
 
-UI/Attribute/Health=Health
-UI/Attribute/HealthColored=<c val="#66FF66">{#UI/Attribute/Health}</c>
+UI/Settings/Title=Settings
+UI/Settings/Game=Game
+UI/Settings/Graphics=Graphics
+UI/Settings/Controls=Controls
+UI/Settings/Credits=Credits
 
-UI/Attribute/FlowerHealth=Flower Health
-UI/Attribute/FlowerHealthColored=<c val="#66FF66">{#UI/Attribute/FlowerHealth}</c>
+UI/Settings/Realm=Realm
+UI/Settings/Realms={#UI/Settings/Realms/{0}}
+UI/Settings/Realms/0=Automatic
+UI/Settings/Realms/1=Juliett (US)
+UI/Settings/Realms/2=Romeo (EU)
+UI/Settings/Realms/3=Sierra (ASIA)
 
-UI/Attribute/BodyDamage=Body Damage
-UI/Attribute/BodyDamageColored=<c val="#FF6666">{#UI/Attribute/BodyDamage}</c>
+UI/Settings/Chat=Chat
+UI/Settings/ChatWhispers=Chat Whispers
 
-UI/Attribute/Poison=Poison
-UI/Attribute/PoisonColored=<c val="#ce76db">{#UI/Attribute/Poison}</c>
+UI/Settings/AutoJoinSquads=Auto-join squads
 
-UI/Attribute/Luck=Luck
-UI/Attribute/LuckColored=<c val="#d2eb34">{#UI/Attribute/Luck}</c>
+UI/Settings/HideOtherPetals=Hide other petals
 
-UI/Attribute/Healing=Healing
-UI/Attribute/HealingColored=<c val="#ff94c9">{#UI/Attribute/Healing}</c>
+UI/Settings/EquipDrops=Equip drops
 
-UI/Attribute/RotationSpeed=Rotation Speed
-UI/Attribute/RotationSpeedColored=<c val="#d2eb34">{#UI/Attribute/RotationSpeed}</c>
+UI/Settings/Quality=Quality
+UI/Settings/Quality/Low=Low
+UI/Settings/Quality/Medium=Medium
+UI/Settings/Quality/High=High
 
-UI/Attribute/AttackRange=Attack Range
-UI/Attribute/AttackRangeColored=<c val="#d2eb34">{#UI/Attribute/AttackRange}</c>
+UI/Settings/ShowDamageNumbers=Show damage numbers
+
+UI/Settings/ScreenShake=Screen shake
+
+UI/Settings/LiveIcons=Live icons
+
+UI/Settings/TouchControls=Touch controls
+
+UI/Settings/KeyboardMovement=Keyboard movement
+
+UI/Settings/MovementHelper=Movement helper
+
+UI/Settings/FixedJoystick=Fixed joystick
+
+UI/Settings/AutoSaveLoadout=Auto-save loadout
+
+UI/Settings/PrivacyPolicy=Privacy Policy
+UI/Settings/TermsOfService=Terms of Service
+
+UI/Credits/MadeBy=Made by {0}
+UI/Credits/SomeIcons=Some icons from {0}
+UI/Credits/SomeTiles=Some tiles from {0}
+UI/Credits/SpecialThanks=Special Thanks
+
+# The little arrows around dead flowers
+UI/HelperText/Guild=Guild
+UI/HelperText/Squad=Squad
 
