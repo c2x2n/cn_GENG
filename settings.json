@@ -1,5 +1,8 @@
 {
-    "v": "78176563857d90fa3fd3c314d1f6016ee8c09436",
-    "vh": "v01283",
-    "changelog": {"v01283": ["Fixed some bugs.","The Translation text file is updated to the newest version."]}
+    "v": "18e004c0516ee1dbc8c890b733d1da06d9377f61",
+    "vh": "v01291",
+    "changelog": {
+        "v01291": ["The Translation text file was updated. (2025/1/29)"],
+        "v01283": ["Fixed some bugs.","The Translation text file is updated to the newest version."]
+    }
 }
