@@ -1,8 +1,7 @@
 {
-    "v": "82155ecd7966484d3221240720baa5e1a70127bf",
-    "vh": "v01291",
+    "v": "dbe0e14cf0cab5ef39d9fa3112194d6dd70b7f42",
+    "vh": "v01301",
     "changelog": {
-        "v01291": ["The Translation text file was updated. (2025/1/29)"],
-        "v01283": ["Fixed some bugs.","The Translation text file is updated to the newest version."]
+        "v01301": ["已公开翻译文件。"]
     }
 }
