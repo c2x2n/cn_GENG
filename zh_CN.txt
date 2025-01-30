@@ -218,7 +218,7 @@ Achievements/68/Description=在冥界生存{0:time}。
 Achievements/69/Name=技术问题
 Achievements/69/Description=找到死亡的开发者尸体。
 
-Achievements/70/Name=这是...白蚁？
+Achievements/70/Name=这是……白蚁？
 Achievements/70/Description=召唤一个友好的白蚁。
 
 Achievements/71/Name=和平主义者
@@ -1085,7 +1085,7 @@ Chat/Oracle/Idle/7=有什么办法能确定吗？
 Chat/Oracle/Idle/8=如果这是一个人想要的，它意味着什么？
 Chat/Oracle/Idle/9=若是我如此做呢？
 Chat/Oracle/Idle/10=若是我不如此做呢？
-Chat/Oracle/Idle/11=呵呵！想象一下结果吧......
+Chat/Oracle/Idle/11=呵呵！想象一下结果吧……
 Chat/Oracle/Idle/12=它总是这样的，没有改变过。
 Chat/Oracle/Idle/13=这是一个可能的途径，但还有很多。
 Chat/Oracle/Idle/14=这没有任何的保证，随时可能发生。
@@ -1112,15 +1112,15 @@ Chat/Oracle/Idle/34=考虑到这个特殊的未来，这是一个模糊的反常
 Chat/Oracle/Idle/35=人生不可测，命运不可违。
 Chat/Oracle/Idle/36=有些未来是用金钱也买不到的。
 Chat/Oracle/Idle/37=确定的代价，是什么？
-Chat/Oracle/Idle/38=一次、一次、又一次...再一次。
+Chat/Oracle/Idle/38=一次、一次、又一次……再一次。
 Chat/Oracle/Idle/39=没错，就是这样！与计划完全一致。
 Chat/Oracle/Idle/40=尽管如此，我不对所有结果负责。
 
 # When a Super/Unique petal is about to be crafted
 Chat/Oracle/Prediction={#Chat/Oracle/Prediction/{!rand:0:2}}
-Chat/Oracle/Prediction/0=啊，是的，根据预言...现在任何时候“它”都应该发生......
-Chat/Oracle/Prediction/1=有人预言，这就是那一刻......我不敢相信......
-Chat/Oracle/Prediction/2=我一直在等待这一刻......它终于来了......
+Chat/Oracle/Prediction/0=啊，是的，根据预言……现在任何时候“它”都应该发生……
+Chat/Oracle/Prediction/1=有人预言，这就是那一刻……我不敢相信……
+Chat/Oracle/Prediction/2=我一直在等待这一刻……它终于来了……
 
 # Target dummy says these 4 lines 1 second apart after getting damaged a lot
 Chat/TargetDummy/Damaged/1=哎哟！
@@ -1133,9 +1133,9 @@ Chat/Gambler/Idle/0=我 最 爱 赌 了！
 Chat/Gambler/Idle/1=21点赌桌在哪里？
 Chat/Gambler/Idle/2=老虎机在哪里？
 Chat/Gambler/Idle/3=99%的赌徒在赢得大奖之前就退出了！
-Chat/Gambler/Idle/4=只要再来一局...我就能...
-Chat/Gambler/Idle/5=我，全   押！
-Chat/Gambler/Idle/6=我感觉我手气不错，要不再来一局？
+Chat/Gambler/Idle/4=我只要再来一把……
+Chat/Gambler/Idle/5=我，全  押！
+Chat/Gambler/Idle/6=我感觉我今天手气不错。
 Chat/Gambler/Idle/7=第三十七次，定能成功！
 Chat/Gambler/Idle/8=翻倍，还是一无所有？
 Chat/Gambler/Idle/9=大吉大利，赢家必胜！
@@ -1152,7 +1152,7 @@ Chat/Titan/Idle/7=我于大地上前行，万物渺茫似细沙。
 
 Chat/Trader/Idle={#Chat/Trader/Idle/{!rand:0:2}}
 Chat/Trader/Idle/0=你有兴趣跟我做个小交易吗？
-Chat/Trader/Idle/1=我正在扩大我的收藏......
+Chat/Trader/Idle/1=我正在扩大我的收藏……
 Chat/Trader/Idle/2=如果你有货物，我可以用硬币跟你交易。
 
 UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} : {#Chat/Command/{0}/Description}
@@ -1354,29 +1354,29 @@ Maps/sewers/Name=下水道
 Maps/worm/Name=蠕虫
 Mobs/rock/Name=岩石
 Mobs/rock/Description=一块石头，它干不了什么事情。
-Mobs/rock/Spawn=远处似乎出现了一座大山...
+Mobs/rock/Spawn=花草之上，隐约浮现出一座如山峦般的巨物……
 
 Mobs/cactus/Name=仙人掌
-Mobs/cactus/Description=不要碰它，会很疼。
-Mobs/cactus/Spawn=一座荆棘塔从沙地上拔地而起...
+Mobs/cactus/Description=不要碰它，它的刺很疼！
+Mobs/cactus/Spawn=沙海之中，一座荆棘塔拔地而起直指苍穹……
 
 Mobs/ladybug/Name=瓢虫
-Mobs/ladybug/Description=可爱无害。
+Mobs/ladybug/Description=可爱而无害。
 
 Mobs/bee/Name=蜜蜂
-Mobs/bee/Description=它会蜇人，别碰它。
+Mobs/bee/Description=它会蜇人，别碰它！
 
 Mobs/ant_baby/Name=幼蚁
-Mobs/ant_baby/Description=虽软弱无力，却有远大梦想。
+Mobs/ant_baby/Description=虽软弱无力，却有远大的梦想。
 
 Mobs/ant_worker/Name=工蚁
-Mobs/ant_worker/Description=它有点脾气暴躁，可能是因为一直工作的缘故。
+Mobs/ant_worker/Description=它脾气有点暴躁，可能是一直在工作的缘故。
 
 Mobs/ant_soldier/Name=兵蚁
-Mobs/ant_soldier/Description=它得到一双翅膀并随时准备使用它们。
+Mobs/ant_soldier/Description=它得到一双翅膀并随时准备开始使用它们。
 
 Mobs/ant_queen/Name=蚁后
-Mobs/ant_queen/Description=如果她追你，你肯定做了什么坏事。
+Mobs/ant_queen/Description=如果她在追你，你肯定做了什么坏事。
 
 Mobs/ant_hole/Name=蚁穴
 Mobs/ant_hole/Description=蚂蚁进进又出出，这根本无法解释。
@@ -1386,7 +1386,7 @@ Mobs/beetle/Description=它饿了，而花是它最喜欢的食物。
 
 Mobs/hornet/Name=黄蜂
 Mobs/hornet/Description=它们不像那些小蜜蜂们那么友善。
-Mobs/hornet/Spawn=远处的天空中出现一个大黄斑...
+Mobs/hornet/Spawn=天空之上，一抹耀眼的金黄斑痕赫然跃出……
 
 Mobs/centipede/Name=蜈蚣
 Mobs/centipede/Description=它只是在那里做自己的事情。
@@ -1407,10 +1407,10 @@ Mobs/centipede_desert_body/Name=蜈蚣
 Mobs/centipede_desert_body/Description=要加速了！
 
 Mobs/square/Name=正方形
-Mobs/square/Description=这个形状...看起来很熟悉...
+Mobs/square/Description=这个形状……看起来很熟悉……
 
 Mobs/ladybug_dark/Name=瓢虫
-Mobs/ladybug_dark/Description=可爱无害...除非被打扰。
+Mobs/ladybug_dark/Description=可爱而无害……除非被打扰。
 
 Mobs/ladybug_shiny/Name=瓢虫
 Mobs/ladybug_shiny/Description=闪亮，可爱，基本无害。
@@ -1443,11 +1443,11 @@ Mobs/starfish/Name=海星
 Mobs/starfish/Description=它的名字叫派大星。
 
 Mobs/crab/Name=螃蟹
-Mobs/crab/Description=它就是蟹老板。
+Mobs/crab/Description=我就是蟹老板。
 
 Mobs/jellyfish/Name=水母
 Mobs/jellyfish/Description=用来做最美味的果酱。
-Mobs/jellyfish/Spawn=你听到从远处传来的巨大闪电声......
+Mobs/jellyfish/Spawn=阴云之下，遥远的天际滚滚传来阵阵的雷鸣……
 
 Mobs/digger/Name=挖掘者
 Mobs/digger/Description=兄弟，你走错游戏了。
@@ -1462,7 +1462,7 @@ Mobs/leech_body/Name=水蛭
 Mobs/leech_body/Description=吸溜吸溜。
 
 Mobs/dandelion/Name=蒲公英
-Mobs/dandelion/Description=松软洁白。
+Mobs/dandelion/Description=像泡芙一样松软洁白。
 
 Mobs/fire_ant_baby/Name=火幼蚁
 Mobs/fire_ant_baby/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
@@ -1489,10 +1489,10 @@ Mobs/mantis/Name=螳螂
 Mobs/mantis/Description=你最好祈祷你不会成为它的晚餐。
 
 Mobs/termite_baby/Name=白幼蚁
-Mobs/termite_baby/Description=虽软弱无力，却有远大梦想。<n/>这些生物通过某种方式被连接了起来。
+Mobs/termite_baby/Description=我虽软弱无力，却有远大的梦想。<n/>这些生物通过某种方式被连接了起来。
 
 Mobs/termite_worker/Name=白工蚁
-Mobs/termite_worker/Description=它有点脾气暴躁，可能是因为一直工作的缘故。<n/>这些生物看起来因为某种原因被连接了起来。
+Mobs/termite_worker/Description=它脾气有点暴躁，可能是一直在工作的缘故。<n/>这些生物看起来因为某种原因被连接了起来。
 
 Mobs/termite_soldier/Name=白兵蚁
 Mobs/termite_soldier/Description=它得到一双翅膀并随时准备使用它们。<n/>这些生物看起来因为某种原因被连接了起来。
@@ -1507,21 +1507,21 @@ Mobs/termite_egg/Name=白蚁卵
 Mobs/termite_egg/Description=还不是一只白蚁，但是可能快了。
 
 Mobs/bush/Name=灌木丛
-Mobs/bush/Description=可别小看我。
+Mobs/bush/Description=可别小看我！
 
 Mobs/roach/Name=蟑螂
-Mobs/roach/Description=要 加 速 了！...直到它们累了。
+Mobs/roach/Description=要 加 速 了！……直到它们累了下来。
 
 Mobs/moth/Name=飞蛾
-Mobs/moth/Description=容易受惊。请对它们好点。
+Mobs/moth/Description=容易受惊，请对它们好点。
 
 Mobs/firefly/Name=萤火虫
-Mobs/firefly/Description=它在闪闪发光，呜哦好闪亮！
-Mobs/firefly/Spawn=地平线上像是起了一道亮光......
+Mobs/firefly/Description=呜呜呜哦好闪亮！
+Mobs/firefly/Spawn=地平线上，一道刺目的诡谲光芒刺破夜幕……
 
 Mobs/beetle_hel/Name=甲虫
 Mobs/beetle_hel/Description=在异域诞生的祸害。
-Mobs/beetle_hel/Spawn=你感觉到了来自不同世界的不祥振动......
+Mobs/beetle_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
 
 Mobs/wasp/Name=胡蜂
 Mobs/wasp/Description=它们 很 生 气。
@@ -1531,44 +1531,44 @@ Mobs/dummy/Description=它怎么跑到你的图鉴里的？
 
 Mobs/spider_hel/Name=蜘蛛
 Mobs/spider_hel/Description=在异域诞生的祸害。
-Mobs/spider_hel/Spawn=你感觉到了来自不同世界的不祥振动......
+Mobs/spider_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
 
 Mobs/centipede_hel/Name=蜈蚣
 Mobs/centipede_hel/Description=在异域诞生的祸害。
-Mobs/centipede_hel/Spawn=你感觉到了来自不同世界的不祥振动......
+Mobs/centipede_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
 
 Mobs/centipede_hel_body/Name=蜈蚣
 Mobs/centipede_hel_body/Description=在异域诞生的祸害。
-Mobs/centipede_hel_body/Spawn=你感觉到了来自不同世界的不祥振动......
+Mobs/centipede_hel_body/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
 
 Mobs/wasp_hel/Name=胡蜂
 Mobs/wasp_hel/Description=在异域诞生的祸害。
-Mobs/wasp_hel/Spawn=你感觉到了来自不同世界的不祥振动......
+Mobs/wasp_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
 
 Mobs/trader/Name=商人
 
 Mobs/gambler/Name=赌徒
 Mobs/gambler/Description=这可以在<s val="1.5">你</s>的身上发生。
-Mobs/gambler/Spawn=你隐约听到有人不知在哪里低语... “就......再打一场吧......”
+Mobs/gambler/Spawn=虚空之中，微微回荡着不知源头的飘渺呢喃…… “只……此一局……”
 
 Mobs/oracle/Name=神谕者
 
 Mobs/firefly_magic/Name=萤火虫
-Mobs/firefly_magic/Description=它有一种神奇的魔力。
+Mobs/firefly_magic/Description=这一只萤火虫有一种神奇的魔力。
 
 Mobs/titan/Name=泰坦
 
 Mobs/beetle_nazar/Name=甲虫
-Mobs/beetle_nazar/Description=它怎么有一个不一样的图案......这是什么意思？
+Mobs/beetle_nazar/Description=它怎么有一个不一样的图案……这是什么意思？
 
 Mobs/worm/Name=蠕虫
-Mobs/worm/Description=本应吃土，它却吃花。
+Mobs/worm/Description=蠕虫本应吃土，它却吃花。
 
 Mobs/worm_guts/Name=蠕虫内脏
 Mobs/worm_guts/Description=你不应该看到这个文本，我要报警了！
 
 Mobs/mecha_flower/Name=机械花
-Mobs/mecha_flower/Description=有些人一直在制作这些机械的花朵......这会意味着什么？
+Mobs/mecha_flower/Description=有些人一直在制作这些机械的花朵……这会意味着什么？
 
 Mobs/wasp_mecha/Name=胡蜂
 Mobs/wasp_mecha/Description=它们生 机 器（气）了！
@@ -1577,7 +1577,7 @@ Mobs/spider_mecha/Name=蜘蛛
 Mobs/spider_mecha/Description=吓人的机器。
 Petals/basic/Name=基本
 Petals/basic/FullName=基本
-Petals/basic/Description=不错的花瓣，不强也不弱。
+Petals/basic/Description=一个不错的花瓣，不是很强也不是很弱。
 
 Petals/light/Name=轻
 Petals/light/FullName=轻
@@ -1585,11 +1585,11 @@ Petals/light/Description=比大多数花瓣弱，但冷却非常快。
 
 Petals/rock/Name=岩石
 Petals/rock/FullName=岩石
-Petals/rock/Description=极为耐用，但冷却时间稍长。
+Petals/rock/Description=它极为耐用，但冷却时间稍长。
 
 Petals/square/Name=正方形
 Petals/square/FullName=正方形
-Petals/square/Description=这个形状......看起来很熟悉...
+Petals/square/Description=这个形状……看起来很熟悉……
 
 Petals/rose/Name=玫瑰
 Petals/rose/FullName=玫瑰
@@ -1597,11 +1597,11 @@ Petals/rose/Description=它的治疗属性非常惊人，不过在攻击时就�
 
 Petals/stinger/Name=刺
 Petals/stinger/FullName=刺
-Petals/stinger/Description=它真的很疼，但是十分脆弱。
+Petals/stinger/Description=它打人真的很疼，但是却十分脆弱。
 
 Petals/iris/Name=鸢尾
 Petals/iris/FullName=鸢尾
-Petals/iris/Description=毒性很强，但需要一点时间才能发挥作用。<n/>对其他花朵造成的伤害减少50%。
+Petals/iris/Description=它毒性很强，但需要一点时间才能发挥作用。<n/>对其他花朵造成的伤害减少50%。
 
 Petals/wing/Name=翅膀
 Petals/wing/FullName=翅膀
@@ -1609,19 +1609,19 @@ Petals/wing/Description=来得快，去得也快。
 
 Petals/missile/Name=导弹
 Petals/missile/FullName=导弹
-Petals/missile/Description=你可以将其发射出去。
+Petals/missile/Description=你可以把它发射出去。
 
 Petals/grapes/Name=葡萄
 Petals/grapes/FullName=葡萄
-Petals/grapes/Description=呲溜一声就飞出去了；现在有了一个秘密成分：剧毒。
+Petals/grapes/Description=呲溜一声就飞出去了；现在有了一个额外的秘密成分：剧毒。
 
 Petals/cactus/Name=仙人掌
 Petals/cactus/FullName=仙人掌
-Petals/cactus/Description=不是很强，但会用某种方式增加你的生命值上限。
+Petals/cactus/Description=它不是很强，但会增加你的生命值上限。
 
 Petals/faster/Name=更快
 Petals/faster/FullName=更快
-Petals/faster/Description=它太轻了，以至于让你的其它花瓣旋转得更快。
+Petals/faster/Description=它太轻了，以至于让你的花瓣旋转得更快。
 
 Petals/bubble/Name=泡泡
 Petals/bubble/FullName=泡泡
@@ -1645,7 +1645,7 @@ Petals/antennae/Description=允许你的花朵感知更远的敌人。
 
 Petals/heavy/Name=重
 Petals/heavy/FullName=重
-Petals/heavy/Description=这东西太重了让什么都挡不住它。<n/>装备后会降低花瓣的旋转速度。
+Petals/heavy/Description=这东西太重了，什么都挡不住它。<n/>装备后会降低花瓣的旋转速度。
 
 Petals/yin_yang/Name=阴阳
 Petals/yin_yang/FullName=阴阳
@@ -1657,7 +1657,7 @@ Petals/web/Description=它真的很黏。
 
 Petals/honey/Name=蜂蜜
 Petals/honey/FullName=蜂蜜
-Petals/honey/Description=生物们喜欢这个，可以吸引大范围内的生物。<n/>生物们会优先考虑它而非花朵们。<n/>生物们在被影响一段时间后会对其效果产生免疫力。
+Petals/honey/Description=生物们很喜欢它，可以吸引大范围内的生物。<n/>生物们会优先考虑它而非花朵们。<n/>生物们在被影响一段时间后会对其效果产生免疫力。
 
 Petals/leaf/Name=叶子
 Petals/leaf/FullName=叶子
@@ -1685,7 +1685,7 @@ Petals/pincer/Description=可以使敌人暂时虚弱下来，降低他们的移
 
 Petals/yucca/Name=丝兰
 Petals/yucca/FullName=丝兰
-Petals/yucca/Description=仅在防御状态下治疗你的花朵。
+Petals/yucca/Description=仅在花朵处于防御状态时提供治疗。
 
 Petals/magnet/Name=磁铁
 Petals/magnet/FullName=磁铁
@@ -1721,11 +1721,11 @@ Petals/shell/Description=为你或你的队友添加一个临时的护盾。
 
 Petals/cutter/Name=锯齿
 Petals/cutter/FullName=锯齿
-Petals/cutter/Description=一个朋友曾经拥有它......现在是时候复仇了。<n/>增加花朵的{#Flower/Attribute/BodyDamageNoColon}。
+Petals/cutter/Description=一个朋友曾经拥有它……现在是时候复仇了。<n/>增加花朵的{#Flower/Attribute/BodyDamageNoColon}。
 
 Petals/dahlia/Name=大丽花
 Petals/dahlia/FullName=大丽花
-Petals/dahlia/Description=提供少量但相当稳定的治疗。
+Petals/dahlia/Description=为你的花朵提供少量但相当稳定的治疗。
 
 Petals/uranium/Name=铀
 Petals/uranium/FullName=铀
@@ -1737,7 +1737,7 @@ Petals/sponge/Description=在一段时间内将花朵受到的伤害分散开来
 
 Petals/soil/Name=土
 Petals/soil/FullName=土
-Petals/soil/Description=增加花朵生命值，也会增加花朵的大小并降低移动速度。
+Petals/soil/Description=增加花朵生命值，同时增加花朵的大小并降低移动速度。
 
 Petals/fangs/Name=尖牙
 Petals/fangs/FullName=尖牙
@@ -1801,7 +1801,7 @@ Petals/cotton/Description=吸收花朵收到的伤害。
 
 Petals/carrot/Name=胡萝卜
 Petals/carrot/FullName=胡萝卜
-Petals/carrot/Description=坚固，可靠；可以发射出去并从墙上反弹回来。
+Petals/carrot/Description=坚固，可靠。可以发射出去并从墙上反弹回来。
 
 Petals/bone/Name=骨头
 Petals/bone/FullName=骨头
@@ -1825,7 +1825,7 @@ Petals/rubber/Description=增加受到的击退，也能吸收对花朵造成的
 
 Petals/blood_stinger/Name=刺
 Petals/blood_stinger/FullName=血刺
-Petals/blood_stinger/Description=它真的很疼，但是十分脆弱。<n/>生成时对花朵自身造成伤害。
+Petals/blood_stinger/Description=它打人真的很疼，但是却十分脆弱。<n/>生成时对花朵自身造成伤害。
 
 Petals/bur/Name=刺果
 Petals/bur/FullName=刺果
@@ -1833,11 +1833,11 @@ Petals/bur/Description=降低目标单位的护甲值，效果不与自身叠加
 
 Petals/root/Name=根
 Petals/root/FullName=根
-Petals/root/Description=仅限于处于防御状态时提供额外的护甲。
+Petals/root/Description=仅在花朵处于防御状态时提供额外的护甲。
 
 Petals/ankh/Name=安卡
 Petals/ankh/FullName=安卡
-Petals/ankh/Description=一件古老的遗物。<n/>被摧毁后，将把花朵传送回它被摧毁的地方。
+Petals/ankh/Description=一件古老的遗物。<n/>被摧毁后，会把花朵传送回它被摧毁的地方。
 
 Petals/dice/Name=骰子
 Petals/dice/FullName=骰子
@@ -1845,19 +1845,19 @@ Petals/dice/Description=有5%的几率造成35倍的伤害<n/>每增加1点幸�
 
 Petals/talisman/Name=护符
 Petals/talisman/FullName=闪避护符
-Petals/talisman/Description=能让佩戴者预知敌人攻击的神秘项链。
+Petals/talisman/Description=一条能让佩戴者闪避敌人攻击的神秘项链。
 
 Petals/battery/Name=电池
 Petals/battery/FullName=电池
-Petals/battery/Description=让你的花朵一触即电。
+Petals/battery/Description=让你的花朵一触即电，充满电性。
 
 Petals/amulet/Name=护符
 Petals/amulet/FullName=护符
-Petals/amulet/Description=将一定比例的溢出的治疗转化为护盾。
+Petals/amulet/Description=将一定比例的溢出的治疗量转化为护盾。
 
 Petals/compass/Name=指南针
 Petals/compass/FullName=指南针
-Petals/compass/Description=这个破烂的玩意也许可以找到一些有趣的东西......
+Petals/compass/Description=这个破烂的玩意也许可以找到一些有趣的东西……
 
 Petals/disc/Name=圆盘
 Petals/disc/FullName=圆盘
@@ -1869,7 +1869,7 @@ Petals/shovel/Description=在有限的时间内遁入地下，无法被攻击，
 
 Petals/coin/Name=硬币
 Petals/coin/FullName=硬币
-Petals/coin/Description=这是金钱所迫！
+Petals/coin/Description=是乃金钱所迫！
 
 Petals/chip/Name=筹码
 Petals/chip/FullName=扑克筹码
@@ -1881,7 +1881,7 @@ Petals/card/Description=一张扑克牌。它似乎被动了手脚。
 
 Petals/moon/Name=月
 Petals/moon/FullName=月石
-Petals/moon/Description=这个东西大到能让你的其他花瓣围着它公转。<n/>不过，你是在哪里找到它的？
+Petals/moon/Description=这个东西大到能让你的其他花瓣围着它转。<n/>不过，你是在哪里找到它的？
 
 Petals/privet/Name=女贞
 Petals/privet/FullName=女贞子
@@ -1901,7 +1901,7 @@ Petals/orb/Description=创造魔力！
 
 Petals/blueberries/Name=蓝莓
 Petals/blueberries/FullName=蓝莓
-Petals/blueberries/Description=呲溜一声就飞出去了。现在有了一个额外的秘密成分：闪电。
+Petals/blueberries/Description=呲溜一声就飞出去了；现在有了一个额外的秘密成分：闪电。
 
 Petals/magic_cotton/Name=棉花
 Petals/magic_cotton/FullName=魔法棉花
@@ -1909,7 +1909,7 @@ Petals/magic_cotton/Description=吸收花朵受到的伤害。
 
 Petals/magic_stinger/Name=刺
 Petals/magic_stinger/FullName=魔法刺
-Petals/magic_stinger/Description=它真的很疼，但是十分脆弱。
+Petals/magic_stinger/Description=它打人真的很疼，但是却十分脆弱。
 
 Petals/magic_leaf/Name=叶子
 Petals/magic_leaf/FullName=魔法叶子
@@ -1925,7 +1925,7 @@ Petals/magic_eye/Description=消耗当前魔力值的一半并基于这个值造
 
 Petals/magic_missile/Name=导弹
 Petals/magic_missile/FullName=魔法导弹
-Petals/magic_missile/Description=你可以将其发射出去...伴随着魔法。
+Petals/magic_missile/Description=你可以将其发射出去……伴随着魔法。
 
 Petals/magic_stick/Name=树枝
 Petals/magic_stick/FullName=魔法树枝
