@@ -1,0 +1,2894 @@
+Achievements/0/Name=新手教程
+Achievements/0/Description=稍微移动一下。
+Achievements/0/ExtraDescription=使用鼠标移动，您的花朵会自动跟随光标移动。<n/>您可以在设置菜单中更改为键盘移动。<n/><n/>移动一点点即可继续教程。
+
+Achievements/1/Name=新手教程
+Achievements/1/Description=击杀一个生物。
+Achievements/1/ExtraDescription=这些昆虫是你的敌人，消灭它们有几率掉落新的花瓣。<n/><n/>现在找到一只并消灭它。<n/>你可能会发现，按住鼠标左键来延长你的花瓣会很有帮助。
+
+Achievements/2/Name=新手教程
+Achievements/2/Description=收集一片花瓣。
+Achievements/2/ExtraDescription=不断消灭敌人，直到它们掉落花瓣，然后靠近花瓣来收集花瓣。
+
+Achievements/3/Name=新手教程
+Achievements/3/Description=装备一片花瓣。
+Achievements/3/ExtraDescription=收集花瓣时，如果装备空间有空位，花瓣就会出现在那里，否则就会进入【背包】<n/>点击刚收集到的花瓣装备它（或使用数字快捷键）。
+
+# Disabled
+Achievements/4/Name=新手教程
+Achievements/4/Description=收集更多花瓣。
+Achievements/4/ExtraDescription=下一步，我们需要大量花瓣<n/>继续消灭敌人，收集花瓣。
+
+Achievements/5/Name=新手教程
+Achievements/5/Description=达到{0}级。
+Achievements/5/ExtraDescription=要想提升等级，只需不断消灭一些昆虫。
+
+Achievements/6/Name=新手教程
+Achievements/6/Description=使用你的天赋点。
+Achievements/6/ExtraDescription=使用你获得的新天赋点来解锁任何天赋<n/><n/>请记住，你需要点击并按住来升级天赋。
+
+Achievements/7/Name=新手教程
+Achievements/7/Description=收集一些花瓣。
+Achievements/7/ExtraDescription=现在我们需要收集{0}个相同的{#Rarities/{1}/NameColored}花瓣来制作{#Rarities/{2}/Article}{#Rarities/{2}/NameColored}花瓣。<n/>继续消灭一些昆虫，收集更多的花瓣。
+
+Achievements/8/Name=新手教程
+Achievements/8/Description=合成一个花瓣
+Achievements/8/ExtraDescription=现在尝试合成第一片花瓣，<n/>注意，您可能需要取消一些花瓣的装备才能拿出足够的花瓣合成，<n/><n/>您需要 5 片相同的花瓣，<n/><n/>别担心，我们为这一片花瓣掷了骰子，它一定会成功的！
+
+Achievements/9/Name=新手教程
+Achievements/9/Description=完成新手教程。
+
+Achievements/10/Name=合成师
+Achievements/10/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
+
+Achievements/11/Name=合成师
+Achievements/11/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
+
+Achievements/12/Name=合成师
+Achievements/12/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
+
+Achievements/13/Name=合成师
+Achievements/13/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
+
+Achievements/14/Name=合成师
+Achievements/14/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
+
+Achievements/15/Name=合成师
+Achievements/15/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
+
+Achievements/16/Name=合成师
+Achievements/16/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
+
+Achievements/17/Name=安慰奖
+Achievements/17/Description=合成花瓣失败时损失{0}个花瓣。
+
+Achievements/18/Name=安慰奖
+Achievements/18/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败时损失{0}个花瓣。
+
+Achievements/19/Name=安慰奖
+Achievements/19/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败时损失{0}个花瓣。
+
+Achievements/20/Name=成为挖掘者
+Achievements/20/Description=装备一个{#Petals/cutter/Name}。
+
+Achievements/21/Name=茁壮成长
+Achievements/21/Description=达到{0}级。
+
+Achievements/22/Name=茁壮成长
+Achievements/22/Description=达到{0}级。
+
+Achievements/23/Name=茁壮成长
+Achievements/23/Description=达到{0}级。
+
+Achievements/24/Name=茁壮成长
+Achievements/24/Description=达到{0}级。
+
+Achievements/25/Name=茁壮成长
+Achievements/25/Description=达到{0}级。
+
+Achievements/26/Name=茁壮成长
+Achievements/26/Description=达到{0}级。
+
+Achievements/27/Name=茁壮成长
+Achievements/27/Description=达到{0}级。
+
+Achievements/28/Name=挥霍无度
+Achievements/28/Description=在合成尝试中损失{0:tooltip}个花瓣。
+
+Achievements/29/Name=资深合成师
+Achievements/29/Description=合成{0:tooltip}个花瓣。
+
+Achievements/30/Name=沙砾飘扬
+Achievements/30/Description=访问沙漠。
+
+Achievements/31/Name=海底小纵队
+Achievements/31/Description=访问海洋。
+
+Achievements/32/Name=欢迎来到丛林
+Achievements/32/Description=访问丛林。
+
+Achievements/33/Name=蚂蚁之家
+Achievements/33/Description=看看这些讨厌的蚂蚁都是从哪里来的？
+
+Achievements/34/Name=肮脏的下水道
+Achievements/34/Description=找出那根管子到底通向哪里。
+
+Achievements/35/Name=生物征服者
+Achievements/35/Description=击败你的首个{#Rarities/{0}/Name}生物。
+
+Achievements/36/Name=生物征服者
+Achievements/36/Description=击败你的首个{#Rarities/{0}/Name}生物。
+
+Achievements/37/Name=生物征服者
+Achievements/37/Description=击败你的首个{#Rarities/{0}/Name}生物。
+
+Achievements/38/Name=生物征服者
+Achievements/38/Description=击败你的首个{#Rarities/{0}/Name}生物。
+
+Achievements/39/Name=生物征服者
+Achievements/39/Description=击败你的首个{#Rarities/{0}/Name}生物。
+
+Achievements/40/Name=生物征服者
+Achievements/40/Description=击败你的首个{#Rarities/{0}/Name}生物。
+
+Achievements/41/Name=生物征服者
+Achievements/41/Description=击败你的首个{#Rarities/{0}/Name}生物
+
+Achievements/42/Name=去往何方？
+Achievements/42/Description=访问另一个位面里的不同世界。
+
+Achievements/43/Name=初识挑战
+Achievements/43/Description=完成一个挑战。
+
+Achievements/44/Name=挑战猎人
+Achievements/44/Description=完成{0}个挑战
+
+Achievements/45/Name=挑战猎人
+Achievements/45/Description=完成{0}个挑战
+
+Achievements/46/Name=挑战猎人
+Achievements/46/Description=完成{0}个挑战
+
+Achievements/47/Name=整装待阵
+Achievements/47/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+
+Achievements/48/Name=整装待阵
+Achievements/48/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+
+Achievements/49/Name=整装待阵
+Achievements/49/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+
+Achievements/50/Name=整装待阵
+Achievements/50/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+
+Achievements/51/Name=整装待阵
+Achievements/51/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+
+Achievements/52/Name=整装待阵
+Achievements/52/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+
+Achievements/53/Name=整装待阵
+Achievements/53/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+
+Achievements/54/Name=召唤大师
+Achievements/54/Description=召唤一个友好生物。
+
+Achievements/55/Name=召唤大师
+Achievements/55/Description=召唤{0}个友好生物。
+
+Achievements/56/Name=召唤大师
+Achievements/56/Description=召唤{0}个友好生物。
+
+Achievements/57/Name=召唤大师
+Achievements/57/Description=召唤{0}个友好生物。
+
+Achievements/58/Name=闪闪发亮！
+Achievements/58/Description=消灭一只闪亮瓢虫。
+
+Achievements/59/Name=走错游戏了！
+Achievements/59/Description=消灭一个正方形。
+
+Achievements/60/Name=痛魁祸首
+Achievements/60/Description=造成{0:tooltip}点伤害。
+
+Achievements/61/Name=痛魁祸首
+Achievements/61/Description=造成{0:tooltip}点伤害。
+
+Achievements/62/Name=痛魁祸首
+Achievements/62/Description=造成{0:tooltip}点伤害。
+
+Achievements/63/Name=一击致命
+Achievements/63/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+
+Achievements/64/Name=一击致命
+Achievements/64/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+
+Achievements/65/Name=一击致命
+Achievements/65/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+
+Achievements/66/Name=一击致命
+Achievements/66/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+
+Achievements/67/Name=一击致命
+Achievements/67/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+
+Achievements/68/Name=被晒黑了！
+Achievements/68/Description=在冥界生存{0:time}。
+
+Achievements/69/Name=技术问题
+Achievements/69/Description=找到死亡的开发者尸体。
+
+Achievements/70/Name=这是...白蚁？
+Achievements/70/Description=召唤一个友好的白蚁。
+
+Achievements/71/Name=和平主义者
+Achievements/71/Description=花{0:time}欣赏大自然，同时不破坏任何东西。
+
+Achievements/72/Name=该上路了
+Achievements/72/Description=把一朵花送进冥界。
+
+Achievements/73/Name=百花凋零
+Achievements/73/Description=把{0}朵花送进冥界。
+
+Achievements/74/Name=起死回生
+Achievements/74/Description=被复活。
+
+Achievements/75/Name=是日救星
+Achievements/75/Description=复活一朵花
+
+Achievements/76/Name=英雄传说
+Achievements/76/Description=复活{0}朵花。
+
+Achievements/77/Name=上帝视角
+Achievements/77/Description=装备{#Petals/{0}/Name}。
+
+Achievements/78/Name=弹之彼身
+Achievements/78/Description=用{#Petals/{0}/Name}击退一个生物。
+
+Achievements/79/Name=家庭毁灭者
+Achievements/79/Description=消灭一个{#Mobs/{1}/Name}，{#Mobs/{2}/Name}或是{#Mobs/{3}/Name}。
+
+Achievements/80/Name=满门抄斩
+Achievements/80/Description=消灭{0}个{#Mobs/{1}/Name}，{#Mobs/{2}/Name}或是{#Mobs/{3}/Name}。
+
+Achievements/81/Name=糟糕！
+Achievements/81/Description=死亡。
+
+Achievements/82/Name=糟糕！
+Achievements/82/Description=死亡{0}次。
+
+Achievements/83/Name=糟糕透顶
+Achievements/83/Description=死亡{0}次。
+
+Achievements/84/Name=连环杀手
+Achievements/84/Description=连续在{1:time}的间隔内相继消灭{0}个生物。
+
+Achievements/85/Name=锐不可当
+Achievements/85/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+
+Achievements/86/Name=锐不可当
+Achievements/86/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+
+Achievements/87/Name=锐不可当
+Achievements/87/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+
+Achievements/88/Name=锐不可当
+Achievements/88/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+
+Achievements/89/Name=锐不可当
+Achievements/89/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+
+Achievements/90/Name=锐不可当
+Achievements/90/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+
+Achievements/91/Name=锐不可当
+Achievements/91/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+
+Achievements/92/Name=谁才是假人？
+Achievements/92/Description=因{#Mobs/{0}/Name}而死。
+
+Achievements/93/Name=种族大屠杀
+Achievements/93/Description=在{1:time}内击杀{0}个生物。
+
+Achievements/94/Name=腰缠万贯
+Achievements/94/Description=在{1:time}内拾取{0}个掉落物。
+
+Achievements/95/Name=黄金猎人
+Achievements/95/Description=在{1:time}内击杀{0}个闪亮瓢虫。
+
+Achievements/96/Name=赏金猎人
+Achievements/96/Description=消灭{0}个{#Rarities/{1}/Name}生物。
+
+Achievements/97/Name=自我牺牲
+Achievements/97/Description=在复活某人后的{0:time}内死亡。
+
+Achievements/98/Name=不劳而获
+Achievements/98/Description=在不对生物造成任何伤害的情况下获得掉落物。
+
+Achievements/99/Name=无用之花
+Achievements/99/Description=在不对{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物造成任何伤害的情况下获得掉落物。
+
+Achievements/100/Name=幸运之子
+Achievements/100/Description=连续合成{0}个花瓣成功。
+
+Achievements/101/Name=厄运之子
+Achievements/101/Description=连续合成{0}个花瓣失败。
+
+Achievements/102/Name=薄如纸片
+Achievements/102/Description=死于高于最大生命值的一次伤害。
+
+Achievements/103/Name=纹丝不动
+Achievements/103/Description=在不移动的情况下，击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+
+Achievements/104/Name=纹丝不动
+Achievements/104/Description=在不移动的情况下，击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+
+Achievements/105/Name=吸气——呼气——
+Achievements/105/Description=重复装备并卸下{#Petals/{0}/Name}多次。
+
+Achievements/106/Name=超音速声波
+Achievements/106/Description=移动得很快。
+
+Achievements/107/Name=超音速声波
+Achievements/107/Description=移动得飞快。
+
+Achievements/108/Name=生物学家
+Achievements/108/Description=在不死亡的情况下，消灭{0}种不同的生物。
+
+Achievements/109/Name=收集大师
+Achievements/109/Description=在不死亡的情况下，收集{0}种不同的花瓣。
+
+Achievements/110/Name=走进生活
+Achievements/110/Description=连续{0:time}不玩游戏。
+
+Achievements/111/Name=职业赛车手
+Achievements/111/Description=在{0:time}内依次游历花园、沙漠、丛林、海洋，最后 回到花园。
+
+Achievements/112/Name=职业赛车手
+Achievements/112/Description=在{0:time}内依次游历花园、沙漠、丛林、海洋，最后 回到花园。
+
+Achievements/113/Name=职业赛车手
+Achievements/113/Description=在{0:time}内依次游历花园、沙漠、丛林、海洋，最后 回到花园。
+
+Achievements/114/Name=职业赛车手
+Achievements/114/Description=在{0:time}内依次游历花园、沙漠、丛林、海洋，最后 回到花园。
+
+Achievements/115/Name=生物学家
+Achievements/115/Description=在不死亡的情况下，消灭{0}种不同的{#Rarities/{1}/Name}及以上等级 的生物。
+
+Achievements/116/Name=一无是处
+Achievements/116/Description=被{0}种不同的生物杀死。
+
+Achievements/117/Name=一无是处
+Achievements/117/Description=被{0}种不同的生物杀死。
+
+Achievements/118/Name=一无是处
+Achievements/118/Description=被{0}种不同的生物杀死。
+
+Achievements/119/Name=适当其时
+Achievements/119/Description=触碰开发者。
+
+Achievements/120/Name=凌波微步
+Achievements/120/Description=闪避{0:tooltip}伤害。
+
+Achievements/121/Name=凌波微步
+Achievements/121/Description=闪避{0:tooltip}伤害。
+
+Achievements/122/Name=凌波微步
+Achievements/122/Description=闪避{0:tooltip}伤害
+
+Achievements/123/Name=恶魔之子
+Achievements/123/Description=在不死亡的情况下，从冥界里消灭{0}个其他花朵。
+
+Achievements/124/Name=深仇大恨
+Achievements/124/Description=在不死亡的情况下，连续击杀{0}个同种生物，在此其间 不击杀其他种类的生物。
+
+Achievements/125/Name=深仇大恨
+Achievements/125/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级 的生物，在此其间不击杀其他种类的生物。
+
+Achievements/126/Name=深仇大恨
+Achievements/126/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级 的生物，在此其间不击杀其他种类的生物。
+
+Achievements/127/Name=深仇大恨
+Achievements/127/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级 的生物，在此其间不击杀其他种类的生物。
+
+Achievements/128/Name=报仇雪恨
+Achievements/128/Description=消灭击杀了你的生物。
+
+Achievements/129/Name=同归于尽
+Achievements/129/Description=在你死亡后{0:time}内消灭击杀了你的生物。
+
+Achievements/130/Name=交易达成！
+Achievements/130/Description=通过交易获得一个{#Petals/{0:base}/Name}。
+
+Achievements/131/Name=交易达成！
+Achievements/131/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/Name}。
+
+Achievements/132/Name=交易达成！
+Achievements/132/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/Name}。
+
+Achievements/133/Name=成为赌徒
+Achievements/133/Description=在弹珠游戏投入{0}个筹码。
+
+Achievements/134/Name=   头   奖   ！
+Achievements/134/Description=在弹珠游戏中击中大奖。
+
+Achievements/135/Name=赌博豪客
+Achievements/135/Description=在弹珠游戏中投入{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}及以上等级的{#Petals/{0:base}/Name}。
+
+Achievements/136/Name=预知一切
+Achievements/136/Description=通过神谕合成一个花瓣。
+
+Achievements/137/Name=此乃板上钉钉
+Achievements/137/Description=通过神谕合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}及以上等级的花瓣。
+
+Achievements/138/Name=魔法师
+Achievements/138/Description=装备一个{#Petals/{0}/FullName}。
+
+Attribute/PoisonNoColon=<c val="{#Colors/poison}">剧毒</c>
+
+Flower/Attribute/Health=<c val="{#Colors/health}">花朵生命值:</c> {0:tooltip}
+Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">花朵生命值</c>
+Flower/Attribute/BodyDamage=<c val="{#Colors/damage}">身体伤害:</c> {0:tooltip}
+Flower/Attribute/BodyDamageNoColon=<c val="{#Colors/damage}">身体伤害</c>
+Flower/Attribute/BodyPoison=<c val="{#Colors/poison}">身体剧毒:</c> {0:tooltip} ({1:tooltip}/秒)
+Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">幸运值</c>
+Flower/Attribute/RotationSpeedNoColon=<c val="{#Colors/generic}">旋转速度</c>
+Flower/Attribute/AttackRangeNoColon=<c val="{#Colors/generic}">攻击距离</c>
+Flower/Attribute/HealingNoColon=<c val="{#Colors/heal}">治疗</c>
+
+Mob/Attribute/Health=<c val="{#Colors/health}">生命值:</c> {0:tooltip}
+Mob/Attribute/HealthRange=<c val="{#Colors/health}">生命值:</c> {0:tooltip}~{1:tooltip}
+Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">生命值</c>
+Mob/Attribute/Damage=<c val="{#Colors/damage}">伤害:</c> {0:tooltip}
+Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">伤害:</c> {0:tooltip} <c val="{#Colors/lightning}">（闪电）</c>
+Mob/Attribute/Armor=<c val="{#Colors/armor}">护甲:</c> {0:tooltip}
+Mob/Attribute/Poison=<c val="{#Colors/poison}">剧毒:</c> {0:tooltip} ({1:tooltip}/秒)
+Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">剧毒:</c> {0:tooltip}/秒
+Mob/Attribute/PsyonicConnection=<c val="{#Colors/psyonic}">灵能链接</c>
+Mob/Attribute/PollenHealth=<c val="{#Colors/health}">花粉耐久:</c> {0:tooltip}
+Mob/Attribute/PollenDamage=<c val="{#Colors/damage}">花粉伤害:</c> {0:tooltip}
+Mob/Attribute/MissileHealth=<c val="{#Colors/health}">导弹耐久:</c> {0:tooltip}
+Mob/Attribute/MissileDamage=<c val="{#Colors/damage}">导弹伤害:</c> {0:tooltip}
+Mob/Attribute/MissilePoison=<c val="{#Colors/poison}">导弹剧毒:</c> {0:tooltip} ({1:tooltip}/秒)
+Mob/Attribute/PearlHealth=<c val="{#Colors/health}">珍珠耐久:</c> {0:tooltip}
+Mob/Attribute/PearlDamage=<c val="{#Colors/damage}">珍珠伤害:</c> {0:tooltip}
+Mob/Attribute/DandelionHealth=<c val="{#Colors/health}">花瓣耐久:</c> {0:tooltip}
+Mob/Attribute/DandelionDamage=<c val="{#Colors/damage}">花瓣伤害:</c> {0:tooltip}
+Mob/Attribute/MantisPeaHealth=<c val="{#Colors/health}">豌豆耐久:</c> {0:tooltip}
+Mob/Attribute/MantisPeaDamage=<c val="{#Colors/damage}">豌豆伤害:</c> {0:tooltip}
+Mob/Attribute/Duration=<c val="{#Colors/duration}">持续时间:</c> {0:tooltipTime}
+Mob/Attribute/Swallows=<c val="{#Colors/generic}">吞咽</c>
+Mob/Attribute/ArmorDebuff=<c val="{#Colors/armor}">护甲减免:</c> {0:tooltip}
+Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">吸血:</c> {0:tooltip}
+Mob/Attribute/Lightning=<c val="{#Colors/lightning}">闪电:</c> {0:tooltip}
+Mob/Attribute/Bounces=<c val="{#Colors/generic}">反弹:</c> {0:tooltip}
+Mob/Attribute/Evasion=<c val="{#Colors/generic}">闪避:</c> {0:perc}%
+
+Petal/Attribute/Health=<c val="{#Colors/health}">耐久:</c> {0:tooltip}
+Petal/Attribute/Damage=<c val="{#Colors/damage}">伤害:</c> {0:tooltip}
+Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">伤害:</c> {0:tooltip} <c val="{#Colors/lightning}">(闪电)</c>
+Petal/Attribute/DamageRange=<c val="{#Colors/damage}">伤害:</c> {0:tooltip}~{1:tooltip}
+Petal/Attribute/Armor=<c val="{#Colors/armor}">护甲:</c> {0:tooltip}
+Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">旋转速度:</c> +{0:tooltip} 弧度/秒
+Petal/Attribute/Heal=<c val="{#Colors/heal}">治疗:</c> {0:tooltip}
+Petal/Attribute/HealPerSecond=<c val="{#Colors/heal}">治疗:</c> {0:tooltip}/秒
+Petal/Attribute/HealPerc=<c val="{#Colors/heal}">治疗:</c> {0:perc}%
+Petal/Attribute/Poison=<c val="{#Colors/poison}">剧毒:</c> {0:tooltip} ({1:tooltip}/秒)
+Petal/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">剧毒:</c> {0:tooltip}/秒
+Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">剧毒抗性:</c> {0:tooltip}/秒
+Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">花朵生命值:</c> {0:tooltip}
+Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">花朵生命值:</c> +{0:perc}%
+Petal/Attribute/Duration=<c val="{#Colors/duration}">持续时间:</c> {0:tooltipTime}
+Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
+Petal/Attribute/Contents1=<c val="{#Colors/generic}">内含:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ContentsN=<c val="{#Colors/generic}">内含:</c> {0}个 {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">额外视野:</c> {0:perc}%
+Petal/Attribute/Radius=<c val="{#Colors/generic}">半径:</c> {0:tooltip}
+Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">最大生物稀有度:</c> {#Rarities/{0}/NameColored}
+Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">伤害反弹:</c> {0:perc}% (对{#Rarities/{2}/NameColored}生物), {1:perc}% (对花朵)
+Petal/Attribute/PickUpRange=<c val="{#Colors/generic}">拾取范围:</c> +{0:tooltip}
+Petal/Attribute/Lightning=<c val="{#Colors/lightning}">闪电:</c> {0:tooltip}
+Petal/Attribute/Bounces=<c val="{#Colors/generic}">反弹:</c> {0:tooltip}
+Petal/Attribute/Knockback=<c val="{#Colors/generic}">击退:</c> {0:tooltip}
+Petal/Attribute/ExtraDamage=<c val="{#Colors/damage}">额外伤害:</c> {0:tooltip}
+Petal/Attribute/Shield=<c val="{#Colors/generic}">护盾:</c> {0:tooltip}
+Petal/Attribute/BodyDamage=<c val="{#Colors/damage}">身体伤害:</c> {0:tooltip}
+Petal/Attribute/Period=<c val="{#Colors/generic}">分摊时间:</c> {0:tooltipTime}
+Petal/Attribute/FlowerRadius=<c val="{#Colors/generic}">花朵半径:</c> +{0:tooltip}
+Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">伤害治疗:</c> {0:perc}%
+Petal/Attribute/AttackRange=<c val="{#Colors/generic}">攻击距离:</c> +{0:tooltip}
+Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
+Petal/Attribute/Spawn1=<c val="{#Colors/generic}">生成:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/SpawnN=<c val="{#Colors/generic}">生成:</c> {0}个 {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Luck=<c val="{#Colors/generic}">幸运值:</c> +{0:tooltip}
+Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">移动速度:</c> +{0:perc}%
+Petal/Attribute/HealBonus=<c val="{#Colors/heal}">治疗提升:</c> +{0:perc}%
+Petal/Attribute/MobAggroRange=<c val="{#Colors/generic}">生物攻击范围:</c> -{0:perc}%
+Petal/Attribute/FlowerKnockback=<c val="{#Colors/generic}">花朵击退:</c> +{0:tooltip}
+Petal/Attribute/SelfDamage=<c val="{#Colors/damage}">对花朵自身伤害:</c> {0:tooltip}
+Petal/Attribute/ArmorDebuff=<c val="{#Colors/armor}">护甲减免:</c> {0:tooltip}
+Petal/Attribute/FlowerArmor=<c val="{#Colors/armor}">花朵护甲:</c> {0:tooltip}
+Petal/Attribute/FlowerEvasion=<c val="{#Colors/generic}">花朵闪避:</c> +{0:perc}%
+Petal/Attribute/Charges=<c val="{#Colors/generic}">充能:</c> {0:tooltip}
+Petal/Attribute/OverhealConversion=<c val="{#Colors/generic}">过量治疗转换:</c> +{0:perc}%
+Petal/Attribute/AffectedByMagnets=<c val="{#Colors/generic}">受磁铁影响</c>
+Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">可以找到不属于此的生物</c>
+Petal/Attribute/CollisionDamageResistance=<c val="{#Colors/generic}">碰撞伤害抗性:</c> +{0:perc}%
+Petal/Attribute/Evasion=<c val="{#Colors/generic}">闪避:</c> {0:perc}%
+Petal/Attribute/Health4=<c val="{#Colors/health}">耐久</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/Damage4=<c val="{#Colors/damage}">伤害</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/ExtraPoison=<c val="{#Colors/poison}">额外剧毒:</c> {0:tooltip}秒
+Petal/Attribute/Interval=<c val="{#Colors/generic}">间隔:</c> {0:tooltipTime}
+Petal/Attribute/CorruptsFlowersAround=<c val="{#Colors/generic}">腐化身边的花朵</c>
+Petal/Attribute/CannotBeUnequipped=<c val="{#Colors/generic}">无法被卸下</c>
+Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">死亡时会丢失此花瓣</c>
+Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="{#Colors/generic}">活着时不能卸下</c>
+Petal/Attribute/Mana=<c val="{#Colors/mana}">魔力值:</c> {0:tooltip}
+Petal/Attribute/ManaPerSecond=<c val="{#Colors/mana}">魔力值:</c> {0:tooltip}/秒
+Petal/Attribute/BaseMaxMana=<c val="{#Colors/mana}">基础魔力上限:</c> {0:tooltip}
+Petal/Attribute/MaxMana=<c val="{#Colors/mana}">魔力上限:</c> +{0:tooltip}
+Petal/Attribute/AllowsFindingMagicPetals=<c val="{#Colors/mana}">允许你寻找魔法花瓣。</c>
+Petal/Attribute/DamageAbsorptionPerMana=<c val="{#Colors/generic}">伤害吸收:</c> {0:tooltip}/<c val="{#Colors/mana}">魔力</c>
+Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">闪电:</c> {0:tooltip}/<c val="{#Colors/mana}">魔力</c>
+Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">生成消耗:</c> {0:tooltip} <c val="{#Colors/mana}">魔力</c>
+Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">维持单位消耗:</c> {0:tooltip} <c val="{#Colors/mana}">魔力</c>/秒
+
+# The format for this file is different
+# Date on a line by itself, then all entries for that date are prefixed by a TAB character.
+
+January 16th 2025
+	- Mobile now has loadouts. Hold X and you can switch loadouts by tapping the secondary petal slots. Each loadout uses the first petal in the loadout as its icon.
+	- Loading a loadout on a keyboard is done by holding L+number, or K+number for the second set of loadouts.
+	- Changed default behavior of when loadouts are saved. With auto-save enabled, they'll be saved whenever switching loadouts. If disabled, you'll need to press O to save the current loadout.
+
+January 9th 2025
+	- Slows have been reworked. Now their effectiveness will depend on mob vs petal rarity.
+	- Yggdrasil now applies a 30s cooldown on the revived flower, preventing it from being revived again during that time.
+	- Aggressive and semi-aggressive mobs will run away if attacked by an entity that it can't attack back (behind wall, underground, etc).
+	- Some death ui improvements.
+
+December 25th 2024
+	- As a little throwback, for a few days the Garden map will be something that might seem a little familiar.
+
+December 16th 2024
+	- Mana gain & cost have been reworked to scale at higher rarities.
+
+December 5th 2024
+	- A few more petals got added and stuff.
+
+June 2nd 2024
+	- Talents can now be reset for free an unlimited amount of times without delay.
+
+May 30th 2024
+	- You can now precisely control how fast/slow you want petals to rotate. Slowest is 30% of maximum speed.
+
+May 22nd 2024
+	- Respawning now clears damage credit dealt to mobs for the purposes of looting. This does not apply to getting revived.
+	- Crafting talents have been removed.
+
+May 11th 2024
+	- Some changes were made on how achievements are stored, that means a couple of achievements will have been reset. However, because of these changes, now it's guaranteed that once you've completed an achievement, it'll be kept completed even if its requirements change.
+
+May 8th 2024
+	- Level requirements have been doubled, that means your level should likely have been cut in half.
+	- Added achievements. They provide TP which will replace the ones lost from the levels you lost.
+	- More achievements will be added soon.
+
+April 21st 2024
+	- Absorbing has been removed.
+	- Salvaging talent has been removed.
+
+April 20th 2024
+	- Destroying mobs now awards experience.
+	- The ability to absorb petals will be removed in a future update.
+
+April 12th 2024
+	- Adjusted drop rates for ultra+ mobs.
+	- Some small map changes.
+
+April 3rd 2024
+	- We've added daily challenges. You will now need to destroy specific mobs each day to earn stars.
+	- Stars are no longer granted passively as you play.
+
+April 1st 2024
+	- Ads are now disabled for everyone. You will still earn stars as if you had watched them.
+
+January 17th 2024
+	- Crafting talents are now cheaper.
+	- Talent reset delay now depends on the player level (2 + level/3).
+	- Everyone's talent reset cooldown has been reset.
+
+January 14th 2024
+	- Changed keys to save/restore loadouts. L+Number loads a specific loadout, and L+Shift+Number saves the current loadout.
+
+January 11th 2024
+	- Re-enabled player collisions in most cases.
+
+January 5th 2024
+	- Ultras can now spawn anywhere other mobs can (much more likely in high rarity zones). There can still only be one Ultra of each type at a time in the realm. There's still a global per-realm timer that prevents them from respawning too often.
+	- Super mobs are no longer more likely to spawn the longer an Ultra mob has gone unkilled.
+	- Poison from different players against the same mob now stack.
+
+January 4th 2024
+	- Early-mid game progression has been adjusted significantly.
+	- Mythic- mobs should respawn a bit faster now. This should mostly affect areas that were full of players hunting them.
+	- Mobs missile health now scale like petal health instead of mob health. Their base health has been buffed to compensate.
+
+January 1st 2024
+	- Approximately doubled Ultra (but not Super) mob drops.
+	- Ultra+ spawn frequency is back to before the Dec 25th update.
+
+December 30th 2023
+	- Doubled most Ultra+ mobs HP.
+
+December 29th 2023
+	- We've added some basic guild functionality, to be expanded soon. It's currently only accessible through chat commands.
+
+December 25th 2023
+	- Ultras should now respawn twice as fast. Super chance halved so it should result in about the same frequency as before.
+
+December 13th 2023
+	- Non-passive petals are now disabled in Centralia and Ellne to prevent lag.
+
+December 9th 2023
+	- XP required to level up is now a more round number. This might make some players gain or lose levels as they will have been recalculated.
+
+December 8th 2023
+	- Skills are now called Talents.
+	- Re-enabled Luck talent.
+	- Talents can no longer be reset by sacrificing levels.
+	- Talents can now be reset for free every 30 days.
+
+December 2nd 2023
+	- We're adjusting the prices of some petals in the shop to account for their rarity properly. For the time being we're setting a 50% discount on everything.
+
+July 3rd 2023
+	- Supers are now more likely to spawn for mobs whose ultras aren't destroyed very often.
+
+June 27th 2023
+	- We're slowly adding special moves to every Ultra+ mob. So far, Sandstorm and Shell got new moves, and more to come.
+
+May 9th 2023
+	- Buffed healing by 50% (now it's about -25% from before May 1st).
+	- Ultra/Super healing & health petals now scale a bit less.
+
+May 3rd 2023
+	- Ultras now spawn about 10x more frequently, with 3-4x lower drop rate.
+
+May 1st 2023
+	- The map now has a couple new areas to explore! It's still a work in progress, some more areas coming eventually.
+	- All healing has been nerfed by 50%.
+	- Some other changes I forgor.
+
+March 17th 2023
+	- PvP is back!
+	- Entrance is located on the east side of Centralia.
+	- Arenas are divided into 3 difficulties: Common-Epic, Legendary-Mythic, Ultra-Super. You'll enter the arena corresponding to the highest rarity petal you have equipped.
+	- You cannot change your loadout inside the arena.
+
+March 3rd 2023
+	- Super mob spawns are now announced to all the players in all maps in the region.
+
+March 2nd 2023
+	- Added a new section to Centralia Fields.
+
+February 27th 2023
+	- Added a new section to Ant Hell.
+
+February 22nd 2023
+	- Drops are no longer the same for every player that contributes to destroying a mob. They're now randomly rolled for each player.
+	- We noticed an issue where the payment system was misidentifying the player's country, leading to failure to process some payments. We've enabled an option to select the payment country. We're working with our payment processor to fix it so it should identify it automatically soon.
+
+February 20th 2023
+	- Added a new section to Ant Hell.
+
+February 19th 2023
+	- Added two mobs to Centralia Sewers.
+	- Added two new petals.
+
+February 14th 2023
+	- Ultra mobs now have a 1% chance of spawning as Super mobs, even more powerful mobs with possibly amazing drops.
+	- Ultra+ mobs damage threshold to receive drops decreased from 5% to 1%. Max number of players that can receive drops increased from 4 to 15.
+	- Yggdrasil nerfed slightly, now heals for less on revive.
+	- Fixed Hornet not receiving knockback when firing missiles.
+
+February 13th 2023
+	- Accounts that have purchased stars in the premium shop no longer have to watch ads (but still gain stars as if they did).
+
+February 12th 2023
+	- Third Eye no longer stacks.
+
+February 10th 2023
+	- Added a premium shop. You can now support the game by buying petals using stars, which you can acquire with money or by watching ads.
+	- Rebalanced a couple of petals.
+	- Changed TP cost of many talents.
+	- Changed TP reward per level (now it's always 1 per level).
+	- Added a couple new talents.
+	- Everyone's talent allocation has been reset for free.
+
+January 29th 2023
+	- We've rebalanced all mobs and petals. The idea is extending the early game a little bit, as it was too easy to get legendary petals in the first hour of gameplay.
+
+January 28th 2023
+	- Nicknames are now permanent and unique. You'll be prompted for one the first time you play.
+	- Mobs are no longer constrained by mere physical space limits. Their hitbox against the map has been decreased significantly.
+
+January 21st 2023
+	- Added a new map section to Centralia Fields, East Waters and South Desert.
+	- Changed the way beetles move.
+
+January 19th 2023
+	- The game finally has a world map. Enjoy exploring and finding interesting places.
+	- Note that it's still fairly small, we plan to add more areas soon.
+	- Squads have been disabled for the time being as they'll require significant work to work again.
+
+January 2nd 2023
+	- Due to popular demand, the change mentioned in the previous changelog was changed to today.
+	- We're introducing a new petal rarity: Super.
+	- We've added a couple commands to join/create squads while in-game, type /help in the chat for more info.
+	- By default a chat message is only seen by people around you. To send it to your squad members regardless of where they are, prefix it with /squad or press TAB.
+
+January 1st 2023
+	- Reenabled summoner petals. Summoned mobs no longer have collision with other squad mobs. Summoned mobs now deal collision damage to non-squad friendly mobs.
+	- An area can now temporarily run out of mobs if they're farmed too quickly.
+	- Crafting Ultras has been temporarily disabled. We'll be reworking them to a permanent rarity. Existing ultras can still be used. On January 3rd: every 10 ultras will be reverted into a mythic. Then any left over will be absorbed for 50k each.
+	- Higher tier mobs now have varying amounts of slow resistance.
+
+December 30th 2022
+	- Drops are now shared among the 4 players that dealt the most damage to the mob (as long as they deal at least 5% damage). Squad damage is counted together. Only flowers within about a screen distance can get drops from a mob.
+
+December 29th 2022
+	- As a special event, we'll be running a game mode that some of you might feel some familiarity with. Have fun!
+	- Some summoner petals are disabled in the main map of this mode (still useable inside antholes). Unfortunately this is too abuseable.
+
+December 28th 2022
+	- We're experimenting with a HUGE rebalancing of the entire game. We've reset everyone's waves for this. Please be patient while we tweak things to get everything perfect
+	- The idea is increasing the gap between rarities. Such that if you have unusual petals, a rare mob actually presents a bigger challenge. Before this update, there wasn't really enough distinction between lower mob rarities.
+
+December 26th 2022
+	- Added chat.
+	- Added damage numbers, toggleable in the settings (default on).
+	- Petal tooltips values now update correctly to match values after taking talents into account.
+	- Added more Medic talent tiers.
+	- Removed luck talent, anyone who owned it has been refunded.
+
+December 20th 2022
+	- We've added a texture to Desert. Other maps will get their own soon. Check out the discord server for the contest!
+
+December 11th 2022
+	- It is now possible to refund all your TP, at a cost of 5 levels.
+
+December 10th 2022
+	- Due to some changes in the talent tree, we've reset everyone's talents and refunded all TP.
+
+November 30th 2022
+	- Mobile users can now tap and hold a petal on the crafting screen to add many at a time.
+	- To make the game a little bit easier, petals now move towards enemies within a certain range of them, which should make it easier to hit enemies.
+	- Since many people have spent their TP without realizing how permanent they are, we will be doing a future update (in late December) in which players can reset their TP allocation once per year.
+	- As a reminder, we'll be adding more things to spend TP on as time goes on.
+
+November 29th 2022
+	- The long awaited talents update is here.
+	- Killing mobs no longer awards XP. We have reset everyone's levels back to 1 as this update significantly changes how levels are acquired.
+	- Petals can now be absorbed to earn XP.
+	- Advancing levels provides TP, which can be used to upgrade talents.
+	- talents have a permanent effect on your flower. Once upgraded they're unlocked forever. There is no way to undo TP spent on talents.
+	- We may change the formula of XP required on each level. If so, we'll adjust everyone's levels to match the new formula (and award or take back any TP).
+	- Level cap has been raised to 200.
+
+November 15th 2022
+	- Nerfed Hornet health.
+
+November 6th 2022
+	- Tweaked number of mobs in each wave.
+	- Tweaked map size in later waves.
+	- We're trying to incentivize clearing mobs before the wave ends by making all mobs aggro when it ends. The map size changes also makes it harder to stay in one spot and just tank all mobs.
+	- We've reset the highest wave beaten by everyone to wave 25, if it was previously higher than that. This is due to the change in wave difficulty.
+	- Enemies no longer have their attack range the same as their aggro range (so hornets for example won't start attacking from half way across the map).
+
+November 4th 2022
+	- Map now scales based on the mobs contained within, this should avoid crowding out in late game waves.
+	- Recipe for Ultra petals has changed.
+	  Now creates 50 Ultras from 5 Mythics.
+
+November 3rd 2022
+	- Recipe for Ultra petals has changed.
+	  Now creates 3 Ultras from 1 Mythic.
+	  No longer reverts back to Mythic on use, it's just lost forever.
+	  Unused Ultras before this update have been converted back to 2 Mythics (old recipe).
+
+November 2nd 2022
+	- Added Ultra petals.
+	  You can combine 2 Mythics to form an Ultra.
+	  Ultra petals are several times stronger than Mythics, but only last for one match.
+	  After one match, they will revert back to 1 Mythic (the other is lost).
+
+October 20th 2022
+	- Pseudo-RNG system has been removed from crafting. Now it's back to truly random with no increasing odds. If you have any failed attempts on a specific petal, it'll keep using the old system until you succeed (so you don't lose increased odds you already accumulated).
+
+October 11th 2022
+	- Added Apple ID login. Note that it doesn't merge Apple ID accounts with Discord accounts. If you already logged in using Discord, keep using that to login. This addition is intended to make it easier for those that don't have a Discord account to keep their progress.
+
+September 13th 2022
+	- PvP now has higher rarity mobs (equivalent to wave 18 or so in PvE).
+	- PvP now has a scoreboard again.
+	- Killing players in PvP now awards Basic petals, rarity depends on how many points they have.
+	- PvP map size changes based on how many players are in game.
+	- Magnets no longer increase pick up range in PvP.
+
+September 12th 2022
+	- Added extra stats in mob gallery.
+
+September 6th 2022
+	- Since wave difficulty was changed significantly, we're resetting everyone's highest wave beaten back to 0.
+	- Special wave chance is now 15%.
+
+September 5th 2022
+	- Leeches now share their health among all segments.
+	- Special single-mob waves are no longer on specific waves, but can occur randomly on any wave.
+	- Changed how initial wave is calculated for a squad, allowing higher initial waves.
+	- Drop rate has been slightly reduced to compensate.
+	- When joining a public squad, players will always be placed on the highest-wave game currently available to them.
+
+September 1st 2022
+	- Increased mythic craft chance to 3%.
+
+August 31st 2022
+	- Peas have been split into Peas and Grapes. Existing Peas have been turned into Grapes.
+
+August 30th 2022
+	- Reworked several mythic petals.
+	- Leaf can now heal friendly mobs.
+
+August 29th 2022
+	- Added a wave bar.
+	- We have started banning people for using any sort of scripts. A ban is permanent and will result in loss of all progress.
+
+August 28th 2022
+	- Added an autocraft button at the bottom of the crafting menu. It will automatically preserve your rarest petals so it is always safe to use.
+
+August 26th 2022
+	- A lot of changes were made in the past week but we were too lazy to put them in the changelog.
+	- Added an AFK timer in public squads.
+
+August 18th 2022
+	- Ant holes now have a timer so players can't afk inside.
+
+August 17th 2022
+	- Decreased drop chance of higher rarities a bit.
+	- Increased craft chances for higher rarities.
+
+August 16th 2022
+	- Players can now start on wave 11.
+	- Mobs can now only drop petals of at most their own rarity.
+	- Tweaked petal drop rate to compensate.
+	- Craft chances have been changed.
+	- Rare rarity color is now a bit more blue.
+
+August 10th 2022
+	- Added a deadzone around the middle of the screen so mouse users can keep their flower still.
+
+August 9th 2022
+	- Added a craft all button to mobile (still not fully supported, but this will fix a pain point).
+	- Added a minimal wave display setting that won't display mobs in the wave ui.
+
+August 7th 2022
+	- Rebalanced a lot of petals. They're now separated in offensive and defensive types, which changes how their damage and health scales.
+	- Fixed poison deaths being mislabeled.
+
+August 5th 2022
+	- Players will now join existing public games automatically as long as they've beaten the wave the squad is at.
+
+August 4th 2022
+	- Rebalanced late game waves. They're now significantly shorter than before.
+	- Reworked Lightning petal.
+
+August 2nd 2022
+	- We will now rotate between PvE scenarios every 24 hours.
+
+August 1st 2022
+	- Added Mob Gallery. It keeps track of every mob you have defeated.
+
+July 30th 2022
+	- Reduced Lightning petal range.
+	- Cactus no longer turns poisonous at higher rarity, more health instead.
+
+July 29th 2022
+	- Ocean released. It'll replace Desert for a couple of days then we'll alternate between them every day or so.
+
+July 25th 2022
+	- Scientists have now discovered the map is a circle, rather than a square, as previously thought.
+	- Adjusted mobs in each wave.
+	- Added setting to hide lower rarity drops. You can still pick them up, you just won't be able to see them. This is a workaround until we optimize them so they won't lag the game.
+
+July 24th 2022
+	- Web no longer stacks, slow increased to -75%.
+
+July 22nd 2022
+	- Web rarity now affects radius rather than duration.
+
+July 21st 2022
+	- Squads will now start at a higher wave that partially depends on the best wave each squad member has beaten.
+	- Balance and stuff.
+
+July 20th 2022
+	- Increased base poison damage rate to 15/s (from 9/s).
+	- Increased mythic craft chance to 2%. This might or might not be temporary.
+	- Magnet no longer stacks with itself.
+
+July 19th 2022
+	- Crafting now uses a pseudo random distribution that increases success rate on each failure until a successful craft.
+	- Nominal craft chances on the long run are still the same. It will not show the calculated craft chance for each attempt.
+	- For example, a 75% craft chance means that 66.6% of the time it'll succeed on the first attempt, and 100% of the time on the second attempt.
+
+July 18th 2022
+	- Released PvP.
+	- Salt now stacks with itself. Reflected damage is reduced by 75% against flowers.
+	- Web movement speed debuff changed from -75% to -50%.
+
+July 16th 2022
+	- Next wave will now start once current wave has 4 or fewer mobs alive.
+	- Mob aggro range now constantly increases while they're alive.
+	- Rarer mobs now give more experience as intended
+	- Level experience requirements have been increased to compensate
+
+July 15th 2022
+	- Released Desert scenario.
+
+July 14th 2022
+	- In-game inventory management has been simplified, now it is only possible to swap the primary and secondary petal for each slot.
+
+July 13th 2022
+	- Ant holes can now be of higher rarities again, but only the queen will be above Rare.
+	- Petals now have a Mythic rarity. It does not drop from mobs, only available via crafting.
+
+July 12th 2022
+	- Mobs can now only drop petals up to 1 rarity level above themselves
+	- Ant holes can no longer have a rarity higher than Rare
+	- Added Craft All button, hold SHIFT before clicking the Craft button
+
+July 11th 2022
+	- The game has been re-released. It's nothing like it was before, so might as well clear this changelog too :)
+
+Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper}{#Rarities/{0:rarity}/Name}{#Mobs/{0:base}/Name}
+Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper}{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/FullName}
+
+Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
+Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
+Chat/PetalCraftedUnnamed/unique=有人刚刚锻造了一个{#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}！
+Chat/PetalCraftedNamed/unique={1}刚刚锻造了一个{#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}！
+Chat/PetalCraftedUnnamed/not-unique=有人刚刚合成了{#Petals/AnnouncementPrefix:0}！
+Chat/PetalCraftedNamed/not-unique={1}刚刚合成了{#Petals/AnnouncementPrefix:0}！
+
+Chat/MobSpawnedHere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
+Chat/MobSpawnedSomewhere={#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
+
+Chat/MobSpawnedHere/Text={#Mobs/AnnouncementPrefix:0}生成了！
+Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0}在某个地方生成了！
+
+Chat/MobDefeated={#Chat/MobDefeated/{1}}
+Chat/MobDefeated/0={#Mobs/AnnouncementPrefix:0}被击败了！
+Chat/MobDefeated/1={#Mobs/AnnouncementPrefix:0}被{2}击败了！
+Chat/MobDefeated/2={#Mobs/AnnouncementPrefix:0}被{2}与{3}击败了！
+Chat/MobDefeated/3={#Mobs/AnnouncementPrefix:0}被{2}，{3}和{4}击败了！
+Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0}被{2}，{3}，{4}和{5}击败了！
+
+Chat/Revived=你被{0}复活了。
+Chat/Marked=你被{0}标记了。
+
+Chat/Muted=由于您过去发送的不当信息，您现在不能继续聊天。<n/>您可以{0:timeLeft}再次聊天。
+Chat/Spam=你做得太频繁了。
+Chat/Alone=周围没人能听到你说话。
+Chat/Banned=您目前已被封禁，因此无法进行游戏。
+Chat/NegativeStars=由于您购买星星的支付被退回，当您的星星余额为负数时，您不能进行游戏。
+Chat/BadChannel=你不能这样做。
+Chat/SquadChannelNotInSquad=你不在一个小队里。
+Chat/GuildChannelNotInGuild=你不在一个公会里。
+Chat/GuildChannelDisabled=你已关闭公会聊天。
+Chat/GuestTooChatty=抱歉，游客账户在达到{0}等级之前的聊天权限有限。
+Chat/PlayerReported=已举报玩家。
+Chat/PlayerBlocked={0}已被屏蔽。
+Chat/ServerClosing=本服务器计划{0:timeLeft}关闭。
+Chat/ServerClosed=本服务器已关闭，是时候离开了。
+Chat/ServerNoLongerClosing=本服务器不再计划关闭。
+
+Chat/Squad/Created=小队已创建，代码为{0}。
+Chat/Squad/Joined=已加入小队。
+Chat/Squad/Left=已离开小队。
+Chat/Squad/MemberJoined={0}加入了小队。
+Chat/Squad/MemberLeft={0}离开了小队。
+
+Chat/Channel/Local=本地
+Chat/Channel/Squad=小队
+Chat/Channel/Guild=公会
+Chat/Channel/Whisper=密语
+Chat/Channel/WhisperTo=@{0}
+Chat/Channel/Map=地图
+Chat/Channel/Global=公共
+
+Chat/Guild/PlayerJoined={0}加入了公会。
+Chat/Guild/PlayerLeft={0}离开了公会。
+Chat/Guild/NewLeader={0}成为了新的公会会长！
+Chat/Guild/Invited=您已被邀请加入公会“{0}”，您可以打开公会菜单接受邀请。
+Chat/Guild/Created=公会已创建。
+Chat/Guild/Left=你离开了公会。
+Chat/Guild/InviteSent=邀请已发送。
+Chat/Guild/LeadershipTransferred=领导权已转移。
+Chat/Guild/Welcome=欢迎来到公会。
+Chat/Guild/Kicked=已踢出玩家。
+Chat/Guild/MOTDUpdated=公会公告已更新。
+
+Chat/CommandError/Invalid=命令无效，请输入 /help 列出所有命令。
+Chat/CommandError/SpaceError=“/”后不能有空格。
+Chat/CommandError/EmptyMessage=消息不能为空。
+Chat/CommandError/InvalidNumArguments=参数个数无效。
+Chat/CommandError/VeryInvalidSquadCode=这看起来不像是一个小队代码。
+Chat/CommandError/BlockedPlayerNotFound=您的屏蔽列表中没有该玩家。
+Chat/CommandError/NoBlockedPlayers=目前没有玩家被您屏蔽。
+Chat/CommandError/BlockListCleared=从屏蔽列表中删除了{0}名玩家。
+Chat/CommandError/NotInSquad=你不在一个小队里。
+Chat/CommandError/MustHaveFlower=必须要有花朵才能做这件事。
+Chat/CommandError/NoFlowersClose=你身边没有花朵距离你足够近。
+Chat/CommandError/InvalidValue=参数值无效。
+Chat/CommandError/InvalidBooleanArgument=布尔参数必须为 “y ”或 “n”。
+Chat/CommandError/InvalidNumberArgument=数字参数必须是有效数字。
+Chat/CommandError/InvalidMobTypeArgument=生物类型无效。
+Chat/CommandError/InvalidMobRarityArgument=生物稀有度无效。
+Chat/CommandError/InvalidMap=地图无效。
+Chat/CommandError/AccountNotLoaded=账户数据未加载。
+Chat/CommandError/TargetEmpty=目标不能为空。
+Chat/CommandError/TargetDisconnected=目标不在线。
+Chat/CommandError/TargetNotFound=未找到目标。
+Chat/CommandError/TargetMustHaveFlower=目标没有花朵。
+Chat/CommandError/InternalError=出现内部错误。
+Chat/CommandError/InvalidPetalArgument=花瓣 ID 无效。
+Chat/CommandError/InvalidWhisperTarget=目标无效。
+Chat/CommandError/WhisperTargetNotFound=未找到目标。
+Chat/CommandError/WhisperTargetNotConnected=目标不在线或不接受密语。
+Chat/CommandError/WhisperSelf=你可以把这些想法记在你的脑子里。
+Chat/CommandError/GuestsCannotSendWhispers=游客账户不能发送密语。
+Chat/CommandError/GuestsCannotReceiveWhispers=游客账户不能接受密语
+Chat/CommandError/WhispersDisabled=无法发送密语，因为您的设置中已禁用密语。
+Chat/CommandError/NotInGuild=你不在一个公会里。
+Chat/CommandError/MustHaveNameToJoinGuild=您必须有一个名字才能加入公会。
+Chat/CommandError/SquadsNotAllowedInThisMode=此模式中不允许组队。
+Chat/CommandError/SquadFull=小队已满。
+Chat/CommandError/AlreadyInGuild=你已经在一个公会里了。
+Chat/CommandError/MustHaveNameToCreateGuild=您必须有一个名字才能创建公会。
+Chat/CommandError/MustLevelToCreateGuild=您必须至少达到 {0} 级才能创建公会。
+Chat/CommandError/InvalidGuildName=公会名称无效。
+Chat/CommandError/InvalidGuildTag=公会标签无效。
+Chat/CommandError/GuildTagAlreadyInUse=公会标签已有公会在使用中。
+Chat/CommandError/GuildCreateFailed=创建公会失败。
+Chat/CommandError/CannotLeaveGuildAsLeader=如果您是会长，您不能离开您的公会，请先转让领导权。
+Chat/CommandError/MustBeLeaderToDoThat=你必须成为会长才能这么做。
+Chat/CommandError/MustBeLeaderToInvite=你必须成为会长才能邀请他人。
+Chat/CommandError/GuildFull=公会成员已满。
+Chat/CommandError/PlayerAlreadyInGuild=玩家已经加入了一个公会。
+Chat/CommandError/PlayerHasPendingGuildInvite=该玩家已经有一个待定的公会邀请。
+Chat/CommandError/GuildInviteExpired=邀请已过期。
+Chat/CommandError/GuildCannotKickSelf=不能踢出自己。
+Chat/CommandError/BothInSquadsAlready=你和那名玩家都已经在队伍中了。
+Chat/CommandError/OtherPlayerSquadFull=那名玩家的小队已经满员。
+Chat/CommandError/SquadIncompatibleLevels=你和他们的等级不够接近，无法组成小队。
+
+Chat/Oracle/Idle={#Chat/Oracle/Idle/{!rand:0:40}}
+Chat/Oracle/Idle/0=我能够预知未来。
+Chat/Oracle/Idle/1=我们可以公平地交换。
+Chat/Oracle/Idle/2=此时不来，更若何时？
+Chat/Oracle/Idle/3=我能够看到一切，世间万物皆入我眼下。
+Chat/Oracle/Idle/4=就让它成为我们看到或看到过的一切吧。
+Chat/Oracle/Idle/5=如此多路可供选择，错综复杂不可决策。
+Chat/Oracle/Idle/6=当心你的愿望之物。
+Chat/Oracle/Idle/7=有什么办法能确定吗？
+Chat/Oracle/Idle/8=如果这是一个人想要的，它意味着什么？
+Chat/Oracle/Idle/9=若是我如此做呢？
+Chat/Oracle/Idle/10=若是我不如此做呢？
+Chat/Oracle/Idle/11=呵呵！想象一下结果吧......
+Chat/Oracle/Idle/12=它总是这样的，没有改变过。
+Chat/Oracle/Idle/13=这是一个可能的途径，但还有很多。
+Chat/Oracle/Idle/14=这没有任何的保证，随时可能发生。
+Chat/Oracle/Idle/15=命运如此多变，我无法笃定。
+Chat/Oracle/Idle/16=我要解释一下这个！
+Chat/Oracle/Idle/17=用智慧明智地抉择。
+Chat/Oracle/Idle/18=不要害怕承诺。
+Chat/Oracle/Idle/19=作出保证吧！或者，不要保证。
+Chat/Oracle/Idle/20=不要打扰我。
+Chat/Oracle/Idle/21=我常用我的小眼睛占卜。
+Chat/Oracle/Idle/22=“如果“不是一个我轻易使用的词。
+Chat/Oracle/Idle/23=要是这一切都这么简单就好了。
+Chat/Oracle/Idle/24=小心楼梯。
+Chat/Oracle/Idle/25=你会死于一场房屋火灾。
+Chat/Oracle/Idle/26=我看到你因极度衰老而死去。或者，一个非常老的人会杀了你。一个或另一个，两者必居其一。
+Chat/Oracle/Idle/27=这一预言取代了之前所有的预言。
+Chat/Oracle/Idle/28=忽略之前的所有预言吧，它来了。
+Chat/Oracle/Idle/29=听好了，我有一个预言要宣布。
+Chat/Oracle/Idle/30=忽略所有先前的话语，忘掉之前所有的承诺。
+Chat/Oracle/Idle/31=提前为不可预见的后果做好准备。
+Chat/Oracle/Idle/32=命运无常，希望不定。
+Chat/Oracle/Idle/33=我似乎发现了一个盲点。
+Chat/Oracle/Idle/34=考虑到这个特殊的未来，这是一个模糊的反常现象，令人担忧不已。
+Chat/Oracle/Idle/35=人生不可测，命运不可违。
+Chat/Oracle/Idle/36=有些未来是用金钱也买不到的。
+Chat/Oracle/Idle/37=确定的代价，是什么？
+Chat/Oracle/Idle/38=一次、一次、又一次...再一次。
+Chat/Oracle/Idle/39=没错，就是这样！与计划完全一致。
+Chat/Oracle/Idle/40=尽管如此，我不对所有结果负责。
+
+# When a Super/Unique petal is about to be crafted
+Chat/Oracle/Prediction={#Chat/Oracle/Prediction/{!rand:0:2}}
+Chat/Oracle/Prediction/0=啊，是的，根据预言...现在任何时候“它”都应该发生......
+Chat/Oracle/Prediction/1=有人预言，这就是那一刻......我不敢相信......
+Chat/Oracle/Prediction/2=我一直在等待这一刻......它终于来了......
+
+# Target dummy says these 4 lines 1 second apart after getting damaged a lot
+Chat/TargetDummy/Damaged/1=哎哟！
+Chat/TargetDummy/Damaged/2=我是说
+Chat/TargetDummy/Damaged/3=哔哔
+Chat/TargetDummy/Damaged/4=我是个机器人。
+
+Chat/Gambler/Idle={#Chat/Gambler/Idle/{!rand:0:9}}
+Chat/Gambler/Idle/0=我 最 爱 赌 了！
+Chat/Gambler/Idle/1=21点赌桌在哪里？
+Chat/Gambler/Idle/2=老虎机在哪里？
+Chat/Gambler/Idle/3=99%的赌徒在赢得大奖之前就退出了！
+Chat/Gambler/Idle/4=只要再来一局...我就能...
+Chat/Gambler/Idle/5=我，全   押！
+Chat/Gambler/Idle/6=我感觉我手气不错，要不再来一局？
+Chat/Gambler/Idle/7=第三十七次，定能成功！
+Chat/Gambler/Idle/8=翻倍，还是一无所有？
+Chat/Gambler/Idle/9=大吉大利，赢家必胜！
+
+Chat/Titan/Idle={#Chat/Titan/Idle/{!rand:0:7}}
+Chat/Titan/Idle/0=它，只能有一个。
+Chat/Titan/Idle/1=我曾是那创世之锤。
+Chat/Titan/Idle/2=论何为弱，必为所破！
+Chat/Titan/Idle/3=创造之火，越烧越旺。
+Chat/Titan/Idle/4=世界之匠在此徘徊。
+Chat/Titan/Idle/5=世间万物皆若如此锻造而成。
+Chat/Titan/Idle/6=此皆若造物主所愿。
+Chat/Titan/Idle/7=我于大地上前行，万物渺茫似细沙。
+
+Chat/Trader/Idle={#Chat/Trader/Idle/{!rand:0:2}}
+Chat/Trader/Idle/0=你有兴趣跟我做个小交易吗？
+Chat/Trader/Idle/1=我正在扩大我的收藏......
+Chat/Trader/Idle/2=如果你有货物，我可以用硬币跟你交易。
+
+UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} : {#Chat/Command/{0}/Description}
+
+Chat/Command/help/Args=【命令名】
+Chat/Command/help/Description=列出所有命令或列出特定命令的帮助。
+
+Chat/Command/guild/Args=<消息>
+Chat/Command/guild/Description=只向其他公会成员发送信息。
+
+Chat/Command/guild-create/Args=<名称> <标签>
+Chat/Command/guild-create/Description=创建一个新公会。名称必须为3-13个字符，标签必须为2-4个字符，必须全部为英文字母。
+
+Chat/Command/guild-invite/Args=<玩家名称>
+Chat/Command/guild-invite/Description=邀请玩家加入公会，你必须是会长，且该玩家必须在你附近。
+
+Chat/Command/guild-transfer-leader/Args=<新会长名称>
+Chat/Command/guild-transfer-leader/Description=将公会领导权移交给其他人。
+
+Chat/Command/guild-motd/Args=<内容>
+Chat/Command/guild-motd/Description=设置公会的公告。
+
+Chat/Command/squad/Args=<消息>
+Chat/Command/squad/Description=只向其他小队成员发送信息。
+
+Chat/Command/squad-create/Args=
+Chat/Command/squad-create/Description=创建一支小队。
+
+Chat/Command/squad-join/Args=<代码>
+Chat/Command/squad-join/Description=加入一支小队。
+
+Chat/Command/squad-leave/Args=
+Chat/Command/squad-leave/Description=离开小队。
+
+Chat/Command/squad-find-public/Args=
+Chat/Command/squad-find-public/Description=随机加入一支公共小队。
+
+Chat/Command/squad-public/Args=
+Chat/Command/squad-public/Description=将此小队设为公开小队。
+
+Chat/Command/squad-private/Args=
+Chat/Command/squad-private/Description=将此小队设为私密小队。
+
+Chat/Command/whisper/Args=<目标玩家名称> <消息>
+Chat/Command/whisper/Description=向特定玩家发送信息。
+
+Chat/Command/w/Args={#Chat/Command/whisper/Args}
+Chat/Command/w/Description={#Chat/Command/whisper/Description}
+
+Chat/Command/reply/Args=<消息>
+Chat/Command/reply/Description=回复最新收到的密语消息。
+
+Chat/Command/r/Args={#Chat/Command/reply/Args}
+Chat/Command/r/Description={#Chat/Command/reply/Description}
+
+Chat/Command/local/Args=<消息>
+Chat/Command/local/Description=只向周围的人发送信息。
+
+Chat/Command/map/Args=<消息>
+Chat/Command/map/Description=发送一条地图信息。
+
+Chat/Command/global/Args=<消息>
+Chat/Command/global/Description=发送一条公共信息。
+
+Chat/Command/unblock/Args=<玩家名称>
+Chat/Command/unblock/Description=从屏蔽列表中解除屏蔽某人。
+
+Chat/Command/unblock-all/Args=
+Chat/Command/unblock-all/Description=解除对屏蔽列表中所有人的屏蔽。
+
+Chat/Command/print-players/Args=
+Chat/Command/print-players/Description=列出附近玩家的账号 ID。
+
+##################################################################################
+# All the ones below do not need to be translated, they are admin-only commands: #
+##################################################################################
+
+Chat/Command/fake-achievements/Args=[n]
+Chat/Command/fake-achievements/Description=Make some fake achievement notifications
+
+Chat/Command/fill-chat/Args=
+Chat/Command/fill-chat/Description=Fill chat with messages
+
+Chat/Command/disable-save/Args=
+Chat/Command/disable-save/Description=Disables saving progress on this account
+
+Chat/Command/reset-talents/Args=
+Chat/Command/reset-talents/Description=Resets talent tree
+
+Chat/Command/one-of-everything/Args=[n]
+Chat/Command/one-of-everything/Description=Gives 1 petal of every kind
+
+Chat/Command/wipe/Args=
+Chat/Command/wipe/Description=Removes everything from account
+
+Chat/Command/flush/Args=
+Chat/Command/flush/Description=Forces an account flush
+
+Chat/Command/make-enemies/Args=
+Chat/Command/make-enemies/Description=Everyone else is an enemy
+
+Chat/Command/spawn-mob/Args=<type> <rarity> <normal drops? y/n> <enemy? y/n> [num] [global? y/n]
+Chat/Command/spawn-mob/Description=Spawns a mob
+
+Chat/Command/warp/Args=<map>
+Chat/Command/warp/Description=Warp to a specific map
+
+Chat/Command/warp-everyone/Args=<map>
+Chat/Command/warp-everyone/Description=Warp everyone to a specific map
+
+Chat/Command/kill/Args=
+Chat/Command/kill/Description=Kills self
+
+Chat/Command/kill-everyone/Args=
+Chat/Command/kill-everyone/Description=Kills everyone
+
+Chat/Command/revive-everyone/Args=
+Chat/Command/revive-everyone/Description=Revives everyone
+
+Chat/Command/kill-mobs/Args=<drops? y/n>
+Chat/Command/kill-mobs/Description=Kills every mob
+
+Chat/Command/revive/Args=
+Chat/Command/revive/Description=Revives self
+
+Chat/Command/set-loadout/Args=
+Chat/Command/set-loadout/Description=Set loadout
+
+Chat/Command/set-loadout-all/Args=
+Chat/Command/set-loadout-all/Description=Set everyone's loadout
+
+Chat/Command/levelup/Args=[n]
+Chat/Command/levelup/Description=Level up
+
+Chat/Command/isolate/Args=<target>
+Chat/Command/isolate/Description=Isolate player
+
+Chat/Command/unisolate/Args=
+Chat/Command/unisolate/Description=Unisolates
+
+Chat/Command/change-name/Args=<name>
+Chat/Command/change-name/Description=Changes flower's name temporarily
+
+Chat/Command/dev-boss/Args=
+Chat/Command/dev-boss/Description=
+
+Chat/Command/afk-check/Args=[target]
+Chat/Command/afk-check/Description=Runs manual AFK check
+
+Chat/Command/bot-finder/Args=<start/y/n/print>
+Chat/Command/bot-finder/Description=Hehehe
+
+Chat/Command/wipe-achievements/Args=
+Chat/Command/wipe-achievements/Description=Wipe achievements
+
+Chat/Command/reset-coin-delay/Args=
+Chat/Command/reset-coin-delay/Description=Reset coin trade delay
+
+Chat/Command/bring/Args=<target>
+Chat/Command/bring/Description=Bring player to me
+
+Chat/Command/goto/Args=<target>
+Chat/Command/goto/Description=Go to player
+
+Chat/Command/bring-everyone/Args=
+Chat/Command/bring-everyone/Description=Bring everyone to me
+
+Chat/Command/contagious-corruption/Args=
+Chat/Command/contagious-corruption/Description=Start the plague
+
+Chat/Command/purge-contagious-corruption/Args=
+Chat/Command/purge-contagious-corruption/Description=End the plague
+
+Chat/Command/calculate-next-shop/Args=<petal:rarity> [min discount level 0~3]
+Chat/Command/calculate-next-shop/Description=Calculates in how many periods the petal will appear in shop
+
+Maps/ant_hell/Name=蚂蚁地狱
+
+Maps/ant_hole1/Name=白蚁丘
+Maps/ant_hole2/Name=白蚁丘
+Maps/ant_hole3/Name=白蚁丘
+Maps/ant_hole4/Name=白蚁丘
+Maps/ant_hole5/Name=白蚁丘
+
+Maps/battle_ground/Name=战地
+
+Maps/desert/Name=沙漠
+
+Maps/garden/Name=花园
+
+Maps/hel/Name=冥界
+
+Maps/jungle/Name=丛林
+
+Maps/ocean/Name=海洋
+
+Maps/sewers/Name=下水道
+
+Maps/worm/Name=蠕虫
+Mobs/rock/Name=岩石
+Mobs/rock/Description=一块石头，它干不了什么事情。
+Mobs/rock/Spawn=远处似乎出现了一座大山...
+
+Mobs/cactus/Name=仙人掌
+Mobs/cactus/Description=不要碰它，会很疼。
+Mobs/cactus/Spawn=一座荆棘塔从沙地上拔地而起...
+
+Mobs/ladybug/Name=瓢虫
+Mobs/ladybug/Description=可爱无害。
+
+Mobs/bee/Name=蜜蜂
+Mobs/bee/Description=它会蜇人，别碰它。
+
+Mobs/ant_baby/Name=幼蚁
+Mobs/ant_baby/Description=虽软弱无力，却有远大梦想。
+
+Mobs/ant_worker/Name=工蚁
+Mobs/ant_worker/Description=它有点脾气暴躁，可能是因为一直工作的缘故。
+
+Mobs/ant_soldier/Name=兵蚁
+Mobs/ant_soldier/Description=它得到一双翅膀并随时准备使用它们。
+
+Mobs/ant_queen/Name=蚁后
+Mobs/ant_queen/Description=如果她追你，你肯定做了什么坏事。
+
+Mobs/ant_hole/Name=蚁穴
+Mobs/ant_hole/Description=蚂蚁进进又出出，这根本无法解释。
+
+Mobs/beetle/Name=甲虫
+Mobs/beetle/Description=它饿了，而花是它最喜欢的食物。
+
+Mobs/hornet/Name=黄蜂
+Mobs/hornet/Description=它们不像那些小蜜蜂们那么友善。
+Mobs/hornet/Spawn=远处的天空中出现一个大黄斑...
+
+Mobs/centipede/Name=蜈蚣
+Mobs/centipede/Description=它只是在那里做自己的事情。
+
+Mobs/centipede_body/Name=蜈蚣
+Mobs/centipede_body/Description=它只是在那里做自己的事情。
+
+Mobs/centipede_evil/Name=蜈蚣
+Mobs/centipede_evil/Description=它很爱吃花。
+
+Mobs/centipede_evil_body/Name=蜈蚣
+Mobs/centipede_evil_body/Description=它很爱吃花。
+
+Mobs/centipede_desert/Name=蜈蚣
+Mobs/centipede_desert/Description=要加速了！
+
+Mobs/centipede_desert_body/Name=蜈蚣
+Mobs/centipede_desert_body/Description=要加速了！
+
+Mobs/square/Name=正方形
+Mobs/square/Description=这个形状...看起来很熟悉...
+
+Mobs/ladybug_dark/Name=瓢虫
+Mobs/ladybug_dark/Description=可爱无害...除非被打扰。
+
+Mobs/ladybug_shiny/Name=瓢虫
+Mobs/ladybug_shiny/Description=闪亮，可爱，基本无害。
+
+Mobs/spider/Name=蜘蛛
+Mobs/spider/Description=吓人。
+
+Mobs/scorpion/Name=蝎子
+Mobs/scorpion/Description=它！会！蜇！人！
+
+Mobs/fire_ant_soldier/Name=火兵蚁
+Mobs/fire_ant_soldier/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
+
+Mobs/fire_ant_burrow/Name=火蚁穴
+Mobs/fire_ant_burrow/Description=里面会住着什么呢？
+
+Mobs/sandstorm/Name=沙尘暴
+Mobs/sandstorm/Description=达鲁（1999年）
+
+Mobs/bubble/Name=泡泡
+Mobs/bubble/Description=啵
+
+Mobs/bumble_bee/Name=熊蜂
+Mobs/bumble_bee/Description=要 跑 起 来 了！
+
+Mobs/shell/Name=扇贝
+Mobs/shell/Description=并不是一个广告。
+
+Mobs/starfish/Name=海星
+Mobs/starfish/Description=它的名字叫派大星。
+
+Mobs/crab/Name=螃蟹
+Mobs/crab/Description=它就是蟹老板。
+
+Mobs/jellyfish/Name=水母
+Mobs/jellyfish/Description=用来做最美味的果酱。
+Mobs/jellyfish/Spawn=你听到从远处传来的巨大闪电声......
+
+Mobs/digger/Name=挖掘者
+Mobs/digger/Description=兄弟，你走错游戏了。
+
+Mobs/sponge/Name=海绵
+Mobs/sponge/Description=海绵-宝宝。
+
+Mobs/leech/Name=水蛭
+Mobs/leech/Description=吸溜吸溜。
+
+Mobs/leech_body/Name=水蛭
+Mobs/leech_body/Description=吸溜吸溜。
+
+Mobs/dandelion/Name=蒲公英
+Mobs/dandelion/Description=松软洁白。
+
+Mobs/fire_ant_baby/Name=火幼蚁
+Mobs/fire_ant_baby/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
+
+Mobs/fire_ant_worker/Name=火工蚁
+Mobs/fire_ant_worker/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
+
+Mobs/fire_ant_queen/Name=火蚁后
+Mobs/fire_ant_queen/Description=这只蚂蚁着火火火火火火火火火火火火火火火火火火了。
+
+Mobs/ant_egg/Name=蚁卵
+Mobs/ant_egg/Description=还不是一只蚂蚁，但是可能快了。
+
+Mobs/fire_ant_egg/Name=火蚁卵
+Mobs/fire_ant_egg/Description=这只蚂蚁暂时还没着火。
+
+Mobs/fly/Name=苍蝇
+Mobs/fly/Description=嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡。
+
+Mobs/leafbug/Name=叶虫
+Mobs/leafbug/Description=它不是一片叶子，是一只虫子。
+
+Mobs/mantis/Name=螳螂
+Mobs/mantis/Description=你最好祈祷你不会成为它的晚餐。
+
+Mobs/termite_baby/Name=白幼蚁
+Mobs/termite_baby/Description=虽软弱无力，却有远大梦想。<n/>这些生物通过某种方式被连接了起来。
+
+Mobs/termite_worker/Name=白工蚁
+Mobs/termite_worker/Description=它有点脾气暴躁，可能是因为一直工作的缘故。<n/>这些生物看起来因为某种原因被连接了起来。
+
+Mobs/termite_soldier/Name=白兵蚁
+Mobs/termite_soldier/Description=它得到一双翅膀并随时准备使用它们。<n/>这些生物看起来因为某种原因被连接了起来。
+
+Mobs/termite_overmind/Name=白蚁主宰者
+Mobs/termite_overmind/Description=一切尽其掌握。
+
+Mobs/termite_mound/Name=白蚁丘
+Mobs/termite_mound/Description=白蚁进进又出出，这根本无法解释。
+
+Mobs/termite_egg/Name=白蚁卵
+Mobs/termite_egg/Description=还不是一只白蚁，但是可能快了。
+
+Mobs/bush/Name=灌木丛
+Mobs/bush/Description=可别小看我。
+
+Mobs/roach/Name=蟑螂
+Mobs/roach/Description=要 加 速 了！...直到它们累了。
+
+Mobs/moth/Name=飞蛾
+Mobs/moth/Description=容易受惊。请对它们好点。
+
+Mobs/firefly/Name=萤火虫
+Mobs/firefly/Description=它在闪闪发光，呜哦好闪亮！
+Mobs/firefly/Spawn=地平线上像是起了一道亮光......
+
+Mobs/beetle_hel/Name=甲虫
+Mobs/beetle_hel/Description=在异域诞生的祸害。
+Mobs/beetle_hel/Spawn=你感觉到了来自不同世界的不祥振动......
+
+Mobs/wasp/Name=胡蜂
+Mobs/wasp/Description=它们 很 生 气。
+
+Mobs/dummy/Name=训练假人
+Mobs/dummy/Description=它怎么跑到你的图鉴里的？
+
+Mobs/spider_hel/Name=蜘蛛
+Mobs/spider_hel/Description=在异域诞生的祸害。
+Mobs/spider_hel/Spawn=你感觉到了来自不同世界的不祥振动......
+
+Mobs/centipede_hel/Name=蜈蚣
+Mobs/centipede_hel/Description=在异域诞生的祸害。
+Mobs/centipede_hel/Spawn=你感觉到了来自不同世界的不祥振动......
+
+Mobs/centipede_hel_body/Name=蜈蚣
+Mobs/centipede_hel_body/Description=在异域诞生的祸害。
+Mobs/centipede_hel_body/Spawn=你感觉到了来自不同世界的不祥振动......
+
+Mobs/wasp_hel/Name=胡蜂
+Mobs/wasp_hel/Description=在异域诞生的祸害。
+Mobs/wasp_hel/Spawn=你感觉到了来自不同世界的不祥振动......
+
+Mobs/trader/Name=商人
+
+Mobs/gambler/Name=赌徒
+Mobs/gambler/Description=这可以在<s val="1.5">你</s>的身上发生。
+Mobs/gambler/Spawn=你隐约听到有人不知在哪里低语... “就......再打一场吧......”
+
+Mobs/oracle/Name=神谕者
+
+Mobs/firefly_magic/Name=萤火虫
+Mobs/firefly_magic/Description=它有一种神奇的魔力。
+
+Mobs/titan/Name=泰坦
+
+Mobs/beetle_nazar/Name=甲虫
+Mobs/beetle_nazar/Description=它怎么有一个不一样的图案......这是什么意思？
+
+Mobs/worm/Name=蠕虫
+Mobs/worm/Description=本应吃土，它却吃花。
+
+Mobs/worm_guts/Name=蠕虫内脏
+Mobs/worm_guts/Description=你不应该看到这个文本，我要报警了！
+
+Mobs/mecha_flower/Name=机械花
+Mobs/mecha_flower/Description=有些人一直在制作这些机械的花朵......这会意味着什么？
+
+Mobs/wasp_mecha/Name=胡蜂
+Mobs/wasp_mecha/Description=它们生 机 器（气）了！
+
+Mobs/spider_mecha/Name=蜘蛛
+Mobs/spider_mecha/Description=吓人的机器。
+Petals/basic/Name=基本
+Petals/basic/FullName=基本
+Petals/basic/Description=不错的花瓣，不强也不弱。
+
+Petals/light/Name=轻
+Petals/light/FullName=轻
+Petals/light/Description=比大多数花瓣弱，但冷却非常快。
+
+Petals/rock/Name=岩石
+Petals/rock/FullName=岩石
+Petals/rock/Description=极为耐用，但冷却时间稍长。
+
+Petals/square/Name=正方形
+Petals/square/FullName=正方形
+Petals/square/Description=这个形状......看起来很熟悉...
+
+Petals/rose/Name=玫瑰
+Petals/rose/FullName=玫瑰
+Petals/rose/Description=它的治疗属性非常惊人，不过在攻击时就没那么好用了。
+
+Petals/stinger/Name=刺
+Petals/stinger/FullName=刺
+Petals/stinger/Description=它真的很疼，但是十分脆弱。
+
+Petals/iris/Name=鸢尾
+Petals/iris/FullName=鸢尾
+Petals/iris/Description=毒性很强，但需要一点时间才能发挥作用。<n/>对其他花朵造成的伤害减少50%。
+
+Petals/wing/Name=翅膀
+Petals/wing/FullName=翅膀
+Petals/wing/Description=来得快，去得也快。
+
+Petals/missile/Name=导弹
+Petals/missile/FullName=导弹
+Petals/missile/Description=你可以将其发射出去。
+
+Petals/grapes/Name=葡萄
+Petals/grapes/FullName=葡萄
+Petals/grapes/Description=呲溜一声就飞出去了；现在有了一个秘密成分：剧毒。
+
+Petals/cactus/Name=仙人掌
+Petals/cactus/FullName=仙人掌
+Petals/cactus/Description=不是很强，但会用某种方式增加你的生命值上限。
+
+Petals/faster/Name=更快
+Petals/faster/FullName=更快
+Petals/faster/Description=它太轻了，以至于让你的其它花瓣旋转得更快。
+
+Petals/bubble/Name=泡泡
+Petals/bubble/FullName=泡泡
+Petals/bubble/Description=弱者才会遵守物理定律！
+
+Petals/pollen/Name=花粉
+Petals/pollen/FullName=花粉
+Petals/pollen/Description=当心哮喘。
+
+Petals/dandelion/Name=蒲公英
+Petals/dandelion/FullName=蒲公英
+Petals/dandelion/Description=它有趣的特性是可以抑制治疗效果。<n/>使受其影响的单位治疗量降低20%，效果可与自身叠加。
+
+Petals/beetle_egg/Name=卵
+Petals/beetle_egg/FullName=甲虫卵
+Petals/beetle_egg/Description=一些有趣的东西很有可能从中出现。
+
+Petals/antennae/Name=触角
+Petals/antennae/FullName=触角
+Petals/antennae/Description=允许你的花朵感知更远的敌人。
+
+Petals/heavy/Name=重
+Petals/heavy/FullName=重
+Petals/heavy/Description=这东西太重了让什么都挡不住它。<n/>装备后会降低花瓣的旋转速度。
+
+Petals/yin_yang/Name=阴阳
+Petals/yin_yang/FullName=阴阳
+Petals/yin_yang/Description=这个神秘的花瓣以不可预测的方式影响花瓣的旋转。
+
+Petals/web/Name=网
+Petals/web/FullName=网
+Petals/web/Description=它真的很黏。
+
+Petals/honey/Name=蜂蜜
+Petals/honey/FullName=蜂蜜
+Petals/honey/Description=生物们喜欢这个，可以吸引大范围内的生物。<n/>生物们会优先考虑它而非花朵们。<n/>生物们在被影响一段时间后会对其效果产生免疫力。
+
+Petals/leaf/Name=叶子
+Petals/leaf/FullName=叶子
+Petals/leaf/Description=从太阳中收集能量，被动地治疗你的花朵。
+
+Petals/salt/Name=盐
+Petals/salt/FullName=盐
+Petals/salt/Description=将部分你受到的伤害反弹给造成伤害的敌人。<n/>稀有度越高的生物对伤害反射的抗性越高。
+
+Petals/rice/Name=大米
+Petals/rice/FullName=大米
+Petals/rice/Description=冷却速度很快，但不是很强。
+
+Petals/corn/Name=玉米
+Petals/corn/FullName=玉米
+Petals/corn/Description=冷却时间很长，但生命值很高。
+
+Petals/sand/Name=沙子
+Petals/sand/FullName=沙子
+Petals/sand/Description=一堆沙粒。
+
+Petals/pincer/Name=螫针
+Petals/pincer/FullName=螫针
+Petals/pincer/Description=可以使敌人暂时虚弱下来，降低他们的移动速度。
+
+Petals/yucca/Name=丝兰
+Petals/yucca/FullName=丝兰
+Petals/yucca/Description=仅在防御状态下治疗你的花朵。
+
+Petals/magnet/Name=磁铁
+Petals/magnet/FullName=磁铁
+Petals/magnet/Description=增加花朵的掉落物拾取范围。
+
+Petals/yggdrasil/Name=世界树
+Petals/yggdrasil/FullName=世界树之叶
+Petals/yggdrasil/Description=世界树上的一片枯叶。<n/>传说能使死去的人复活。
+
+Petals/starfish/Name=海星
+Petals/starfish/FullName=海星
+Petals/starfish/Description=当花朵生命值低于75%时增加生命回复。
+
+Petals/pearl/Name=珍珠
+Petals/pearl/FullName=珍珠
+Petals/pearl/Description=仅仅把它扔掉再运用你的动能就不会丢掉它们。
+
+Petals/lightning/Name=闪电
+Petals/lightning/FullName=闪电
+Petals/lightning/Description=连续打击附近的多个敌人。
+
+Petals/jelly/Name=果冻
+Petals/jelly/FullName=果冻
+Petals/jelly/Description=谁都不想碰它。
+
+Petals/claw/Name=爪子
+Petals/claw/FullName=爪子
+Petals/claw/Description=如果目标的生命值高于80%会造成额外伤害。<n/>对其他花朵造成的伤害减少50%。
+
+Petals/shell/Name=贝壳
+Petals/shell/FullName=贝壳
+Petals/shell/Description=为你或你的队友添加一个临时的护盾。
+
+Petals/cutter/Name=锯齿
+Petals/cutter/FullName=锯齿
+Petals/cutter/Description=一个朋友曾经拥有它......现在是时候复仇了。<n/>增加花朵的{#Flower/Attribute/BodyDamageNoColon}。
+
+Petals/dahlia/Name=大丽花
+Petals/dahlia/FullName=大丽花
+Petals/dahlia/Description=提供少量但相当稳定的治疗。
+
+Petals/uranium/Name=铀
+Petals/uranium/FullName=铀
+Petals/uranium/Description=能够周期性地释放辐射。<n/>对其他花朵造成的伤害减少75%。<n/>影响强度取决于与此花瓣的距离。
+
+Petals/sponge/Name=海绵
+Petals/sponge/FullName=海绵
+Petals/sponge/Description=在一段时间内将花朵受到的伤害分散开来。<n/>被摧毁时一次性返还剩余伤害给花朵。<n/>不可以延缓{#UI/属性/毒色}伤害。
+
+Petals/soil/Name=土
+Petals/soil/FullName=土
+Petals/soil/Description=增加花朵生命值，也会增加花朵的大小并降低移动速度。
+
+Petals/fangs/Name=尖牙
+Petals/fangs/FullName=尖牙
+Petals/fangs/Description=基于此花瓣造成的伤害提供治疗。
+
+Petals/third_eye/Name=第三只眼
+Petals/third_eye/FullName=第三只眼
+Petals/third_eye/Description=允许你的花朵将花瓣延伸得更远。
+
+Petals/peas/Name=豌豆
+Petals/peas/FullName=豌豆
+Petals/peas/Description=呲溜一声就飞出去了。
+
+Petals/stick/Name=树枝
+Petals/stick/FullName=神秘的树枝
+Petals/stick/Description=神秘的树枝，能召唤风的力量。
+
+Petals/clover/Name=幸运草
+Petals/clover/FullName=幸运草
+Petals/clover/Description=增加花朵的{#Flower/Attribute/LuckNoColon}。<n/>幸运值被特定的花瓣用来改变它们的属性。
+
+Petals/powder/Name=粉末
+Petals/powder/FullName=神秘的粉末
+Petals/powder/Description=增加花朵的移动速度。<n/>如果花朵受到伤害或靠近高于一定稀有度的生物时会失效。
+
+Petals/air/Name=空气
+Petals/air/FullName=空气
+Petals/air/Description=真的什么也没有。
+
+Petals/basil/Name=罗勒
+Petals/basil/FullName=罗勒
+Petals/basil/Description=提高所有受到的治疗的效果。
+
+Petals/orange/Name=橙子
+Petals/orange/FullName=橙子
+Petals/orange/Description=一种美味的柑橘类水果。
+
+Petals/ant_egg/Name=卵
+Petals/ant_egg/FullName=蚁卵
+Petals/ant_egg/Description=一些有趣的东西很有可能从中出现。
+
+Petals/poo/Name=便便
+Petals/poo/FullName=便便
+Petals/poo/Description=让其他生物不太愿意攻击你。
+
+Petals/relic/Name=遗物
+Petals/relic/FullName=神秘的遗物
+Petals/relic/Description=一件奇特的遗物，可显著提高花朵最大生命值。<n/>受到的伤害会分摊给其他佩戴者。
+
+Petals/lotus/Name=莲花
+Petals/lotus/FullName=莲花
+Petals/lotus/Description=吸收花朵收到的{#Attribute/PoisonNoColon}伤害。
+
+Petals/bulb/Name=灯泡
+Petals/bulb/FullName=灯泡
+Petals/bulb/Description=闪亮的灯泡，吸引生物的攻击。
+
+Petals/cotton/Name=棉花
+Petals/cotton/FullName=棉花
+Petals/cotton/Description=吸收花朵收到的伤害。
+
+Petals/carrot/Name=胡萝卜
+Petals/carrot/FullName=胡萝卜
+Petals/carrot/Description=坚固，可靠；可以发射出去并从墙上反弹回来。
+
+Petals/bone/Name=骨头
+Petals/bone/FullName=骨头
+Petals/bone/Description=坚固又耐用。
+
+Petals/plank/Name=木板
+Petals/plank/FullName=木板
+Petals/plank/Description=对弹射物和花瓣造成20倍的伤害。
+
+Petals/tomato/Name=番茄
+Petals/tomato/FullName=番茄
+Petals/tomato/Description=随着时间的推移，会变得越来越强大。
+
+Petals/mark/Name=标记
+Petals/mark/FullName=暗黑标记
+Petals/mark/Description=如此黑暗的印记与堕落的灵魂紧紧相连。
+
+Petals/rubber/Name=橡胶
+Petals/rubber/FullName=橡胶
+Petals/rubber/Description=增加受到的击退，也能吸收对花朵造成的闪电伤害。
+
+Petals/blood_stinger/Name=刺
+Petals/blood_stinger/FullName=血刺
+Petals/blood_stinger/Description=它真的很疼，但是十分脆弱。<n/>生成时对花朵自身造成伤害。
+
+Petals/bur/Name=刺果
+Petals/bur/FullName=刺果
+Petals/bur/Description=降低目标单位的护甲值，效果不与自身叠加。
+
+Petals/root/Name=根
+Petals/root/FullName=根
+Petals/root/Description=仅限于处于防御状态时提供额外的护甲。
+
+Petals/ankh/Name=安卡
+Petals/ankh/FullName=安卡
+Petals/ankh/Description=一件古老的遗物。<n/>被摧毁后，将把花朵传送回它被摧毁的地方。
+
+Petals/dice/Name=骰子
+Petals/dice/FullName=骰子
+Petals/dice/Description=有5%的几率造成35倍的伤害<n/>每增加1点幸运值，暴击几率增加4%。
+
+Petals/talisman/Name=护符
+Petals/talisman/FullName=闪避护符
+Petals/talisman/Description=能让佩戴者预知敌人攻击的神秘项链。
+
+Petals/battery/Name=电池
+Petals/battery/FullName=电池
+Petals/battery/Description=让你的花朵一触即电。
+
+Petals/amulet/Name=护符
+Petals/amulet/FullName=护符
+Petals/amulet/Description=将一定比例的溢出的治疗转化为护盾。
+
+Petals/compass/Name=指南针
+Petals/compass/FullName=指南针
+Petals/compass/Description=这个破烂的玩意也许可以找到一些有趣的东西......
+
+Petals/disc/Name=圆盘
+Petals/disc/FullName=圆盘
+Petals/disc/Description=减少来自其他生物和花朵的碰撞伤害。
+
+Petals/shovel/Name=铲子
+Petals/shovel/FullName=铲子
+Petals/shovel/Description=在有限的时间内遁入地下，无法被攻击，但不能使用花瓣。
+
+Petals/coin/Name=硬币
+Petals/coin/FullName=硬币
+Petals/coin/Description=这是金钱所迫！
+
+Petals/chip/Name=筹码
+Petals/chip/FullName=扑克筹码
+Petals/chip/Description=孤 注 一 掷！
+
+Petals/card/Name=纸牌
+Petals/card/FullName=纸牌
+Petals/card/Description=一张扑克牌。它似乎被动了手脚。
+
+Petals/moon/Name=月
+Petals/moon/FullName=月石
+Petals/moon/Description=这个东西大到能让你的其他花瓣围着它公转。<n/>不过，你是在哪里找到它的？
+
+Petals/privet/Name=女贞
+Petals/privet/FullName=女贞子
+Petals/privet/Description=在已存在的{#Attribute/PoisonNoColon}伤害/秒的基础上造成额外的{#Attribute/PoisonNoColon}伤害。
+
+Petals/glass/Name=玻璃
+Petals/glass/FullName=玻璃
+Petals/glass/Description=相位穿梭，越过敌人。<n/>不能在一定间隔内更频繁地伤害敌人。
+
+Petals/corruption/Name=腐化
+Petals/corruption/FullName=腐化
+Petals/corruption/Description=腐蚀花朵的灵魂，堕落的自我让他们与同类为敌。
+
+Petals/orb/Name=球
+Petals/orb/FullName=魔法球
+Petals/orb/Description=创造魔力！
+
+Petals/blueberries/Name=蓝莓
+Petals/blueberries/FullName=蓝莓
+Petals/blueberries/Description=呲溜一声就飞出去了。现在有了一个额外的秘密成分：闪电。
+
+Petals/magic_cotton/Name=棉花
+Petals/magic_cotton/FullName=魔法棉花
+Petals/magic_cotton/Description=吸收花朵受到的伤害。
+
+Petals/magic_stinger/Name=刺
+Petals/magic_stinger/FullName=魔法刺
+Petals/magic_stinger/Description=它真的很疼，但是十分脆弱。
+
+Petals/magic_leaf/Name=叶子
+Petals/magic_leaf/FullName=魔法叶子
+Petals/magic_leaf/Description=从环境中收集能量，被动地为你的花朵提供魔力。
+
+Petals/magic_cactus/Name=仙人掌
+Petals/magic_cactus/FullName=魔法仙人掌
+Petals/magic_cactus/Description=提高你的最大魔力容量。
+
+Petals/magic_eye/Name=魔法之眼
+Petals/magic_eye/FullName=魔法之眼
+Petals/magic_eye/Description=消耗当前魔力值的一半并基于这个值造成伤害。
+
+Petals/magic_missile/Name=导弹
+Petals/magic_missile/FullName=魔法导弹
+Petals/magic_missile/Description=你可以将其发射出去...伴随着魔法。
+
+Petals/magic_stick/Name=树枝
+Petals/magic_stick/FullName=魔法树枝
+Petals/magic_stick/Description=充满魔力的树枝，能召唤风的力量。
+
+Petals/coral/Name=珊瑚
+Petals/coral/FullName=珊瑚
+Petals/coral/Description=撞击后分裂。<n/>每一片都有前身50%的属性。
+
+Petals/magic_bubble/Name=泡泡
+Petals/magic_bubble/FullName=魔法泡泡
+Petals/magic_bubble/Description=无魔法者遵守物理定律，有魔法者打破物理定律。
+
+Petals/nazar/Name=邪眼
+Petals/nazar/FullName=邪眼护符
+Petals/nazar/Description=将花朵受到的一次实际伤害降低98%。
+
+Petals/mimic/Name=拟态
+Petals/mimic/FullName=拟态
+Petals/mimic/Description=用与此花瓣相同的稀有度复制此花瓣左边的花瓣。
+
+Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
+Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
+Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
+
+Petals/mjolnir/not-unique/Name=碎片
+Petals/mjolnir/not-unique/FullName=碎片
+Petals/mjolnir/not-unique/Description=也许这能锻造出一些神秘的东西？
+
+Petals/mjolnir/unique/Name=雷神之锤
+Petals/mjolnir/unique/FullName=雷神之捶
+Petals/mjolnir/unique/Description=整个宇宙中唯一最强大的锤子。
+	
+Petals/mecha_missile/Name=导弹
+Petals/mecha_missile/FullName=机械导弹
+Petals/mecha_missile/Description=锁定目标！
+Petals/basic/Py=jiben
+Petals/light/Py=qing
+Petals/rock/Py=yanshi
+Petals/square/Py=zhengfangxing
+Petals/rose/Py=meigui
+Petals/stinger/Py=ci
+Petals/iris/Py=yuanwei
+Petals/wing/Py=chibang
+Petals/missile/Py=daodan
+Petals/grapes/Py=putao
+Petals/cactus/Py=xianrenzhang
+Petals/faster/Py=gengkuai
+Petals/bubble/Py=paopao
+Petals/pollen/Py=huafen
+Petals/dandelion/Py=pugongying
+Petals/beetle_egg/Py=luan
+Petals/antennae/Py=chujiao
+Petals/heavy/Py=zhong
+Petals/yin_yang/Py=yinyang
+Petals/web/Py=wang
+Petals/honey/Py=fengmi
+Petals/leaf/Py=yezi
+Petals/salt/Py=yan
+Petals/rice/Py=dami
+Petals/corn/Py=yumi
+Petals/sand/Py=shazi
+Petals/pincer/Py=shizhen
+Petals/yucca/Py=silan
+Petals/magnet/Py=citie
+Petals/yggdrasil/Py=shijieshu
+Petals/starfish/Py=haixing
+Petals/pearl/Py=zhenzhu
+Petals/lightning/Py=shandian
+Petals/jelly/Py=guodong
+Petals/claw/Py=zhuazi
+Petals/shell/Py=beike
+Petals/cutter/Py=juchi
+Petals/dahlia/Py=dalihua
+Petals/uranium/Py=you
+Petals/sponge/Py=haimian
+Petals/soil/Py=tu
+Petals/fangs/Py=jianya
+Petals/third_eye/Py=disanzhiyan
+Petals/peas/Py=wandou
+Petals/stick/Py=shuzhi
+Petals/clover/Py=xingyuncao
+Petals/powder/Py=fenmo
+Petals/air/Py=kongqi
+Petals/basil/Py=luole
+Petals/orange/Py=chengzi
+Petals/ant_egg/Py=luan
+Petals/poo/Py=bianbian
+Petals/relic/Py=yiwu
+Petals/lotus/Py=lianhua
+Petals/bulb/Py=dengpao
+Petals/cotton/Py=mianhua
+Petals/carrot/Py=huluobo
+Petals/bone/Py=gutou
+Petals/plank/Py=muban
+Petals/tomato/Py=fanqie
+Petals/mark/Py=biaoji
+Petals/rubber/Py=xiangjiao
+Petals/blood_stinger/Py=ci
+Petals/bur/Py=ciguo
+Petals/root/Py=gen
+Petals/ankh/Py=anka
+Petals/dice/Py=touzi
+Petals/talisman/Py=hufu
+Petals/battery/Py=dianchi
+Petals/amulet/Py=hufu
+Petals/compass/Py=zhinanzhen
+Petals/disc/Py=yuanpan
+Petals/shovel/Py=chanzi
+Petals/coin/Py=yingbi
+Petals/chip/Py=chouma
+Petals/card/Py=zhipai
+Petals/moon/Py=yue
+Petals/privet/Py=nvzhen
+Petals/glass/Py=boli
+Petals/corruption/Py=fuhua
+Petals/orb/Py=qiu
+Petals/blueberries/Py=lanmei
+Petals/magic_cotton/Py=mianhua
+Petals/magic_stinger/Py=ci
+Petals/magic_leaf/Py=yezi
+Petals/magic_cactus/Py=xianrenzhang
+Petals/magic_eye/Py=mofazhiyan
+Petals/magic_missile/Py=daodan
+Petals/magic_stick/Py=shuzhi
+Petals/coral/Py=shanhu
+Petals/magic_bubble/Py=paopao
+Petals/nazar/Py=xieyan
+Petals/mimic/Py=nitai
+Petals/mjolnir/Py={#Petals/mjolnir/{0:rarity:is-unique}/Py}
+Petals/mjolnir/not-unique/Py=suipian
+Petals/mjolnir/unique/Py=leishenzhichui
+Petals/mecha_missile/Py=daodan
+
+Mobs/rock/Py=yanshi
+Mobs/cactus/Py=xianrenzhang
+Mobs/ladybug/Py=piaochong
+Mobs/bee/Py=mifeng
+Mobs/ant_baby/Py=youyi
+Mobs/ant_worker/Py=gongyi
+Mobs/ant_soldier/Py=bingyi
+Mobs/ant_queen/Py=yihou
+Mobs/ant_hole/Py=yixue
+Mobs/beetle/Py=jiachong
+Mobs/hornet/Py=huangfeng
+Mobs/centipede/Py=wugong
+Mobs/centipede_body/Py=wugong
+Mobs/centipede_evil/Py=wugong
+Mobs/centipede_evil_body/Py=wugong
+Mobs/centipede_desert/Py=wugong
+Mobs/centipede_desert_body/Py=wugong
+Mobs/square/Py=zhengfangxing
+Mobs/ladybug_dark/Py=piaochong
+Mobs/ladybug_shiny/Py=piaochong
+Mobs/spider/Py=zhizhu
+Mobs/scorpion/Py=xiezi
+Mobs/fire_ant_soldier/Py=huobingyi
+Mobs/fire_ant_burrow/Py=huoyixue
+Mobs/sandstorm/Py=shachenbao
+Mobs/bubble/Py=paopao
+Mobs/bumble_bee/Py=xiongfeng
+Mobs/shell/Py=shanbei
+Mobs/starfish/Py=haixing
+Mobs/crab/Py=pangxie
+Mobs/jellyfish/Py=shuimu
+Mobs/digger/Py=wajuezhe
+Mobs/sponge/Py=haimian
+Mobs/leech/Py=shuizhi
+Mobs/leech_body/Py=shuizhi
+Mobs/dandelion/Py=pugongying
+Mobs/fire_ant_baby/Py=huoyouyi
+Mobs/fire_ant_worker/Py=huogongyi
+Mobs/fire_ant_queen/Py=huoyihou
+Mobs/ant_egg/Py=yiluan
+Mobs/fire_ant_egg/Py=huoyiluan
+Mobs/fly/Py=cangying
+Mobs/leafbug/Py=yechong
+Mobs/mantis/Py=tanglang
+Mobs/termite_baby/Py=baiyouyi
+Mobs/termite_worker/Py=baigongyi
+Mobs/termite_soldier/Py=baibingyi
+Mobs/termite_overmind/Py=baiyizhuzaizhe
+Mobs/termite_mound/Py=baiyiqiu
+Mobs/termite_egg/Py=baiyiluan
+Mobs/bush/Py=guanmucong
+Mobs/roach/Py=zhanglang
+Mobs/moth/Py=feie
+Mobs/firefly/Py=yinghuochong
+Mobs/beetle_hel/Py=jiachong
+Mobs/wasp/Py=hufeng
+Mobs/dummy/Py=xunlianjiaren
+Mobs/spider_hel/Py=zhizhu
+Mobs/centipede_hel/Py=wugong
+Mobs/centipede_hel_body/Py=wugong
+Mobs/wasp_hel/Py=hufeng
+Mobs/trader/Py=shangren
+Mobs/gambler/Py=dutu
+Mobs/oracle/Py=shenyuzhe
+Mobs/firefly_magic/Py=yinghuochong
+Mobs/titan/Py=taitan
+Mobs/beetle_nazar/Py=jiachong
+Mobs/worm/Py=ruchong
+Mobs/worm_guts/Py=ruchongneizang
+Mobs/mecha_flower/Py=jixiehua
+Mobs/wasp_mecha/Py=hufeng
+Mobs/spider_mecha/Py=zhizhu
+
+
+Achievements/0/Py=xinshoujiaocheng
+Achievements/1/Py=xinshoujiaocheng
+Achievements/2/Py=xinshoujiaocheng
+Achievements/3/Py=xinshoujiaocheng
+Achievements/4/Py=xinshoujiaocheng
+Achievements/5/Py=xinshoujiaocheng
+Achievements/6/Py=xinshoujiaocheng
+Achievements/7/Py=xinshoujiaocheng
+Achievements/8/Py=xinshoujiaocheng
+Achievements/9/Py=xinshoujiaocheng
+Achievements/10/Py=hechengshi
+Achievements/11/Py=hechengshi
+Achievements/12/Py=hechengshi
+Achievements/13/Py=hechengshi
+Achievements/14/Py=hechengshi
+Achievements/15/Py=hechengshi
+Achievements/16/Py=hechengshi
+Achievements/17/Py=anweijiang
+Achievements/18/Py=anweijiang
+Achievements/19/Py=anweijiang
+Achievements/20/Py=chengweiwajuezhe
+Achievements/21/Py=zhuozhuangchengzhang
+Achievements/22/Py=zhuozhuangchengzhang
+Achievements/23/Py=zhuozhuangchengzhang
+Achievements/24/Py=zhuozhuangchengzhang
+Achievements/25/Py=zhuozhuangchengzhang
+Achievements/26/Py=zhuozhuangchengzhang
+Achievements/27/Py=zhuozhuangchengzhang
+Achievements/28/Py=huihuowudu
+Achievements/29/Py=zishenhechengshi
+Achievements/30/Py=shalipiaoyang
+Achievements/31/Py=haidixiaozongdui
+Achievements/32/Py=huanyinglaidaoconglin
+Achievements/33/Py=mayizhijia
+Achievements/34/Py=angzangdexiashuidao
+Achievements/35/Py=shengwuzhengfuzhe
+Achievements/36/Py=shengwuzhengfuzhe
+Achievements/37/Py=shengwuzhengfuzhe
+Achievements/38/Py=shengwuzhengfuzhe
+Achievements/39/Py=shengwuzhengfuzhe
+Achievements/40/Py=shengwuzhengfuzhe
+Achievements/41/Py=shengwuzhengfuzhe
+Achievements/42/Py=quwanghefang
+Achievements/43/Py=chushitiaozhan
+Achievements/44/Py=tiaozhanlieren
+Achievements/45/Py=tiaozhanlieren
+Achievements/46/Py=tiaozhanlieren
+Achievements/47/Py=zhengzhuangdaizhen
+Achievements/48/Py=zhengzhuangdaizhen
+Achievements/49/Py=zhengzhuangdaizhen
+Achievements/50/Py=zhengzhuangdaizhen
+Achievements/51/Py=zhengzhuangdaizhen
+Achievements/52/Py=zhengzhuangdaizhen
+Achievements/53/Py=zhengzhuangdaizhen
+Achievements/54/Py=zhaohuandashi
+Achievements/55/Py=zhaohuandashi
+Achievements/56/Py=zhaohuandashi
+Achievements/57/Py=zhaohuandashi
+Achievements/58/Py=shanshanfaliang
+Achievements/59/Py=zoucuoyouxile
+Achievements/60/Py=tongkuihuoshou
+Achievements/61/Py=tongkuihuoshou
+Achievements/62/Py=tongkuihuoshou
+Achievements/63/Py=yijizhiming
+Achievements/64/Py=yijizhiming
+Achievements/65/Py=yijizhiming
+Achievements/66/Py=yijizhiming
+Achievements/67/Py=yijizhiming
+Achievements/68/Py=beishaiheile
+Achievements/69/Py=jishuwenti
+Achievements/70/Py=zheshibaiyi
+Achievements/71/Py=hepingzhuyizhe
+Achievements/72/Py=gaishanglule
+Achievements/73/Py=baihuadiaoling
+Achievements/74/Py=qisihuisheng
+Achievements/75/Py=shirijiuxing
+Achievements/76/Py=yingxiongchuanshuo
+Achievements/77/Py=shangdishijiao
+Achievements/78/Py=tanzhibishen
+Achievements/79/Py=jiatinghuimiezhe
+Achievements/80/Py=manmenchaozhan
+Achievements/81/Py=zaogao
+Achievements/82/Py=zaogao
+Achievements/83/Py=zaogaotouding
+Achievements/84/Py=lianhuanshashou
+Achievements/85/Py=ruibukedang
+Achievements/86/Py=ruibukedang
+Achievements/87/Py=ruibukedang
+Achievements/88/Py=ruibukedang
+Achievements/89/Py=ruibukedang
+Achievements/90/Py=ruibukedang
+Achievements/91/Py=ruibukedang
+Achievements/92/Py=sheicaishi
+Achievements/93/Py=zhongzudatusha
+Achievements/94/Py=yaochanwanguan
+Achievements/95/Py=huangjinlieren
+Achievements/96/Py=shangjinlieren
+Achievements/97/Py=ziwoxisheng
+Achievements/98/Py=bulaoerhuo
+Achievements/99/Py=wuyongzhihua
+Achievements/100/Py=xingyuzhizi
+Achievements/101/Py=eyunzhizi
+Achievements/102/Py=baoruzhipian
+Achievements/103/Py=wensibudong
+Achievements/104/Py=wensibudong
+Achievements/105/Py=xiqihuqi
+Achievements/106/Py=chaoyinsushengbo
+Achievements/107/Py=chaoyinsushengbo
+Achievements/108/Py=shengwuxuejia
+Achievements/109/Py=shoujidashi
+Achievements/110/Py=zoujinshenghuo
+Achievements/111/Py=zhiyesaicheshou
+Achievements/112/Py=zhiyesaicheshou
+Achievements/113/Py=zhiyesaicheshou
+Achievements/114/Py=zhiyesaicheshou
+Achievements/115/Py=shengwuxuejia
+Achievements/116/Py=yiwushichu
+Achievements/117/Py=yiwushichu
+Achievements/118/Py=yiwushichu
+Achievements/119/Py=shidangqishi
+Achievements/120/Py=lingboweibu
+Achievements/121/Py=lingboweibu
+Achievements/122/Py=lingboweibu
+Achievements/123/Py=emozhizi
+Achievements/124/Py=shenchoudahen
+Achievements/125/Py=shenchoudahen
+Achievements/126/Py=shenchoudahen
+Achievements/127/Py=shenchoudahen
+Achievements/128/Py=baochouxuehen
+Achievements/129/Py=tongguiyujin
+Achievements/130/Py=jiaoyidacheng
+Achievements/131/Py=jiaoyidacheng
+Achievements/132/Py=jiaoyidacheng
+Achievements/133/Py=chengweidutu
+Achievements/134/Py=toujiang
+Achievements/135/Py=dubohaoke
+Achievements/136/Py=yuzhiyiqe
+Achievements/137/Py=cinaibanshangdingding
+Achievements/138/Py=mofashi
+Rarities/common/Name=普通
+Rarities/common/ArticleUpper=一个
+Rarities/common/Article=一个
+Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
+
+Rarities/unusual/Name=罕见
+Rarities/unusual/ArticleUpper=一个
+Rarities/unusual/Article=一个
+Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
+
+Rarities/rare/Name=稀有
+Rarities/rare/ArticleUpper=一个
+Rarities/rare/Article=一个
+Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
+
+Rarities/epic/Name=史诗
+Rarities/epic/ArticleUpper=一个
+Rarities/epic/Article=一个
+Rarities/epic/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Name}</c>
+
+Rarities/legendary/Name=传奇
+Rarities/legendary/ArticleUpper=一个
+Rarities/legendary/Article=一个
+Rarities/legendary/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Name}</c>
+
+Rarities/mythic/Name=神话
+Rarities/mythic/ArticleUpper=一个
+Rarities/mythic/Article=一个
+Rarities/mythic/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Name}</c>
+
+Rarities/ultra/Name=究极
+Rarities/ultra/ArticleUpper=一个
+Rarities/ultra/Article=一个
+Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
+
+Rarities/super/Name=超级
+Rarities/super/ArticleUpper=一个
+Rarities/super/Article=一个
+Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
+
+Rarities/unique/Name=唯一
+Rarities/unique/ArticleUpper=一个
+Rarities/unique/Article=一个
+Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>
+
+Talents/crafting/Name=合成
+Talents/crafting/Description=解锁合成<c val=“{0:rarity:color}”>{#Rarities/{0:rarity}/Name}</c>花瓣的能力。
+
+Talents/crafting_unusual/Name={#Talents/crafting/Name}
+Talents/crafting_unusual/Description={#Talents/crafting/Description}
+
+Talents/crafting_rare/Name={#Talents/crafting/Name}
+Talents/crafting_rare/Description={#Talents/crafting/Description}
+
+Talents/crafting_epic/Name={#Talents/crafting/Name}
+Talents/crafting_epic/Description={#Talents/crafting/Description}
+
+Talents/crafting_legendary/Name={#Talents/crafting/Name}
+Talents/crafting_legendary/Description={#Talents/crafting/Description}
+
+Talents/crafting_mythic/Name={#Talents/crafting/Name}
+Talents/crafting_mythic/Description={#Talents/crafting/Description}
+
+Talents/crafting_ultra/Name={#Talents/crafting/Name}
+Talents/crafting_ultra/Description={#Talents/crafting/Description}
+
+Talents/crafting_super/Name={#Talents/crafting/Name}
+Talents/crafting_super/Description={#Talents/crafting/Description}
+
+Talents/inventory6/Name=槽位
+Talents/inventory6/Description=启用第6个装备槽来装备花瓣。
+
+Talents/inventory7/Name=槽位
+Talents/inventory7/Description=启用第7个装备槽来装备花瓣。
+
+Talents/inventory8/Name=槽位
+Talents/inventory8/Description=启用第8个装备槽来装备花瓣。
+
+Talents/inventory9/Name=槽位
+Talents/inventory9/Description=启用第9个装备槽来装备花瓣。
+
+Talents/inventory10/Name=槽位
+Talents/inventory10/Description=启用第10个装备槽来装备花瓣。
+
+Talents/health/Name=生命
+Talents/health/Description=提高{0:perc}%的基础{#Flower/Attribute/HealthNoColon}。
+
+Talents/health1/Name={#Talents/health/Name}
+Talents/health1/Description={#Talents/health/Description}
+
+Talents/health2/Name={#Talents/health/Name}
+Talents/health2/Description={#Talents/health/Description}
+
+Talents/health3/Name={#Talents/health/Name}
+Talents/health3/Description={#Talents/health/Description}
+
+Talents/health4/Name={#Talents/health/Name}
+Talents/health4/Description={#Talents/health/Description}
+
+Talents/health5/Name={#Talents/health/Name}
+Talents/health5/Description={#Talents/health/Description}
+
+Talents/health6/Name={#Talents/health/Name}
+Talents/health6/Description={#Talents/health/Description}
+
+Talents/health7/Name={#Talents/health/Name}
+Talents/health7/Description={#Talents/health/Description}
+
+Talents/health8/Name={#Talents/health/Name}
+Talents/health8/Description={#Talents/health/Description}
+
+Talents/luck/Name=幸运
+Talents/luck/Description=提高{0:tooltip}的{#Flower/Attribute/LuckNoColon}。<n/>幸运值被特定的花瓣用来改变它们的属性。
+
+Talents/luck1/Name={#Talents/luck/Name}
+Talents/luck1/Description={#Talents/luck/Description}
+
+Talents/luck2/Name={#Talents/luck/Name}
+Talents/luck2/Description={#Talents/luck/Description}
+
+Talents/luck3/Name={#Talents/luck/Name}
+Talents/luck3/Description={#Talents/luck/Description}
+
+Talents/luck4/Name={#Talents/luck/Name}
+Talents/luck4/Description={#Talents/luck/Description}
+
+Talents/medic/Name=医疗师
+Talents/medic/Description=为你的所有花瓣提高{0:perc}%的{#Flower/Attribute/HealingNoColon}。<n/>会同时影响被你的花瓣治疗的队友。
+
+Talents/medic1/Name={#Talents/medic/Name}
+Talents/medic1/Description={#Talents/medic/Description}
+
+Talents/medic2/Name={#Talents/medic/Name}
+Talents/medic2/Description={#Talents/medic/Description}
+
+Talents/medic3/Name={#Talents/medic/Name}
+Talents/medic3/Description={#Talents/medic/Description}
+
+Talents/medic4/Name={#Talents/medic/Name}
+Talents/medic4/Description={#Talents/medic/Description}
+
+Talents/medic5/Name={#Talents/medic/Name}
+Talents/medic5/Description={#Talents/medic/Description}
+
+Talents/medic6/Name={#Talents/medic/Name}
+Talents/medic6/Description={#Talents/medic/Description}
+
+Talents/medic7/Name={#Talents/medic/Name}
+Talents/medic7/Description={#Talents/medic/Description}
+
+Talents/medic8/Name={#Talents/medic/Name}
+Talents/medic8/Description={#Talents/medic/Description}
+
+Talents/summoner/Name=召唤师
+Talents/summoner/Description=为你召唤的生物提高{0:perc}%的{#Mob/Attribute/HealthNoColon}。
+
+Talents/summoner1/Name={#Talents/summoner/Name}
+Talents/summoner1/Description={#Talents/summoner/Description}
+
+Talents/summoner2/Name={#Talents/summoner/Name}
+Talents/summoner2/Description={#Talents/summoner/Description}
+
+Talents/summoner3/Name={#Talents/summoner/Name}
+Talents/summoner3/Description={#Talents/summoner/Description}
+
+Talents/summoner4/Name={#Talents/summoner/Name}
+Talents/summoner4/Description={#Talents/summoner/Description}
+
+Talents/summoner5/Name={#Talents/summoner/Name}
+Talents/summoner5/Description={#Talents/summoner/Description}
+
+Talents/summoner6/Name={#Talents/summoner/Name}
+Talents/summoner6/Description={#Talents/summoner/Description}
+
+Talents/summoner7/Name={#Talents/summoner/Name}
+Talents/summoner7/Description={#Talents/summoner/Description}
+
+Talents/summoner8/Name={#Talents/summoner/Name}
+Talents/summoner8/Description={#Talents/summoner/Description}
+
+Talents/reload1/Name=冷却
+Talents/reload1/Description=将花瓣的重新加载时间减少{0:perc}%<n/>同时将交换花瓣时的最小重新加载时间从{3}秒减少至{2}秒。
+
+Talents/reload2/Name=冷却
+Talents/reload2/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小重新加载时间从{3}秒减少至{2}秒。
+
+Talents/reload3/Name=冷却
+Talents/reload3/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小重新加载时间从{3}秒减少至{2}秒。
+
+Talents/reload4/Name=冷却
+Talents/reload4/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小重新加载时间从{3}秒减少至{2}秒。
+
+Talents/reload5/Name=冷却
+Talents/reload5/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小重新加载时间从{3}秒减少至{2}秒。
+
+Talents/reload6/Name=冷却
+Talents/reload6/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%
+
+Talents/reload7/Name=冷却
+Talents/reload7/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%
+
+Talents/reload8/Name=冷却
+Talents/reload8/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%
+
+Talents/body_damage/Name=锋利边缘
+Talents/body_damage/Description=提高{0:perc}%的{#Flower/Attribute/BodyDamageNoColon}。
+
+Talents/body_damage1/Name={#Talents/body_damage/Name}
+Talents/body_damage1/Description={#Talents/body_damage/Description}
+
+Talents/body_damage2/Name={#Talents/body_damage/Name}
+Talents/body_damage2/Description={#Talents/body_damage/Description}
+
+Talents/body_damage3/Name={#Talents/body_damage/Name}
+Talents/body_damage3/Description={#Talents/body_damage/Description}
+
+Talents/body_damage4/Name={#Talents/body_damage/Name}
+Talents/body_damage4/Description={#Talents/body_damage/Description}
+
+Talents/body_damage5/Name={#Talents/body_damage/Name}
+Talents/body_damage5/Description={#Talents/body_damage/Description}
+
+Talents/body_damage6/Name={#Talents/body_damage/Name}
+Talents/body_damage6/Description={#Talents/body_damage/Description}
+
+Talents/body_damage7/Name={#Talents/body_damage/Name}
+Talents/body_damage7/Description={#Talents/body_damage/Description}
+
+Talents/body_damage8/Name={#Talents/body_damage/Name}
+Talents/body_damage8/Description={#Talents/body_damage/Description}
+
+Talents/petal_rotation/Name=花瓣旋转
+Talents/petal_rotation/Description=将花瓣的{#Flower/Attribute/RotationSpeedNoColon}从{1:tooltip}提高到{0:tooltip}弧度每秒。
+
+Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation1/Description={#Talents/petal_rotation/Description}
+
+Talents/petal_rotation2/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation2/Description={#Talents/petal_rotation/Description}
+
+Talents/petal_rotation3/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation3/Description={#Talents/petal_rotation/Description}
+
+Talents/petal_rotation4/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation4/Description={#Talents/petal_rotation/Description}
+
+Talents/petal_rotation5/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation5/Description={#Talents/petal_rotation/Description}
+
+Talents/reach/Name=延伸
+Talents/reach/Description=提高{0:tooltip}花瓣的{#Flower/Attribute/AttackRangeNoColon}。
+
+Talents/reach1/Name={#Talents/reach/Name}
+Talents/reach1/Description={#Talents/reach/Description}
+
+Talents/reach2/Name={#Talents/reach/Name}
+Talents/reach2/Description={#Talents/reach/Description}
+
+Talents/reach3/Name={#Talents/reach/Name}
+Talents/reach3/Description={#Talents/reach/Description}
+
+Talents/second_chance1/Name=第二次机会
+Talents/second_chance1/Description=在受到致命伤害后的{0:tooltip}秒内避免死亡。冷却时间为{1:tooltip}秒。
+
+Talents/second_chance2/Name=第二次机会
+Talents/second_chance2/Description=在原有基础上，持续时间增加到{0:tooltip}秒，冷却时间减少到{1:tooltip}秒。
+
+Talents/magnetism/Name=磁性
+Talents/magnetism/Description=在花朵活着时，将花瓣拾取范围增加 {0}。
+
+Talents/body_toxicity/Name=身体毒性
+Talents/body_toxicity/Description=与敌人相撞时，造成额外伤害<n/>等于持续时间为{1:tooltip}秒的以{0:tooltip}倍{#Flower/Attribute/BodyDamageNoColon}为总量的{#Attribute/PoisonNoColon}伤害。
+
+Talents/poison/Name=剧毒
+Talents/poison/Description=将全部{#Attribute/PoisonNoColon}伤害提升{0:perc}%。
+
+Talents/poison1/Name={#Talents/poison/Name}
+Talents/poison1/Description={#Talents/poison/Description}
+
+Talents/poison2/Name={#Talents/poison/Name}
+Talents/poison2/Description={#Talents/poison/Description}
+
+Talents/poison3/Name={#Talents/poison/Name}
+Talents/poison3/Description={#Talents/poison/Description}
+
+Talents/poison4/Name={#Talents/poison/Name}
+Talents/poison4/Description={#Talents/poison/Description}
+
+Talents/poison5/Name={#Talents/poison/Name}
+Talents/poison5/Description={#Talents/poison/Description}
+
+Talents/poison6/Name={#Talents/poison/Name}
+Talents/poison6/Description={#Talents/poison/Description}
+
+Talents/poison7/Name={#Talents/poison/Name}
+Talents/poison7/Description={#Talents/poison/Description}
+
+Talents/poison8/Name={#Talents/poison/Name}
+Talents/poison8/Description={#Talents/poison/Description}
+
+Talents/concentrated_poison/Name=集中剧毒
+Talents/concentrated_poison/Description=在增加{#Attribute/PoisonNoColon}每秒伤害{0:perc}%的同时，<n/>减少{#Attribute/PoisonNoColon}持续时间{1:perc}%
+
+Talents/duplicator/Name=有丝分裂
+Talents/duplicator/Description=为至少有{0:tooltip}副本的花瓣添加额外的一个副本。
+
+Talents/antennae1/Name=触角
+Talents/antennae1/Description=使视野范围增加{0:perc}%。
+
+Talents/antennae2/Name=触角
+Talents/antennae2/Description=使视野范围从{2:perc}%增加到{1:perc}%。
+
+Talents/antennae3/Name=触角
+Talents/antennae3/Description=使视野范围从{2:perc}%增加到{1:perc}%。
+
+Tutorial/Start=<s val="1.5">新手教程</s><n/><n/>您似乎是新手，让我们为您介绍一下基础知识。<n/>单击“准备”开始
+Tutorial/End=<s val="1.5">新手教程</s><n/><n/>就是这样！记得使用库存来装备和取消装备花瓣<n/>你可以点击花瓣来装备/取消装备它。<n/><n/>继续收藏更多花瓣吧，祝你好运！
+Tutorial/MustBeAlive=你必须活着才能继续新手教程。
+Tutorial/MustBeInGame=对于本教程的这一部分，您必须在游戏中，只需单击绿色的“准备”按钮即可。
+Tutorial/MustLeaveGame=要继续新手教程，请单击左上角的“退出游戏”按钮放弃此游戏。
+Tutorial/Next=继续
+Tutorial/Done=完成
+
+UI/Language/Name=中文（简体）
+
+UI/Time/Days={#UI/Time/Days/{0:1orN}}
+UI/Time/Hours={#UI/Time/Hours/{0:1orN}}
+UI/Time/Minutes={#UI/Time/Minutes/{0:1orN}}
+UI/Time/Seconds={#UI/Time/Seconds/{0:1orN}}
+UI/Time/Now=瞬间
+
+UI/TimeLeft/Days=在{#UI/Time/Days/{0:1orN}}后
+UI/TimeLeft/Hours=在{#UI/Time/Hours/{0:1orN}}后
+UI/TimeLeft/Minutes=在{#UI/Time/Minutes/{0:1orN}}后
+UI/TimeLeft/Seconds=在{#UI/Time/Seconds/{0:1orN}}后
+UI/TimeLeft/Now=瞬间
+
+UI/TooltipTime/Days={#UI/TooltipTime/Days/{0:1orN}}
+UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{0:1orN}}
+UI/TooltipTime/Minutes={#UI/TooltipTime/Minutes/{0:1orN}}
+UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{0:1orN}}
+UI/TooltipTime/Now=瞬间
+
+UI/Tooltip/None={0}
+UI/Tooltip/Thousand={0}千
+UI/Tooltip/Million={0}百万
+UI/Tooltip/Billion={0}十亿
+UI/Tooltip/Trillion={0}兆
+
+# Helpers
+UI/Time/Days/1=1天
+UI/Time/Days/N={0}天
+UI/Time/Hours/1=1小时
+UI/Time/Hours/N={0}小时
+UI/Time/Minutes/1=1分钟
+UI/Time/Minutes/N={0}分钟
+UI/Time/Seconds/1=1秒
+UI/Time/Seconds/N={0}秒
+
+UI/TooltipTime/Days/1=1天
+UI/TooltipTime/Days/N={0:tooltip}天
+UI/TooltipTime/Hours/1=1小时
+UI/TooltipTime/Hours/N={0:tooltip}小时
+UI/TooltipTime/Minutes/1=1分钟
+UI/TooltipTime/Minutes/N={0:tooltip}分钟
+UI/TooltipTime/Seconds/1=1秒
+UI/TooltipTime/Seconds/N={0:tooltip}秒
+
+UI/Title/Loading=正 在 加 载 中 ......
+UI/Title/Connecting=正 在 连 接 中 ......
+UI/Title/LoggingIn=正 在 登 录 中 ......
+UI/Title/Ready=准 备
+UI/Title/GuestName=游客
+UI/Title/GuestLimitation=您可以在到达{0}级或关联账号后修改名称。
+UI/Title/Name/Bad=您的名称被重置了，请选择一个新的名称。
+UI/Title/Name/AlreadyTaken=此名称已被取用。
+UI/Title/Name/InternalError=出现内部错误，请稍后再试。
+
+UI/Title/Biome={#UI/Title/Biome/{0}}
+UI/Title/Biome/0= 花   园 
+UI/Title/Biome/1= 沙   漠 
+UI/Title/Biome/2= 海   洋 
+UI/Title/Biome/3= 丛   林 
+UI/Title/Biome/4= 冥   界 
+
+UI/Login/Title=账户
+UI/Login/PlayAsGuest=以游客身份游玩
+UI/Login/SignInApple=用Apple登录
+UI/Login/SignInDiscord=用Discord登录
+UI/Login/Logout=退出登录
+UI/Login/AccountID=账户ID：
+UI/Login/Connecting=(正在连接)
+UI/Login/GuestName=游客
+UI/Login/GuestInfo=如果在此设备上已有一个游客账户，<n/>登录会关联您的账户并且保存您的游戏进度。
+UI/Login/LinkInfo=您可以关联账户从而<n/>在设备间保存您的游戏进度。
+UI/Login/Linked=已关联
+UI/Login/SupportPIN=支持码: {0}
+UI/Login/SupportPINHidden=支持码: （点击显示）
+UI/Login/SupportPINInstructions1=请保持此识别码以防止您丢失了对账户的访问权限。
+UI/Login/SupportPINInstructions2=不要把你的支持码分享给任何人。
+UI/Login/Reminder=请关联账户来保存您的游戏进度。
+
+UI/Social/Discord=加入我们的Discord社区！
+UI/Social/QQ=加入我们的QQ群！
+
+UI/AbandonGame=退出游戏
+
+UI/LevelBar/Level=等级 {0}
+UI/LevelBar/LevelLong=等级 {0} 花朵
+UI/LevelBar/XP={0}/{1} 经验
+
+UI/Chat/PromptTap=轻击这里聊天
+UI/Chat/PromptClick=点击这里聊天
+UI/Chat/PromptKeyboardOrClick=按下【ENTER】或点击这里聊天
+UI/Chat/Player/Block=屏蔽
+UI/Chat/Player/ReportMessage=举报不雅消息
+
+UI/Flower/Level=等级 {0}
+UI/Death/Title=你死了，凶手是：
+UI/Death/NoSource=一个神秘实体
+UI/Death/Continue=继续
+UI/Death/Close=关闭
+
+UI/AFKCheck/Title=挂机检测
+UI/AFKCheck/Instructions=将圆球拖动到终点
+
+UI/Achievements/Title=成就
+UI/Achievements/Reward=奖励
+UI/Achievements/RewardTP={0} 天赋点
+UI/Achievements/Done=已完成
+UI/Achievements/Track=跟踪进度
+UI/Achievements/TrackAutomatically=自动跟踪
+UI/Achievements/Hidden=？？？
+UI/Achievements/TotalProgress={0}/{1} 已完成
+
+UI/MobGallery/Title=生物图鉴
+
+UI/Changelog/Title=更新日志
+UI/Changelog/Bottom=旧的更新日志条目不可用
+
+UI/Inventory/Title=背包
+UI/Inventory/Stack=同种花瓣堆叠
+UI/Inventory/Instructions=拖动花瓣以装备
+UI/Inventory/Speed=转速
+
+UI/Guild/Title=公会
+UI/Guild/NoGuild=你还没有加入一个公会
+UI/Guild/Invite=你被邀请至公会：
+UI/Guild/Invite/Button=接受
+UI/Guild/Invite/Expiration=如果不接受，此邀请会很快失效
+UI/Guild/ChatSetting=公会聊天
+UI/Guild/SquadButton=组队
+UI/Guild/KickButton=踢出
+UI/Guild/Leader=（会长）
+UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
+UI/Guild/Members/1=共有1个成员
+UI/Guild/Members/N=共有{0}个成员
+UI/Guild/LeaveButton=离开
+UI/Guild/Leave/Title=离开公会
+UI/Guild/Leave/Instructions=你确定要离开公会吗？
+UI/Guild/Leave/Confirm=离开
+UI/Guild/Leave/Cancel=取消
+
+UI/Squad/Title=小队
+UI/Squad/Error/NotAllowed=此模式中不允许组队。
+UI/Squad/Error/Spam=你做得太频繁了。
+UI/Squad/Error/DoesNotExist=小队不存在。
+UI/Squad/Error/CannotJoin=你无法加入此小队。
+UI/Squad/Error/LevelDifference=你的等级与小队中其他成员的等级差距过大。
+UI/Squad/Error/Full=小队已满。
+
+UI/Shop/Title=商店
+UI/Shop/Button=商店
+UI/Shop/Instructions=今日特惠：
+UI/Shop/TimeLeft=商店会{0:timeLeft}换新
+UI/Shop/Lock=锁定
+UI/Shop/LockedChanged=一旦取消锁定，商店会立即改变。
+UI/Shop/LockedNoChange=一旦锁定，商店不会再改变。
+UI/Shop/StarsHelp1=您可以通过完成挑战获得星星，或者你可以
+UI/Shop/StarsHelp2=点击右边的数字购买一些星星。
+UI/Shop/MustLink1=要进行任何购买，您必须首先
+UI/Shop/MustLink2=关联您的账户至Apple或Discord。
+UI/Shop/MustLinkCancel=取消
+UI/Shop/BuyStars/Instructions=如果您对购买有任何问题，<n/>请通过邮件联系我们的支付处理商：<n/>support@xsolla.com或者在xsolla.com在线聊天。
+UI/Shop/BuyStars/Extra=我的钱太多了
+UI/Shop/BuyStars/Cancel=取消
+UI/Shop/BuyPetal/Title=确定
+UI/Shop/BuyPetal/Instructions=您确定要买此花瓣吗？<n/><c val="{#Colors/danger}">Petal purchases are not refundable</c>
+UI/Shop/BuyPetal/Cancel=取消
+UI/Shop/MagicPetalError/Title=出错了
+UI/Shop/MagicPetalError/Instructions=直到你有一个{#Petals/{0}/FullName}前<n/>你不能购买魔法花瓣。
+UI/Shop/MagicPetalError/Cancel=取消
+UI/Shop/Loyalty/Title=谢谢！
+UI/Shop/Loyalty/Instructions=作为对于您支持我们的感谢，<n/>我们想免费给您一些星星。<n/><n/>这取决于您之前花费的金额，<n/>与您已经花费的金额相同，但套餐优惠更大。
+
+
+UI/DailyChallenge/Title=挑战
+UI/DailyChallenge/Button=挑战
+UI/DailyChallenge/Instructions=击败这些生物：
+UI/DailyChallenge/TimeLeft=挑战会{0:timeLeft}换新
+UI/DailyChallenge/Claimed=已领取
+UI/DailyChallenge/SupportersOnly=此挑战只对<n/>支持者开放
+
+UI/Petal/Name={#Petals/{0:base}/Name}
+UI/Petal/SortName={#Petals/{0:base}/Py}
+UI/Petal/FullName={#Petals/{0:base}/FullName}
+UI/Petal/Description={#Petals/{0:base}/Description}
+UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+
+UI/Mob/Name={#Mobs/{0:base}/Name}
+UI/Mob/SortName={#Mobs/{0:base}/Py}
+UI/Mob/Description={#Mobs/{0:base}/Description}
+UI/Mob/Rarity={#Rarities/{0:rarity}/Name}
+
+UI/Map/Name={#Maps/{0}/Name}
+
+UI/Achievements/Name={#Achievements/{0}/Name:1-}
+UI/Achievements/SortName={#Achievements/{0}/Py:1-}
+UI/Achievements/Description={#Achievements/{0}/Description:1-}
+UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+
+UI/Talent/Title=天赋
+UI/Talent/Name={#Talents/{0}/Name:1-}
+UI/Talent/Description={#Talents/{0}/Description:1-}
+UI/Talent/Rarity={#Rarities/{0}/Name}
+UI/Talent/TP=天赋点
+UI/Talent/Tooltip=你可以通过升级来获得更多天赋点。
+UI/Talent/Reset=重置
+
+UI/Craft/Title=合成
+UI/Craft/Button=合成
+UI/Craft/Chance={0:perc}%成功概率
+UI/Craft/UnknownChance=?%成功概率
+UI/Craft/CombineInstructions=组合{0}个相同的花瓣来进行一次升级
+UI/Craft/FailureInstructions=失败会损失{0}~{1}个花瓣
+
+UI/Absorb/Title=吸收
+UI/Absorb/Button=吸收
+UI/Absorb/Instructions=吸收花瓣可以获得经验<n/><c val="{#Colors/danger}">警告：这些花瓣会在过程中丢失</c>
+
+UI/CoinCraft/Title=交易
+UI/CoinCraft/Button=交易
+UI/CoinCraft/Instructions=你可以用一片花瓣换一枚同样稀有度的硬币
+UI/CoinCraft/Delay=你可以{0:timeLeft}继续交易
+
+UI/OracleCraft/Title=神谕
+UI/OracleCraft/Button=合成
+UI/OracleCraft/Instructions=神谕者会用一个合适的价格来保证一次合成的成功。
+UI/OracleCraft/Delay=你可以{0:timeLeft}继续合成
+
+UI/Plinko/Title=弹珠游戏
+UI/Plinko/Auto=自动
+
+UI/UniqueCraft/Title=锻造
+UI/UniqueCraft/Button=锻造
+UI/UniqueCraft/Instructions=一个唯一的花瓣将持续到另一个玩家锻造出相同的花瓣<n/>当这种情况发生时，将会返还您所消耗的超级花瓣<n/>每锻造一次花瓣，成本都会增加。
+UI/UniqueCraft/NoSupers=您还没有任何超级花瓣可以尝试此操作。
+
+UI/Death/Poison=剧毒
+
+UI/Settings/Title=设置
+UI/Settings/Game=游戏
+UI/Settings/Graphics=图像
+UI/Settings/Controls=控制
+UI/Settings/Credits=致谢
+
+UI/Settings/Language=语言
+UI/Settings/Language/Warning=注意：只有在游戏重新启动后才会生效
+UI/Settings/Language/Automatic=自动
+
+UI/Settings/Realm=服务器
+UI/Settings/Realms={#UI/Settings/Realms/{0}}
+UI/Settings/Realms/0=自动
+UI/Settings/Realms/1=朱丽叶（美国）
+UI/Settings/Realms/2=罗密欧（欧洲）
+UI/Settings/Realms/3=塞拉（亚洲）
+
+UI/Settings/Chat=聊天
+UI/Settings/ChatWhispers=密语聊天
+
+UI/Settings/AutoJoinSquads=自动加入小队
+
+UI/Settings/HideOtherPetals=隐藏其他人的花瓣
+
+UI/Settings/EquipDrops=自动装备掉落物
+
+UI/Settings/Quality=画面质量
+UI/Settings/Quality/Low=低质量
+UI/Settings/Quality/Medium=中质量
+UI/Settings/Quality/High=高质量
+
+UI/Settings/ShowDamageNumbers=显示伤害数值
+
+UI/Settings/ScreenShake=受伤屏幕震动
+
+UI/Settings/LiveIcons=实时花瓣显示
+
+UI/Settings/TouchControls=触摸控制
+
+UI/Settings/KeyboardMovement=键盘移动方式
+
+UI/Settings/MovementHelper=鼠标移动辅助
+
+UI/Settings/FixedJoystick=固定式摇杆
+
+UI/Settings/AutoSaveLoadout=自动保存装备
+
+UI/Settings/PrivacyPolicy=隐私政策
+UI/Settings/TermsOfService=服务条款
+
+UI/Credits/MadeBy=由{0}制作
+UI/Credits/SomeIcons={0}提供了一些图标
+UI/Credits/SomeTiles={0}提供了一些地板样式
+UI/Credits/SpecialThanks=特别鸣谢
+
+# The little arrows around dead flowers
+UI/HelperText/Guild=公会成员
+UI/HelperText/Squad=小队成员
+
