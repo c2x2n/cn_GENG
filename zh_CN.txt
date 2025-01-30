@@ -1945,7 +1945,7 @@ Petals/nazar/Description=将花朵受到的一次实际伤害降低98%。
 
 Petals/mimic/Name=拟态
 Petals/mimic/FullName=拟态
-Petals/mimic/Description=用与此花瓣相同的稀有度复制此花瓣左边的花瓣。
+Petals/mimic/Description=用与此花瓣相同的品质复制此花瓣左边的花瓣。
 
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
 Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
@@ -2815,7 +2815,7 @@ UI/Absorb/Instructions=吸收花瓣可以获得经验<n/><c val="{#Colors/danger
 
 UI/CoinCraft/Title=交易
 UI/CoinCraft/Button=交易
-UI/CoinCraft/Instructions=你可以用一片花瓣换一枚同样稀有度的硬币
+UI/CoinCraft/Instructions=你可以用一片花瓣换一枚同样品质的硬币
 UI/CoinCraft/Delay=你可以{0:timeLeft}继续交易
 
 UI/OracleCraft/Title=神谕
