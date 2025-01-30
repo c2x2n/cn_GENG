@@ -2691,8 +2691,8 @@ UI/Chat/Player/Block=屏蔽
 UI/Chat/Player/ReportMessage=举报不雅消息
 
 UI/Flower/Level=等级 {0}
-UI/Death/Title=你死了，凶手是：
-UI/Death/NoSource=一个神秘实体
+UI/Death/Title=你被摧毁了，凶手是：
+UI/Death/NoSource=一个神秘的实体
 UI/Death/Continue=继续
 UI/Death/Close=关闭
 
