@@ -1396,7 +1396,7 @@ Mobs/rock/Spawn=花草之上，隐约浮现出一座如山峦般的巨物……
 
 Mobs/cactus/Name=仙人掌
 Mobs/cactus/Description=不要碰它，它的刺很疼。
-Mobs/cactus/Spawn=沙海之中，一座荆棘塔拔地而起直指苍穹……
+Mobs/cactus/Spawn=沙海之中，一座荆棘塔拔地而起破土擎天……
 
 Mobs/ladybug/Name=瓢虫
 Mobs/ladybug/Description=可爱而无害。
@@ -2680,6 +2680,11 @@ UI/LevelBar/Level=等级 {0}
 UI/LevelBar/LevelLong=等级 {0} 花朵
 UI/LevelBar/XP={0}/{1} 经验
 
+UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
+UI/Scoreboard/Title/1=1 朵花
+UI/Scoreboard/Title/N={0} 朵花
+UI/Scoreboard/HiddenName=玩家 #{0}
+
 UI/Chat/PromptTap=轻击这里聊天
 UI/Chat/PromptClick=点击这里聊天
 UI/Chat/PromptKeyboardOrClick=按下【ENTER】或点击这里聊天
@@ -2691,6 +2696,7 @@ UI/Death/Title=你被摧毁了，凶手是：
 UI/Death/NoSource=一个神秘的实体
 UI/Death/Continue=继续
 UI/Death/Close=关闭
+UI/Death/CollectedThisRun=本轮收集花瓣
 
 UI/AFKCheck/Title=挂机检测
 UI/AFKCheck/Instructions=将圆球拖动到终点
