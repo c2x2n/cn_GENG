@@ -312,7 +312,7 @@ Achievements/100/Name=幸运之子
 Achievements/100/Description=合成花瓣时，连续成功{0}次。
 
 Achievements/101/Name=厄运之子
-Achievements/101/Description=合成花瓣时，连续成功{0}次。
+Achievements/101/Description=合成花瓣时，连续失败{0}次。
 
 Achievements/102/Name=薄如纸片
 Achievements/102/Description=死于高于花朵最大生命值的一次伤害。
@@ -528,7 +528,7 @@ Petal/Attribute/Mana=<c val="{#Colors/mana}">魔力值:</c> {0:tooltip}
 Petal/Attribute/ManaPerSecond=<c val="{#Colors/mana}">魔力值:</c> {0:tooltip}/秒
 Petal/Attribute/BaseMaxMana=<c val="{#Colors/mana}">基础魔力上限:</c> {0:tooltip}
 Petal/Attribute/MaxMana=<c val="{#Colors/mana}">魔力上限:</c> +{0:tooltip}
-Petal/Attribute/AllowsFindingMagicPetals=<c val="{#Colors/mana}">允许你寻找魔法花瓣。</c>
+Petal/Attribute/AllowsFindingMagicPetals=<c val="{#Colors/mana}">可以寻找魔法花瓣。</c>
 Petal/Attribute/DamageAbsorptionPerMana=<c val="{#Colors/generic}">伤害吸收:</c> {0:tooltip}/<c val="{#Colors/mana}">魔力</c>
 Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">闪电:</c> {0:tooltip}/<c val="{#Colors/mana}">魔力</c>
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">生成消耗:</c> {0:tooltip} <c val="{#Colors/mana}">魔力</c>
@@ -1555,7 +1555,7 @@ Mobs/moth/Description=容易受惊，请对它们好点。
 
 Mobs/firefly/Name=萤火虫
 Mobs/firefly/Description=呜呜呜哦好闪亮。
-Mobs/firefly/Spawn=地平线上，一道刺目的诡谲光芒刺破夜幕……
+Mobs/firefly/Spawn=地平线上，一道明亮的黄色光芒刺破夜幕……
 
 Mobs/beetle_hel/Name=甲虫
 Mobs/beetle_hel/Description=在异域诞生的祸害。
@@ -2856,9 +2856,9 @@ UI/Settings/HideOtherPetals=隐藏其他人的花瓣
 UI/Settings/EquipDrops=自动装备掉落物
 
 UI/Settings/Quality=画面质量
-UI/Settings/Quality/Low=低质量
-UI/Settings/Quality/Medium=中质量
-UI/Settings/Quality/High=高质量
+UI/Settings/Quality/Low=低
+UI/Settings/Quality/Medium=中
+UI/Settings/Quality/High=高
 
 UI/Settings/ShowDamageNumbers=显示伤害数值
 
