@@ -147,6 +147,8 @@ UI/Petal/SortName={#Petals/{0:base}/Py}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
+UI/Petal/Reload1={0}秒
+UI/Petal/Reload2={0}秒 + {1}秒
 
 UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/SortName={#Mobs/{0:base}/Py}
