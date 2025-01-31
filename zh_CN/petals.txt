@@ -288,7 +288,7 @@ Petals/disc/Description=减少来自其他生物和花朵的碰撞伤害。
 
 Petals/shovel/Name=铲子
 Petals/shovel/FullName=铲子
-Petals/shovel/Description=在有限的时间内遁入地下，无法被攻击，但不能使用花瓣。
+Petals/shovel/Description=在一段时间内遁入地下，在此期间无法被攻击，但不能使用花瓣。
 
 Petals/coin/Name=硬币
 Petals/coin/FullName=硬币
