@@ -2756,7 +2756,7 @@ UI/Shop/BuyStars/Instructions=如果您对购买有任何问题，<n/>请通过�
 UI/Shop/BuyStars/Extra=我的钱太多了
 UI/Shop/BuyStars/Cancel=取消
 UI/Shop/BuyPetal/Title=确定
-UI/Shop/BuyPetal/Instructions=您确定要买此花瓣吗？<n/><c val="{#Colors/danger}">Petal purchases are not refundable</c>
+UI/Shop/BuyPetal/Instructions=您确定要买此花瓣吗？<n/><c val="{#Colors/danger}">已购买的花瓣不支持退款</c>
 UI/Shop/BuyPetal/Cancel=取消
 UI/Shop/MagicPetalError/Title=出错了
 UI/Shop/MagicPetalError/Instructions=直到你有一个{#Petals/{0}/FullName}前<n/>你不能购买魔法花瓣。
