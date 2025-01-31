@@ -1,18 +1,18 @@
 Achievements/0/Name=新手教程
 Achievements/0/Description=稍微移动一下。
-Achievements/0/ExtraDescription=使用鼠标移动，您的花朵会自动跟随光标移动。<n/>您可以在设置菜单中更改为键盘移动。<n/><n/>移动一点点即可继续教程。
+Achievements/0/ExtraDescription=使用鼠标以移动，您的花朵会自动跟随光标。<n/>您可以在设置菜单中更改为键盘移动。<n/><n/>稍微移动一点点即可继续。
 
 Achievements/1/Name=新手教程
-Achievements/1/Description=击杀一个生物。
-Achievements/1/ExtraDescription=这些昆虫是你的敌人，消灭它们有几率掉落新的花瓣。<n/><n/>现在找到一只并消灭它。<n/>你可能会发现，按住鼠标左键来延长你的花瓣会很有帮助。
+Achievements/1/Description=消灭一个生物。
+Achievements/1/ExtraDescription=这些昆虫是你的敌人，消灭它们有几率掉落新的花瓣。<n/><n/>请找到一只并消灭它。<n/>你可能会发现，按住鼠标左键来延伸你的花瓣会很有帮助。
 
 Achievements/2/Name=新手教程
 Achievements/2/Description=收集一片花瓣。
-Achievements/2/ExtraDescription=不断消灭敌人，直到它们掉落花瓣，然后靠近花瓣来收集花瓣。
+Achievements/2/ExtraDescription=不断消灭敌人，直到它们掉落花瓣，然后靠近花瓣以收集它。
 
 Achievements/3/Name=新手教程
 Achievements/3/Description=装备一片花瓣。
-Achievements/3/ExtraDescription=收集花瓣时，如果装备空间有空位，花瓣就会出现在那里，否则就会进入【背包】<n/>点击刚收集到的花瓣装备它（或使用数字快捷键）。
+Achievements/3/ExtraDescription=收集花瓣时，如果装备空间有空位，花瓣就会出现在那里，否则就会进入背包<n/>请点击刚收集到的花瓣装备它（或使用数字快捷键）。
 
 # Disabled
 Achievements/4/Name=新手教程
@@ -21,19 +21,19 @@ Achievements/4/ExtraDescription=下一步，我们需要大量花瓣<n/>继续�
 
 Achievements/5/Name=新手教程
 Achievements/5/Description=达到{0}级。
-Achievements/5/ExtraDescription=要想提升等级，只需不断消灭一些昆虫。
+Achievements/5/ExtraDescription=想要提升等级，只需不断消灭昆虫。
 
 Achievements/6/Name=新手教程
 Achievements/6/Description=使用你的天赋点。
-Achievements/6/ExtraDescription=使用你获得的新天赋点来解锁任何天赋<n/><n/>请记住，你需要点击并按住来升级天赋。
+Achievements/6/ExtraDescription=使用你获得的新天赋点来解锁任意天赋<n/><n/>请记住，你需要点击并长安来升级天赋。
 
 Achievements/7/Name=新手教程
 Achievements/7/Description=收集一些花瓣。
-Achievements/7/ExtraDescription=现在我们需要收集{0}个相同的{#Rarities/{1}/NameColored}花瓣来制作{#Rarities/{2}/Article}{#Rarities/{2}/NameColored}花瓣。<n/>继续消灭一些昆虫，收集更多的花瓣。
+Achievements/7/ExtraDescription=现在我们需要收集{0}个相同的{#Rarities/{1}/NameColored}花瓣来合成{#Rarities/{2}/Article}{#Rarities/{2}/NameColored}花瓣。<n/>继续消灭昆虫，收集更多的花瓣。
 
 Achievements/8/Name=新手教程
 Achievements/8/Description=合成一个花瓣
-Achievements/8/ExtraDescription=现在尝试合成第一片花瓣，<n/>注意，您可能需要取消一些花瓣的装备才能拿出足够的花瓣合成，<n/><n/>您需要 5 片相同的花瓣，<n/><n/>别担心，我们为这一片花瓣掷了骰子，它一定会成功的！
+Achievements/8/ExtraDescription=现在尝试合成第一个花瓣，<n/>注意，您可能需要卸下一些花瓣才足以合成，<n/><n/>您需要5个相同的花瓣，<n/><n/>别担心，我们动了点手脚，这一次一定会成功的。
 
 Achievements/9/Name=新手教程
 Achievements/9/Description=完成新手教程。
@@ -60,15 +60,15 @@ Achievements/16/Name=合成师
 Achievements/16/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
 
 Achievements/17/Name=安慰奖
-Achievements/17/Description=合成花瓣失败时损失{0}个花瓣。
+Achievements/17/Description=合成花瓣失败，并损失{0}个花瓣。
 
 Achievements/18/Name=安慰奖
-Achievements/18/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败时损失{0}个花瓣。
+Achievements/18/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败，并损失{0}个花瓣。
 
 Achievements/19/Name=安慰奖
-Achievements/19/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败时损失{0}个花瓣。
+Achievements/19/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败，并损失{0}个花瓣。
 
-Achievements/20/Name=成为挖掘者
+Achievements/20/Name=挖掘者
 Achievements/20/Description=装备一个{#Petals/cutter/Name}。
 
 Achievements/21/Name=茁壮成长
@@ -98,20 +98,20 @@ Achievements/28/Description=在合成尝试中损失{0:tooltip}个花瓣。
 Achievements/29/Name=资深合成师
 Achievements/29/Description=合成{0:tooltip}个花瓣。
 
-Achievements/30/Name=沙砾飘扬
+Achievements/30/Name=沙漠
 Achievements/30/Description=访问沙漠。
 
-Achievements/31/Name=海底小纵队
+Achievements/31/Name=海洋
 Achievements/31/Description=访问海洋。
 
 Achievements/32/Name=欢迎来到丛林
 Achievements/32/Description=访问丛林。
 
-Achievements/33/Name=蚂蚁之家
-Achievements/33/Description=看看这些讨厌的蚂蚁都是从哪里来的？
+Achievements/33/Name=蚂蚁地狱
+Achievements/33/Description=查明这些讨厌的蚂蚁都来自哪里。
 
-Achievements/34/Name=肮脏的下水道
-Achievements/34/Description=找出那根管子到底通向哪里。
+Achievements/34/Name=下水道
+Achievements/34/Description=查明那根管道到底通向哪里。
 
 Achievements/35/Name=生物征服者
 Achievements/35/Description=击败你的首个{#Rarities/{0}/Name}生物。
@@ -135,13 +135,13 @@ Achievements/41/Name=生物征服者
 Achievements/41/Description=击败你的首个{#Rarities/{0}/Name}生物
 
 Achievements/42/Name=去往何方？
-Achievements/42/Description=访问另一个位面里的不同世界。
+Achievements/42/Description=访问另一个维度里的不同世界。
 
-Achievements/43/Name=初识挑战
+Achievements/43/Name=挑战猎人
 Achievements/43/Description=完成一个挑战。
 
 Achievements/44/Name=挑战猎人
-Achievements/44/Description=完成{0}个挑战
+Achievements/44/Description=完成{0}个挑战   
 
 Achievements/45/Name=挑战猎人
 Achievements/45/Description=完成{0}个挑战
@@ -149,44 +149,44 @@ Achievements/45/Description=完成{0}个挑战
 Achievements/46/Name=挑战猎人
 Achievements/46/Description=完成{0}个挑战
 
-Achievements/47/Name=整装待阵
+Achievements/47/Name=整装待发
 Achievements/47/Description=装备{1}个{#Rarities/{0}/Name}花瓣
 
-Achievements/48/Name=整装待阵
+Achievements/48/Name=整装待发
 Achievements/48/Description=装备{1}个{#Rarities/{0}/Name}花瓣
 
-Achievements/49/Name=整装待阵
+Achievements/49/Name=整装待发
 Achievements/49/Description=装备{1}个{#Rarities/{0}/Name}花瓣
 
-Achievements/50/Name=整装待阵
+Achievements/50/Name=整装待发
 Achievements/50/Description=装备{1}个{#Rarities/{0}/Name}花瓣
 
-Achievements/51/Name=整装待阵
+Achievements/51/Name=整装待发
 Achievements/51/Description=装备{1}个{#Rarities/{0}/Name}花瓣
 
-Achievements/52/Name=整装待阵
+Achievements/52/Name=整装待发
 Achievements/52/Description=装备{1}个{#Rarities/{0}/Name}花瓣
 
-Achievements/53/Name=整装待阵
+Achievements/53/Name=整装待发
 Achievements/53/Description=装备{1}个{#Rarities/{0}/Name}花瓣
 
 Achievements/54/Name=召唤大师
-Achievements/54/Description=召唤一个友好生物。
+Achievements/54/Description=召唤一个友方生物。
 
 Achievements/55/Name=召唤大师
-Achievements/55/Description=召唤{0}个友好生物。
+Achievements/55/Description=召唤{0}个友方生物。
 
 Achievements/56/Name=召唤大师
-Achievements/56/Description=召唤{0}个友好生物。
+Achievements/56/Description=召唤{0}个友方生物。
 
 Achievements/57/Name=召唤大师
-Achievements/57/Description=召唤{0}个友好生物。
+Achievements/57/Description=召唤{0}个友方生物。
 
 Achievements/58/Name=闪闪发亮！
-Achievements/58/Description=消灭一只闪亮瓢虫。
+Achievements/58/Description=击杀一只闪亮瓢虫。
 
-Achievements/59/Name=走错游戏了！
-Achievements/59/Description=消灭一个正方形。
+Achievements/59/Name=走错游戏
+Achievements/59/Description=击杀一个正方形。
 
 Achievements/60/Name=痛魁祸首
 Achievements/60/Description=造成{0:tooltip}点伤害。
@@ -212,14 +212,14 @@ Achievements/66/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Na
 Achievements/67/Name=一击致命
 Achievements/67/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
 
-Achievements/68/Name=被晒黑了！
+Achievements/68/Name=被晒黑了
 Achievements/68/Description=在冥界生存{0:time}。
 
 Achievements/69/Name=技术问题
-Achievements/69/Description=找到死亡的开发者尸体。
+Achievements/69/Description=找到开发者的尸体。
 
 Achievements/70/Name=这是……白蚁？
-Achievements/70/Description=召唤一个友好的白蚁。
+Achievements/70/Description=召唤一个友方的白蚁。
 
 Achievements/71/Name=和平主义者
 Achievements/71/Description=花{0:time}欣赏大自然，同时不破坏任何东西。
@@ -227,7 +227,7 @@ Achievements/71/Description=花{0:time}欣赏大自然，同时不破坏任何�
 Achievements/72/Name=该上路了
 Achievements/72/Description=把一朵花送进冥界。
 
-Achievements/73/Name=百花凋零
+Achievements/73/Name=该上路了
 Achievements/73/Description=把{0}朵花送进冥界。
 
 Achievements/74/Name=起死回生
@@ -236,7 +236,7 @@ Achievements/74/Description=被复活。
 Achievements/75/Name=是日救星
 Achievements/75/Description=复活一朵花
 
-Achievements/76/Name=英雄传说
+Achievements/76/Name=是日救星
 Achievements/76/Description=复活{0}朵花。
 
 Achievements/77/Name=上帝视角
@@ -245,23 +245,23 @@ Achievements/77/Description=装备{#Petals/{0}/Name}。
 Achievements/78/Name=弹之彼身
 Achievements/78/Description=用{#Petals/{0}/Name}击退一个生物。
 
-Achievements/79/Name=家庭毁灭者
+Achievements/79/Name=满门抄斩
 Achievements/79/Description=消灭一个{#Mobs/{1}/Name}，{#Mobs/{2}/Name}或是{#Mobs/{3}/Name}。
 
 Achievements/80/Name=满门抄斩
 Achievements/80/Description=消灭{0}个{#Mobs/{1}/Name}，{#Mobs/{2}/Name}或是{#Mobs/{3}/Name}。
 
-Achievements/81/Name=糟糕！
+Achievements/81/Name=糟糕
 Achievements/81/Description=死亡。
 
-Achievements/82/Name=糟糕！
+Achievements/82/Name=糟糕
 Achievements/82/Description=死亡{0}次。
 
-Achievements/83/Name=糟糕透顶
+Achievements/83/Name=糟糕
 Achievements/83/Description=死亡{0}次。
 
 Achievements/84/Name=连环杀手
-Achievements/84/Description=连续在{1:time}的间隔内相继消灭{0}个生物。
+Achievements/84/Description=连续在{1:time}的间隔内相继击杀{0}个生物。
 
 Achievements/85/Name=锐不可当
 Achievements/85/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
@@ -287,7 +287,7 @@ Achievements/91/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1
 Achievements/92/Name=谁才是假人？
 Achievements/92/Description=因{#Mobs/{0}/Name}而死。
 
-Achievements/93/Name=种族大屠杀
+Achievements/93/Name=赶尽杀绝
 Achievements/93/Description=在{1:time}内击杀{0}个生物。
 
 Achievements/94/Name=腰缠万贯
@@ -296,26 +296,26 @@ Achievements/94/Description=在{1:time}内拾取{0}个掉落物。
 Achievements/95/Name=黄金猎人
 Achievements/95/Description=在{1:time}内击杀{0}个闪亮瓢虫。
 
-Achievements/96/Name=赏金猎人
-Achievements/96/Description=消灭{0}个{#Rarities/{1}/Name}生物。
+Achievements/96/Name=超级猎人
+Achievements/96/Description=击杀{0}个{#Rarities/{1}/Name}生物。
 
 Achievements/97/Name=自我牺牲
 Achievements/97/Description=在复活某人后的{0:time}内死亡。
 
 Achievements/98/Name=不劳而获
-Achievements/98/Description=在不对生物造成任何伤害的情况下获得掉落物。
+Achievements/98/Description=在不对一个生物造成任何伤害的情况下获得其战利品。
 
-Achievements/99/Name=无用之花
-Achievements/99/Description=在不对{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物造成任何伤害的情况下获得掉落物。
+Achievements/99/Name=不劳而获
+Achievements/99/Description=在不对{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物造成任何伤害的情况下获得其战利品。
 
 Achievements/100/Name=幸运之子
-Achievements/100/Description=连续合成{0}个花瓣成功。
+Achievements/100/Description=合成花瓣时，连续成功{0}次。
 
 Achievements/101/Name=厄运之子
-Achievements/101/Description=连续合成{0}个花瓣失败。
+Achievements/101/Description=合成花瓣时，连续成功{0}次。
 
 Achievements/102/Name=薄如纸片
-Achievements/102/Description=死于高于最大生命值的一次伤害。
+Achievements/102/Description=死于高于花朵最大生命值的一次伤害。
 
 Achievements/103/Name=纹丝不动
 Achievements/103/Description=在不移动的情况下，击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
@@ -323,38 +323,38 @@ Achievements/103/Description=在不移动的情况下，击杀{#Rarities/{0}/Art
 Achievements/104/Name=纹丝不动
 Achievements/104/Description=在不移动的情况下，击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
 
-Achievements/105/Name=吸气——呼气——
+Achievements/105/Name=吸气、呼气
 Achievements/105/Description=重复装备并卸下{#Petals/{0}/Name}多次。
 
-Achievements/106/Name=超音速声波
+Achievements/106/Name=超音速
 Achievements/106/Description=移动得很快。
 
-Achievements/107/Name=超音速声波
+Achievements/107/Name=超音速
 Achievements/107/Description=移动得飞快。
 
 Achievements/108/Name=生物学家
-Achievements/108/Description=在不死亡的情况下，消灭{0}种不同的生物。
+Achievements/108/Description=在不死亡的情况下，击杀{0}种不同的生物。
 
 Achievements/109/Name=收集大师
 Achievements/109/Description=在不死亡的情况下，收集{0}种不同的花瓣。
 
-Achievements/110/Name=走进生活
+Achievements/110/Name=回归生活
 Achievements/110/Description=连续{0:time}不玩游戏。
 
-Achievements/111/Name=职业赛车手
-Achievements/111/Description=在{0:time}内依次游历花园、沙漠、丛林、海洋，最后 回到花园。
+Achievements/111/Name=赛车手
+Achievements/111/Description=在{0:time}内依次访问花园、沙漠、丛林、海洋，最后回到花园。
 
-Achievements/112/Name=职业赛车手
-Achievements/112/Description=在{0:time}内依次游历花园、沙漠、丛林、海洋，最后 回到花园。
+Achievements/112/Name=赛车手
+Achievements/112/Description=在{0:time}内依次访问花园、沙漠、丛林、海洋，最后回到花园。
 
-Achievements/113/Name=职业赛车手
-Achievements/113/Description=在{0:time}内依次游历花园、沙漠、丛林、海洋，最后 回到花园。
+Achievements/113/Name=赛车手
+Achievements/113/Description=在{0:time}内依次访问花园、沙漠、丛林、海洋，最后回到花园。
 
-Achievements/114/Name=职业赛车手
-Achievements/114/Description=在{0:time}内依次游历花园、沙漠、丛林、海洋，最后 回到花园。
+Achievements/114/Name=赛车手
+Achievements/114/Description=在{0:time}内依次访问花园、沙漠、丛林、海洋，最后回到花园。
 
 Achievements/115/Name=生物学家
-Achievements/115/Description=在不死亡的情况下，消灭{0}种不同的{#Rarities/{1}/Name}及以上等级 的生物。
+Achievements/115/Description=在不死亡的情况下，击杀{0}种不同的{#Rarities/{1}/Name}及以上等级的生物。
 
 Achievements/116/Name=一无是处
 Achievements/116/Description=被{0}种不同的生物杀死。
@@ -378,19 +378,19 @@ Achievements/122/Name=凌波微步
 Achievements/122/Description=闪避{0:tooltip}伤害
 
 Achievements/123/Name=恶魔之子
-Achievements/123/Description=在不死亡的情况下，从冥界里消灭{0}个其他花朵。
+Achievements/123/Description=在不死亡的情况下，在冥界里消灭{0}朵花。
 
 Achievements/124/Name=深仇大恨
-Achievements/124/Description=在不死亡的情况下，连续击杀{0}个同种生物，在此其间 不击杀其他种类的生物。
+Achievements/124/Description=在不死亡的情况下，连续击杀{0}个同种生物，在此其间不击杀其他种类的生物。
 
 Achievements/125/Name=深仇大恨
-Achievements/125/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级 的生物，在此其间不击杀其他种类的生物。
+Achievements/125/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级的生物，在此其间不击杀其他种类的生物。
 
 Achievements/126/Name=深仇大恨
-Achievements/126/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级 的生物，在此其间不击杀其他种类的生物。
+Achievements/126/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级的生物，在此其间不击杀其他种类的生物。
 
 Achievements/127/Name=深仇大恨
-Achievements/127/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级 的生物，在此其间不击杀其他种类的生物。
+Achievements/127/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级的生物，在此其间不击杀其他种类的生物。
 
 Achievements/128/Name=报仇雪恨
 Achievements/128/Description=消灭击杀了你的生物。
@@ -398,28 +398,28 @@ Achievements/128/Description=消灭击杀了你的生物。
 Achievements/129/Name=同归于尽
 Achievements/129/Description=在你死亡后{0:time}内消灭击杀了你的生物。
 
-Achievements/130/Name=交易达成！
+Achievements/130/Name=交易达成
 Achievements/130/Description=通过交易获得一个{#Petals/{0:base}/Name}。
 
-Achievements/131/Name=交易达成！
+Achievements/131/Name=交易达成
 Achievements/131/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/Name}。
 
-Achievements/132/Name=交易达成！
+Achievements/132/Name=交易达成
 Achievements/132/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/Name}。
 
-Achievements/133/Name=成为赌徒
+Achievements/133/Name=赌徒
 Achievements/133/Description=在弹珠游戏投入{0}个筹码。
 
-Achievements/134/Name=   头   奖   ！
+Achievements/134/Name=  头  奖  ！
 Achievements/134/Description=在弹珠游戏中击中大奖。
 
-Achievements/135/Name=赌博豪客
+Achievements/135/Name=豪客
 Achievements/135/Description=在弹珠游戏中投入{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}及以上等级的{#Petals/{0:base}/Name}。
 
 Achievements/136/Name=预知一切
 Achievements/136/Description=通过神谕合成一个花瓣。
 
-Achievements/137/Name=此乃板上钉钉
+Achievements/137/Name=此乃天命
 Achievements/137/Description=通过神谕合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}及以上等级的花瓣。
 
 Achievements/138/Name=魔法师
@@ -537,419 +537,414 @@ Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">维持单位消�
 # The format for this file is different
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
-January 16th 2025
-	- Mobile now has loadouts. Hold X and you can switch loadouts by tapping the secondary petal slots. Each loadout uses the first petal in the loadout as its icon.
-	- Loading a loadout on a keyboard is done by holding L+number, or K+number for the second set of loadouts.
-	- Changed default behavior of when loadouts are saved. With auto-save enabled, they'll be saved whenever switching loadouts. If disabled, you'll need to press O to save the current loadout.
+2025年1月16日
+	-移动端现在加入了快捷换装。按住 X 键，您可以通过点击副槽位来切换配装。每个配装都使用其中的第一个花瓣作为图标。
+	-在键盘上按住L+数字加载第一组配装，按住 K+数字 加载第二组配装。
+	-更改了保存配装的途径。启用自动保存后，每次对配装的调整都会被保存。禁用时，您需要按 O 保存当前的配装。
 
-January 9th 2025
-	- Slows have been reworked. Now their effectiveness will depend on mob vs petal rarity.
-	- Yggdrasil now applies a 30s cooldown on the revived flower, preventing it from being revived again during that time.
-	- Aggressive and semi-aggressive mobs will run away if attacked by an entity that it can't attack back (behind wall, underground, etc).
-	- Some death ui improvements.
+2025年1月9日
+	-减速效果已被重新设计。现在，它们的有效性将取决于生物与花瓣的稀有度差异。
+	-世界树之叶现在对被复活的玩家施加30秒的冷却，在冷却时间内无法再次被复活。
+	-如果受到无法反击的攻击（如来自遮掩物后或地下等），主动型和中立型生物会逃跑。
+	-一些死亡ui优化。
 
-December 25th 2024
-	- As a little throwback, for a few days the Garden map will be something that might seem a little familiar.
+2024年12月25日
+	-浅浅回顾过往，在接下来的几天里，花园地图可能会有几分如从前。
 
-December 16th 2024
-	- Mana gain & cost have been reworked to scale at higher rarities.
+2024年12月16日
+	-魔力系统的数值已被重新设计，以增大跨稀有度之间的差异。
 
-December 5th 2024
-	- A few more petals got added and stuff.
+2024年12月5日
+	-增加了一些新花瓣。
 
-June 2nd 2024
-	- Talents can now be reset for free an unlimited amount of times without delay.
+2024年6月2日
+	-现在，天赋可以被立即重置，次数不限，不消耗天赋点。
 
-May 30th 2024
-	- You can now precisely control how fast/slow you want petals to rotate. Slowest is 30% of maximum speed.
+2024年5月30日
+	-现在，您可以精确控制花瓣旋转的速度。上限为原始的旋转速度，下限为上限的30%。
 
-May 22nd 2024
-	- Respawning now clears damage credit dealt to mobs for the purposes of looting. This does not apply to getting revived.
-	- Crafting talents have been removed.
+2024年5月22日
+	-重生将清空对生物造成的伤害，被世界树之叶复活除外。
+	-合成天赋已被移除。
 
-May 11th 2024
-	- Some changes were made on how achievements are stored, that means a couple of achievements will have been reset. However, because of these changes, now it's guaranteed that once you've completed an achievement, it'll be kept completed even if its requirements change.
+2024年5月11日
+	-对成就的存储方式进行了一些更改，这意味着一些成就将被重置。但如果这项成就在更改前已经被完成，它将依然保持完成状态。
 
-May 8th 2024
-	- Level requirements have been doubled, that means your level should likely have been cut in half.
-	- Added achievements. They provide TP which will replace the ones lost from the levels you lost.
-	- More achievements will be added soon.
+2024年5月8日
+	-升级所需经验增加一倍，这意味着你的等级在更新后应为原来的大约一半。
+	-增加成就系统，提供天赋点，用以补偿您由于等级降低导致遗失的天赋点。
+	-很快就会有更多的成就。
 
-April 21st 2024
-	- Absorbing has been removed.
-	- Salvaging talent has been removed.
+2024年4月21日
+	-吸收功能已被移除。
+	-经验返还天赋已被移除。
 
-April 20th 2024
-	- Destroying mobs now awards experience.
-	- The ability to absorb petals will be removed in a future update.
+2024年4月20日
+	-击败生物现在奖励经验。
+	-在未来的更新中，吸收花瓣功能将被移除。
 
-April 12th 2024
-	- Adjusted drop rates for ultra+ mobs.
-	- Some small map changes.
+2024年4月12日
+	-调整了超级及以上稀有度生物的掉落几率。
+	-一些小的地图变化。
 
-April 3rd 2024
-	- We've added daily challenges. You will now need to destroy specific mobs each day to earn stars.
-	- Stars are no longer granted passively as you play.
+2024年4月3日
+	-我们增加了日常挑战。你现在需要每天击败特定的怪物才能获得星星。
+	-游戏时长将不再获得星星。
 
-April 1st 2024
-	- Ads are now disabled for everyone. You will still earn stars as if you had watched them.
+2024年4月1日
+	-去除了广告。所有人都将通过游戏时长获取星星。
 
-January 17th 2024
-	- Crafting talents are now cheaper.
-	- Talent reset delay now depends on the player level (2 + level/3).
-	- Everyone's talent reset cooldown has been reset.
+2024年1月17日
+	-合成天赋现在更廉价了。
+	-天赋重置冷却现在取决于玩家级别：（2+等级/3）天。
+	-每个人的天赋重置冷却时间都已重置。
 
-January 14th 2024
-	- Changed keys to save/restore loadouts. L+Number loads a specific loadout, and L+Shift+Number saves the current loadout.
+2024年1月14日
+	-更改了保存/加载配装的快捷键。L+数字 加载特定的配装，L+Shift+数字 保存当前的配装。
 
-January 11th 2024
-	- Re-enabled player collisions in most cases.
+2024年1月11日
+	-在大多数情况下重新启用玩家碰撞。
 
-January 5th 2024
-	- Ultras can now spawn anywhere other mobs can (much more likely in high rarity zones). There can still only be one Ultra of each type at a time in the realm. There's still a global per-realm timer that prevents them from respawning too often.
-	- Super mobs are no longer more likely to spawn the longer an Ultra mob has gone unkilled.
-	- Poison from different players against the same mob now stack.
+2024年1月5日
+	-究极生物现在可以在任何生物生成区域生成（更有可能在高稀有区域）。同一个服务器的每种类型究极生物一次只能有一个。设置了一个冷却计时器以防止它们过于频繁地生成。
+	-超级生物现在更有可能在究极生物不常被击败的区域生成。
+	-不同玩家对同一生物的剧毒伤害现在可叠加。
 
-January 4th 2024
-	- Early-mid game progression has been adjusted significantly.
-	- Mythic- mobs should respawn a bit faster now. This should mostly affect areas that were full of players hunting them.
-	- Mobs missile health now scale like petal health instead of mob health. Their base health has been buffed to compensate.
+2024年1月4日
+	-游戏早中期进展已经进行了重大调整。
+	-神话生物现在能更快地重生。这对过多玩家活跃的地区有显著影响。
+	-现在生物弹射物的耐久乘数更像花瓣耐久的而不是生物生命值的了。增强了生物弹射物的基础耐久以补偿。
 
-January 1st 2024
-	- Approximately doubled Ultra (but not Super) mob drops.
-	- Ultra+ spawn frequency is back to before the Dec 25th update.
+2023年12月30日
+	-将大多数究极及以上稀有度生物的生命值增加一倍。
 
-December 30th 2023
-	- Doubled most Ultra+ mobs HP.
+2023年12月29日
+	-我们添加了一些基本的公会功能，很快就会增加新功能。目前只能通过聊天命令访问。
 
-December 29th 2023
-	- We've added some basic guild functionality, to be expanded soon. It's currently only accessible through chat commands.
+2023年12月25日
+	-究极生物现在以两倍的速度重生。超级生物生成概率减半，因此其频率应与之前大致相同。
 
-December 25th 2023
-	- Ultras should now respawn twice as fast. Super chance halved so it should result in about the same frequency as before.
+2023年12月13日
+	-为了防止卡顿，中央平原和Ellne现在禁用了非功能性花瓣。
 
-December 13th 2023
-	- Non-passive petals are now disabled in Centralia and Ellne to prevent lag.
+2023年12月9日
+	-升级所需的经验值现在是一个调整为更大的整数。这可能会使一些玩家获得或失去等级，因为它们将被重新计算。
 
-December 9th 2023
-	- XP required to level up is now a more round number. This might make some players gain or lose levels as they will have been recalculated.
+2023年12月8日
+	-重新启用运气天赋。
+	-天赋不能再通过降低等级来重置。
+	-天赋现在可以每30天免费重置一次。
 
-December 8th 2023
-	- Skills are now called Talents.
-	- Re-enabled Luck talent.
-	- Talents can no longer be reset by sacrificing levels.
-	- Talents can now be reset for free every 30 days.
-
-December 2nd 2023
-	- We're adjusting the prices of some petals in the shop to account for their rarity properly. For the time being we're setting a 50% discount on everything.
-
-July 3rd 2023
-	- Supers are now more likely to spawn for mobs whose ultras aren't destroyed very often.
-
-June 27th 2023
-	- We're slowly adding special moves to every Ultra+ mob. So far, Sandstorm and Shell got new moves, and more to come.
-
-May 9th 2023
-	- Buffed healing by 50% (now it's about -25% from before May 1st).
-	- Ultra/Super healing & health petals now scale a bit less.
-
-May 3rd 2023
-	- Ultras now spawn about 10x more frequently, with 3-4x lower drop rate.
-
-May 1st 2023
-	- The map now has a couple new areas to explore! It's still a work in progress, some more areas coming eventually.
-	- All healing has been nerfed by 50%.
-	- Some other changes I forgor.
-
-March 17th 2023
-	- PvP is back!
-	- Entrance is located on the east side of Centralia.
-	- Arenas are divided into 3 difficulties: Common-Epic, Legendary-Mythic, Ultra-Super. You'll enter the arena corresponding to the highest rarity petal you have equipped.
-	- You cannot change your loadout inside the arena.
-
-March 3rd 2023
-	- Super mob spawns are now announced to all the players in all maps in the region.
-
-March 2nd 2023
-	- Added a new section to Centralia Fields.
-
-February 27th 2023
-	- Added a new section to Ant Hell.
-
-February 22nd 2023
-	- Drops are no longer the same for every player that contributes to destroying a mob. They're now randomly rolled for each player.
-	- We noticed an issue where the payment system was misidentifying the player's country, leading to failure to process some payments. We've enabled an option to select the payment country. We're working with our payment processor to fix it so it should identify it automatically soon.
-
-February 20th 2023
-	- Added a new section to Ant Hell.
-
-February 19th 2023
-	- Added two mobs to Centralia Sewers.
-	- Added two new petals.
-
-February 14th 2023
-	- Ultra mobs now have a 1% chance of spawning as Super mobs, even more powerful mobs with possibly amazing drops.
-	- Ultra+ mobs damage threshold to receive drops decreased from 5% to 1%. Max number of players that can receive drops increased from 4 to 15.
-	- Yggdrasil nerfed slightly, now heals for less on revive.
-	- Fixed Hornet not receiving knockback when firing missiles.
-
-February 13th 2023
-	- Accounts that have purchased stars in the premium shop no longer have to watch ads (but still gain stars as if they did).
-
-February 12th 2023
-	- Third Eye no longer stacks.
-
-February 10th 2023
-	- Added a premium shop. You can now support the game by buying petals using stars, which you can acquire with money or by watching ads.
-	- Rebalanced a couple of petals.
-	- Changed TP cost of many talents.
-	- Changed TP reward per level (now it's always 1 per level).
-	- Added a couple new talents.
-	- Everyone's talent allocation has been reset for free.
-
-January 29th 2023
-	- We've rebalanced all mobs and petals. The idea is extending the early game a little bit, as it was too easy to get legendary petals in the first hour of gameplay.
-
-January 28th 2023
-	- Nicknames are now permanent and unique. You'll be prompted for one the first time you play.
-	- Mobs are no longer constrained by mere physical space limits. Their hitbox against the map has been decreased significantly.
-
-January 21st 2023
-	- Added a new map section to Centralia Fields, East Waters and South Desert.
-	- Changed the way beetles move.
-
-January 19th 2023
-	- The game finally has a world map. Enjoy exploring and finding interesting places.
-	- Note that it's still fairly small, we plan to add more areas soon.
-	- Squads have been disabled for the time being as they'll require significant work to work again.
-
-January 2nd 2023
-	- Due to popular demand, the change mentioned in the previous changelog was changed to today.
-	- We're introducing a new petal rarity: Super.
-	- We've added a couple commands to join/create squads while in-game, type /help in the chat for more info.
-	- By default a chat message is only seen by people around you. To send it to your squad members regardless of where they are, prefix it with /squad or press TAB.
-
-January 1st 2023
-	- Reenabled summoner petals. Summoned mobs no longer have collision with other squad mobs. Summoned mobs now deal collision damage to non-squad friendly mobs.
-	- An area can now temporarily run out of mobs if they're farmed too quickly.
-	- Crafting Ultras has been temporarily disabled. We'll be reworking them to a permanent rarity. Existing ultras can still be used. On January 3rd: every 10 ultras will be reverted into a mythic. Then any left over will be absorbed for 50k each.
-	- Higher tier mobs now have varying amounts of slow resistance.
-
-December 30th 2022
-	- Drops are now shared among the 4 players that dealt the most damage to the mob (as long as they deal at least 5% damage). Squad damage is counted together. Only flowers within about a screen distance can get drops from a mob.
-
-December 29th 2022
-	- As a special event, we'll be running a game mode that some of you might feel some familiarity with. Have fun!
-	- Some summoner petals are disabled in the main map of this mode (still useable inside antholes). Unfortunately this is too abuseable.
-
-December 28th 2022
-	- We're experimenting with a HUGE rebalancing of the entire game. We've reset everyone's waves for this. Please be patient while we tweak things to get everything perfect
-	- The idea is increasing the gap between rarities. Such that if you have unusual petals, a rare mob actually presents a bigger challenge. Before this update, there wasn't really enough distinction between lower mob rarities.
-
-December 26th 2022
-	- Added chat.
-	- Added damage numbers, toggleable in the settings (default on).
-	- Petal tooltips values now update correctly to match values after taking talents into account.
-	- Added more Medic talent tiers.
-	- Removed luck talent, anyone who owned it has been refunded.
-
-December 20th 2022
-	- We've added a texture to Desert. Other maps will get their own soon. Check out the discord server for the contest!
-
-December 11th 2022
-	- It is now possible to refund all your TP, at a cost of 5 levels.
-
-December 10th 2022
-	- Due to some changes in the talent tree, we've reset everyone's talents and refunded all TP.
-
-November 30th 2022
-	- Mobile users can now tap and hold a petal on the crafting screen to add many at a time.
-	- To make the game a little bit easier, petals now move towards enemies within a certain range of them, which should make it easier to hit enemies.
-	- Since many people have spent their TP without realizing how permanent they are, we will be doing a future update (in late December) in which players can reset their TP allocation once per year.
-	- As a reminder, we'll be adding more things to spend TP on as time goes on.
-
-November 29th 2022
-	- The long awaited talents update is here.
-	- Killing mobs no longer awards XP. We have reset everyone's levels back to 1 as this update significantly changes how levels are acquired.
-	- Petals can now be absorbed to earn XP.
-	- Advancing levels provides TP, which can be used to upgrade talents.
-	- talents have a permanent effect on your flower. Once upgraded they're unlocked forever. There is no way to undo TP spent on talents.
-	- We may change the formula of XP required on each level. If so, we'll adjust everyone's levels to match the new formula (and award or take back any TP).
-	- Level cap has been raised to 200.
-
-November 15th 2022
-	- Nerfed Hornet health.
-
-November 6th 2022
-	- Tweaked number of mobs in each wave.
-	- Tweaked map size in later waves.
-	- We're trying to incentivize clearing mobs before the wave ends by making all mobs aggro when it ends. The map size changes also makes it harder to stay in one spot and just tank all mobs.
-	- We've reset the highest wave beaten by everyone to wave 25, if it was previously higher than that. This is due to the change in wave difficulty.
-	- Enemies no longer have their attack range the same as their aggro range (so hornets for example won't start attacking from half way across the map).
-
-November 4th 2022
-	- Map now scales based on the mobs contained within, this should avoid crowding out in late game waves.
-	- Recipe for Ultra petals has changed.
-	  Now creates 50 Ultras from 5 Mythics.
-
-November 3rd 2022
-	- Recipe for Ultra petals has changed.
-	  Now creates 3 Ultras from 1 Mythic.
-	  No longer reverts back to Mythic on use, it's just lost forever.
-	  Unused Ultras before this update have been converted back to 2 Mythics (old recipe).
-
-November 2nd 2022
-	- Added Ultra petals.
-	  You can combine 2 Mythics to form an Ultra.
-	  Ultra petals are several times stronger than Mythics, but only last for one match.
-	  After one match, they will revert back to 1 Mythic (the other is lost).
-
-October 20th 2022
-	- Pseudo-RNG system has been removed from crafting. Now it's back to truly random with no increasing odds. If you have any failed attempts on a specific petal, it'll keep using the old system until you succeed (so you don't lose increased odds you already accumulated).
-
-October 11th 2022
-	- Added Apple ID login. Note that it doesn't merge Apple ID accounts with Discord accounts. If you already logged in using Discord, keep using that to login. This addition is intended to make it easier for those that don't have a Discord account to keep their progress.
-
-September 13th 2022
-	- PvP now has higher rarity mobs (equivalent to wave 18 or so in PvE).
-	- PvP now has a scoreboard again.
-	- Killing players in PvP now awards Basic petals, rarity depends on how many points they have.
-	- PvP map size changes based on how many players are in game.
-	- Magnets no longer increase pick up range in PvP.
-
-September 12th 2022
-	- Added extra stats in mob gallery.
-
-September 6th 2022
-	- Since wave difficulty was changed significantly, we're resetting everyone's highest wave beaten back to 0.
-	- Special wave chance is now 15%.
-
-September 5th 2022
-	- Leeches now share their health among all segments.
-	- Special single-mob waves are no longer on specific waves, but can occur randomly on any wave.
-	- Changed how initial wave is calculated for a squad, allowing higher initial waves.
-	- Drop rate has been slightly reduced to compensate.
-	- When joining a public squad, players will always be placed on the highest-wave game currently available to them.
-
-September 1st 2022
-	- Increased mythic craft chance to 3%.
-
-August 31st 2022
-	- Peas have been split into Peas and Grapes. Existing Peas have been turned into Grapes.
-
-August 30th 2022
-	- Reworked several mythic petals.
-	- Leaf can now heal friendly mobs.
-
-August 29th 2022
-	- Added a wave bar.
-	- We have started banning people for using any sort of scripts. A ban is permanent and will result in loss of all progress.
-
-August 28th 2022
-	- Added an autocraft button at the bottom of the crafting menu. It will automatically preserve your rarest petals so it is always safe to use.
-
-August 26th 2022
-	- A lot of changes were made in the past week but we were too lazy to put them in the changelog.
-	- Added an AFK timer in public squads.
-
-August 18th 2022
-	- Ant holes now have a timer so players can't afk inside.
-
-August 17th 2022
-	- Decreased drop chance of higher rarities a bit.
-	- Increased craft chances for higher rarities.
-
-August 16th 2022
-	- Players can now start on wave 11.
-	- Mobs can now only drop petals of at most their own rarity.
-	- Tweaked petal drop rate to compensate.
-	- Craft chances have been changed.
-	- Rare rarity color is now a bit more blue.
-
-August 10th 2022
-	- Added a deadzone around the middle of the screen so mouse users can keep their flower still.
-
-August 9th 2022
-	- Added a craft all button to mobile (still not fully supported, but this will fix a pain point).
-	- Added a minimal wave display setting that won't display mobs in the wave ui.
-
-August 7th 2022
-	- Rebalanced a lot of petals. They're now separated in offensive and defensive types, which changes how their damage and health scales.
-	- Fixed poison deaths being mislabeled.
-
-August 5th 2022
-	- Players will now join existing public games automatically as long as they've beaten the wave the squad is at.
-
-August 4th 2022
-	- Rebalanced late game waves. They're now significantly shorter than before.
-	- Reworked Lightning petal.
-
-August 2nd 2022
-	- We will now rotate between PvE scenarios every 24 hours.
-
-August 1st 2022
-	- Added Mob Gallery. It keeps track of every mob you have defeated.
-
-July 30th 2022
-	- Reduced Lightning petal range.
-	- Cactus no longer turns poisonous at higher rarity, more health instead.
-
-July 29th 2022
-	- Ocean released. It'll replace Desert for a couple of days then we'll alternate between them every day or so.
-
-July 25th 2022
-	- Scientists have now discovered the map is a circle, rather than a square, as previously thought.
-	- Adjusted mobs in each wave.
-	- Added setting to hide lower rarity drops. You can still pick them up, you just won't be able to see them. This is a workaround until we optimize them so they won't lag the game.
-
-July 24th 2022
-	- Web no longer stacks, slow increased to -75%.
-
-July 22nd 2022
-	- Web rarity now affects radius rather than duration.
-
-July 21st 2022
-	- Squads will now start at a higher wave that partially depends on the best wave each squad member has beaten.
-	- Balance and stuff.
-
-July 20th 2022
-	- Increased base poison damage rate to 15/s (from 9/s).
-	- Increased mythic craft chance to 2%. This might or might not be temporary.
-	- Magnet no longer stacks with itself.
-
-July 19th 2022
-	- Crafting now uses a pseudo random distribution that increases success rate on each failure until a successful craft.
-	- Nominal craft chances on the long run are still the same. It will not show the calculated craft chance for each attempt.
-	- For example, a 75% craft chance means that 66.6% of the time it'll succeed on the first attempt, and 100% of the time on the second attempt.
-
-July 18th 2022
-	- Released PvP.
-	- Salt now stacks with itself. Reflected damage is reduced by 75% against flowers.
-	- Web movement speed debuff changed from -75% to -50%.
-
-July 16th 2022
-	- Next wave will now start once current wave has 4 or fewer mobs alive.
-	- Mob aggro range now constantly increases while they're alive.
-	- Rarer mobs now give more experience as intended
-	- Level experience requirements have been increased to compensate
-
-July 15th 2022
-	- Released Desert scenario.
-
-July 14th 2022
-	- In-game inventory management has been simplified, now it is only possible to swap the primary and secondary petal for each slot.
-
-July 13th 2022
-	- Ant holes can now be of higher rarities again, but only the queen will be above Rare.
-	- Petals now have a Mythic rarity. It does not drop from mobs, only available via crafting.
-
-July 12th 2022
-	- Mobs can now only drop petals up to 1 rarity level above themselves
-	- Ant holes can no longer have a rarity higher than Rare
-	- Added Craft All button, hold SHIFT before clicking the Craft button
-
-July 11th 2022
-	- The game has been re-released. It's nothing like it was before, so might as well clear this changelog too :)
+2023年12月2日
+	-我们正在调整商店里一些花瓣的价格，以适配其获取难度。目前，我们正在为所有商品设置50%的折扣。
+
+2023年7月3日
+	-现在，超级生物更有可能于超级生物不常被摧毁的生物中产生。
+
+2023年6月27日
+	-我们正在慢慢为每个究极+稀有度生物添加特殊攻击方式。到目前为止，沙尘暴和贝壳有了新的攻击方式，还有更多的攻击方式将逐渐被添加。
+
+2023年5月9日
+	-治疗效果增加了50%（现在比5月1日前下降了约-25%）。
+	-降低了究极与超级稀有度花瓣的治疗/血量等级提升乘率。
+
+2023年5月3日
+	-究极现在的生成速度增加了约10倍，掉落几率降低了3-4倍。
+
+2023年5月1日
+	-地图现在有几个新的区域可以探索！这仍然是一项正在进行的工作，还会有更多的区域。
+	-所有愈合都被抑制了50%。
+	-还有一些更新，但是我忘了。
+
+2023年3月17日
+	-PvP回来了！
+	-入口位于Centralia的东侧。
+	-竞技场分为3个难度：普通~史诗、传奇~神话、超级。你将进入与你装备的最高稀有度花瓣相对应的竞技场。
+	-你不能在竞技场内改变你的配装。
+
+2023年3月3日
+	-现在同一个服务器中所有玩家都能收到超级生物的生成播报。
+
+2023年3月2日
+	-为中央平原增加了一个新区域。
+
+2023年2月27日
+	-为蚂蚁地狱添加了一个新区域。
+
+2023年2月22日
+	-掉落物获取情况现在针对每个获得掉落物的玩家随机且独立。
+	-我们注意到一个问题，某些情况下，支付系统错误地识别了玩家的国家，导致无法处理付款。我们已启用选择付款国家的选项。我们正在与我们的支付服务提供方一同修复它。
+
+2023年2月20日
+	-为蚂蚁地狱添加了一个新区域。
+
+2023年2月19日
+	-为下水道增加了两个新生物。
+	-添加了两个新花瓣。
+
+2023年2月14日
+	-究极怪物现在有1%的机会生成为超级怪物，更加强大，也有更好的战利品。
+	-获得究极及以上稀有度怪物掉落物的伤害阈值从5%降低到1%。最多可以获得掉落物的玩家数量从4个增加到15个。
+	-削弱了世界树之叶，现在复活时治疗效果降低。
+	-修复了大黄蜂在发射导弹时没有后坐力的问题。
+
+2023年2月13日
+	-在商店购买星星的玩家不再需要观看广告，通过游戏时长获取星星。
+
+2023年2月12日
+	-第三只眼的攻击范围增加效果不再叠加。
+
+2023年2月10日
+	-增加了一家高级商店。现在，您可以通过使用星星购买花瓣来支持游戏。您可以通过购买或观看广告来获得星星。
+	-重新平衡调整了几种花瓣。
+	-改变了许多天赋的花费。
+	-更改了每个级别的天赋点奖励（现在每个级别始终为1）。
+	-增加了一些新的天赋。
+	-每个人的天赋分配都是免费重置的。
+
+2023年1月29日
+	-我们重新平衡了所有怪物和花瓣。这是为了稍微延长游戏前期的时间，因为之前在新玩家游玩的第一个小时里，很容易就能获得传奇的花瓣。
+
+2023年1月28日
+	-昵称现在是永久和唯一的。您将在第一次玩游戏时收到取名提示。
+	-生物不再受制于单纯的物理空间限制。它们跟地图的碰撞体积已经显著减小。
+
+2023年1月21日
+	-为中央平原、东部海洋和南部沙漠各增加了一个地图。
+	-更改了甲虫的移动方式。
+
+2023年1月19日
+	-游戏终于有了世界地图。享受探索，寻找乐趣！
+	-然而，不可否认它仍然相当小。因此我们很快会添加新的区域。
+	-小队被暂时禁用，因为他们需要大量的改动以重新生效。
+
+2023年1月2日
+	-出于大众的呼声，之前更新日志中提到的更改已在今天更新。
+	-增加了新的花瓣稀有度：超级。
+	-我们在游戏中添加了一些能够通过 / 创建小队的命令，请在聊天中输入 /help 以获取更多信息。
+	-默认情况下，聊天消息只会被你周围的人看到。要将其发送给您的小队成员，无论他们在哪里，请在其前面加上/squad或按TAB键。
+
+2023年1月1日
+	-重新启用召唤类花瓣。被召唤的生物不再与其他小队生物发生碰撞。召唤的生物现在对非小队的召唤物造成碰撞伤害。
+	-一个地区将在区域内生物捕猎过快的情况下停止生成生物一段时间。
+	-合成究极花瓣功能已暂时禁用。我们将把究极花瓣重新制作成永久稀有品。已有的究极花瓣仍然可以使用。等到1月3日时，每10个究极花瓣将被还原为神话花瓣。剩余不足十个的部分将被花朵吸收，每个转化为5万经验。
+	-现在生物对减速效果产生抗性，抗性将取决于生物与花瓣的稀有度差异。
+
+2022年12月30日
+	-现在对生物造成最多伤害的4名玩家可以获得掉落物（只要他们造成的伤害至少为5%）。对于小队，伤害加在一起计算。生物在屏幕距离内被击败才会产生掉落。
+
+2022年12月29日
+	-作为一个特殊活动，我们将暂时增设一个游戏模式，你们中的一些人可能会对此感到熟悉。玩得高兴！
+	-一些召唤类花瓣在这个模式的主地图中被禁用（但仍然可以在蚁穴内使用）。尽管这样做的理由站不住脚。
+
+2022年12月28日
+	-我们正在尝试对整个游戏进行大规模的平衡调整。我们已经为此重置了每个人的初始波次。请耐心等待，我们会不断调整，让一切变得完美。
+	-我们这么做的目的是增加不同稀有度之间的差距。这样一来，如果你只有罕见稀有度的花瓣，一个稀有稀有度的生物将对你来说是一个更大的挑战。在这次更新之前，较低稀有度的生物之间并没有足够的差距。
+
+2022年12月26日
+	-添加了聊天功能。
+	-添加了伤害数字，可在设置中启用/禁用（默认启用）。
+	-花瓣信息框的数值现在会正确地随着你的天赋情况而改变。
+	-添加了更多的医疗师天赋。
+	-移除了幸运天赋。拥有它的玩家的天赋点已被退还。
+
+2022年12月20日
+	-我们为沙漠地图添加了背景纹理。其他地图也会很快添加。请关注我们在 discord 服务器上举办的地图纹理比赛！
+
+2022年12月11日
+	-现在可以以降低五级的代价重置你的天赋。
+
+2022年12月10日
+	-由于天赋树中的一些更改，我们重置了每个人的天赋并退还了所有天赋点。
+
+2022年11月30日
+	-移动端玩家现在可以在合成界面中点击并按住花瓣来一次放入许多。
+	-为了让游戏变得简单一点，花瓣现在会主动向一定范围内的怪物移动，以更容易击中它们。
+	-因为许多人点了天赋却没有意识到它们是永久的，我们将在稍后进行更新（12 月下旬），其中玩家可以每年重置一次天赋。
+	-随着时间的推移，我们将有很多关于天赋的更新。
+
+2022年11月29日
+	-期待已久的天赋更新来了！
+	-杀死生物不再奖励经验值。我们已将每个人的等级重置为1，因为此更新显著改变了升级方式。
+	-现在可以通过吸收花瓣以获得经验值。
+	-升级后可以获得天赋点，可用于提升天赋。
+	-天赋对您操纵的花瓣有永久的影响。天赋在被升级后将永远锁定。没有办法撤销花费在天赋上的天赋点。
+	-我们可能会更改每个级别所需的经验值。所以我们将调整每个人的级别以匹配新公式（并补偿或收回对应的天赋点）。
+	-等级上限提高至200。
+
+2022年11月15日
+	-降低了黄蜂的生命值。
+
+2022年11月6日
+	-降低了每一波的生物数量。
+	-降低了高波次的地图大小。
+	-我们正试图通过在浪潮结束时让所有生物变得具有攻击性，来激励在浪潮结束前清除生物。地图大小的变化也使人们更难呆在一个地方，只轰炸所有生物。
+	-由于波次难度的变化，我们将最高波次高于 25 波的玩家的最高波次重置为第 25 波。
+	-怪物的攻击范围不再与他们的仇恨范围相同（例如黄蜂将不会在半个地图之外发现玩家的时候就开始发射导弹）。
+
+2022年11月4日
+	-地图现在根据其中包含的生物数量进行缩放，这可能可以避免游戏后期的卡顿。
+	-究极花瓣的配方已经改变。
+现在通过5个神话花瓣合成50个究极花瓣。
+
+2022年11月3日
+	-究极花瓣的配方已经改变。
+	现在通过1个神话花瓣合成3个究极花瓣。
+	不再在一局游戏后恢复到神话花瓣，两个花瓣都将消失。
+	在此更新之前未使用的究极花瓣已被还原为2个神话花瓣（旧配方）。
+
+2022年11月2日
+	-添加了究极稀有度。
+	您可以将两个神话花瓣合成一个究极花瓣。
+	究极花瓣比神话强几倍，但只持续一局游戏。
+	一局游戏后，他们将恢复到1个神话花瓣（另一个将消失）。
+
+2022年10月20日
+	-伪RNG系统已从合成系统中删除。现在，它又回到了真正的随机状态，几率没有增加。如果你在特定的花瓣上有任何失败的尝试，它将继续使用旧系统，直到你成功为止（这样你就不会失去已经积累的增加的合成几率）。
+
+2022年10月11日
+	-添加了Apple ID登录。请注意，它不会将Apple ID帐户与Discord帐户合并。如果您已经使用Discord登录，请继续使用它登录。此添加旨在使那些没有Discord帐户的人更容易保持进度。
+
+2022年9月13日
+	-PvP现在有更高稀有度的怪物（相当于PvE中的第18波左右）。
+	-PvP现在又有了记分牌。
+	-在PvP中击败玩家现在会奖励基本花瓣，稀有度取决于被击败玩家所持有的分数。
+	-PvP地图大小会根据地图内的玩家而变化。
+	-磁铁不再增加PvP模式中的拾取范围。
+
+2022年9月12日
+	-在生物图鉴中添加了额外的统计数据。
+
+2022年9月6日
+	-由于波次难度发生了显著变化，我们将每个人的最高初始波重置为0。
+	-特殊波发生几率现在为15%。
+
+2022年9月5日
+	-水蛭现在在自身的所有节上共享生命值。
+	-特殊的单生物波不再在特定的波上，而是可以在任何波上随机发生。
+	-改变了小队初始波的计算方式，允许更高的初始波。
+	-花瓣掉落几率略有降低以进行平衡调整。
+	-当加入公共小队时，队员将始终被安排在目前可用的最高级别的比赛中。
+
+2022年9月1日
+	-神话的合成几率增加到3%。
+
+2022年8月31日
+	-豌豆被分成豌豆和葡萄。现有的豌豆已经变成了葡萄。
+
+2022年8月30日
+	-重做了几个神话稀有度的花瓣。
+	-叶子现在可以治疗己方召唤物。
+
+2022年8月29日
+	-添加了波次进度条。
+	-我们已经开始以使用任何类型的脚本对玩家进行永久封号处理，这将导致失去所有游戏进度。
+
+2022年8月28日
+	-在合成界面底部添加了一个自动合成按钮。但它不会合成每个种类的最高稀有度，所以使用起来总是安全的。
+
+2022年8月26日
+	-在过去的一周里，我们做了很多更改，但我们太懒了所以没有把它们放在更改日志中。
+	-在公共小队中添加了挂机计时器。
+
+2022年8月18日
+	-在蚁穴内增设了一个计时器，使玩家不能在内部挂机。
+
+2022年8月17日
+	-稍微降低了高稀有度花瓣的掉落几率。
+	-增加了高稀有度花瓣的合成几率。
+
+2022年8月16日
+	-玩家现在可以选择直接从第11波开始。
+	-现在，生物只能掉落最高与自身稀有度相同的花瓣。
+	-调整了不同稀有度的同种花瓣之间掉落几率分配以进行平衡调整。
+	-更改了合成几率。
+	-将稀有稀有度的颜色加深。
+
+2022年8月10日
+	-在屏幕中间添加了一个死区，这样鼠标用户就可以让他们的花保持静止。
+
+2022年8月9日
+	-在移动设备上添加了一个craft all按钮（仍然不完全支持，但这将解决一个痛点）。
+	-在设置中增加了一个简化波次选项，使得波浪ui不会显示怪物。
+
+2022年8月7日
+	-重新平衡了很多花瓣。它们现在分为进攻型和防御型，伤害和耐久数值因此而改变。
+	-修复了剧毒伤害死亡导致的错误标记。
+
+2022年8月5日
+	-只要玩家达到了小队所在的波次，他们就会自动加入现有的公开队伍。
+
+2022年8月4日
+	-重新平衡了最新的波次设计。大大减少了每一波的持续时间。
+	-重做闪电花瓣。
+
+2022年8月2日
+	-我们现在每24小时切换一次PvE场景。
+
+2022年8月1日
+	-添加了生物图鉴。记录你击败的每一个生物。
+
+2022年7月30日
+	-减少闪电花瓣攻击范围。
+	-仙人掌在稀有度更高时增加生命值以代替剧毒伤害。
+
+2022年7月29日
+	-增加海洋区域。它将取代沙漠几天并与其每天切换，大概是这样吧。
+
+2022年7月25日
+	-科学家们最近发现地图是一个圆形，而不是之前认为的正方形。
+	-调整了每波中生成的生物。
+	-在设置里增加“隐藏较低稀有度花瓣掉落物”选项。你仍然可以把它们捡起来，只是看不见它们。这是一种在得到更好的优化方案前的处理措施，这个措施可以减少游戏卡顿。
+
+2022年7月24日
+	-网不再叠加，减速效果增加到-75%。
+
+2022年7月22日
+	-网的稀有度区分从持续时间更改为半径大小。
+
+2022年7月21日
+	-现在小队可以在更高的波次开始游戏，这部分取决于每个队伍成员已经通过的最高波次。
+	-进行了平衡与修改。
+
+2022年7月20日
+	-基础剧毒伤害从每秒9点增加至每秒15点。
+	-增加神话花瓣合成成功率至 2%，这或许是临时的。
+	-磁铁不再叠加。
+
+2022年7月19日
+	-现在合成成功率使用了伪随机，它会在每次失败后增加你下次的成功概率直到成功。
+	-整体上来说，合成成功率还是一样的。合成区还是会显示原来的成功率而不是计算过后的。
+	-例如，75% 的成功率意味着第一次的成功率是 66%，第二次的成功率是 100%。
+
+2022年7月18日
+	-开放了 PvP 模式。
+	-现在盐的效果可以与自身叠加。但是对花朵的反伤率降低了 75%。
+	-网的减速效果从 -75% 变为 -50%。
+
+2022年7月16日
+	-现在下一波会在当前地图中有 4 个及以下的生物存活时开始。
+	-生物的仇恨范围现在随着其存活时间而增大。
+	-稀有度越高的怪物现在能提供更多经验。
+	-为了调整平衡，增加了升级所需经验。
+
+2022年7月15日
+	-增加沙漠区域。
+
+2022年7月14日
+	-游戏内槽位设计简化，现在只能为每个插槽交换主瓣和次瓣。
+
+2022年7月13日
+	-蚁穴可以生成为稀有以上稀有度，但只有蚁后才能与蚁穴稀有度一致。
+	-花瓣添加了神话稀有度。不能通过生物掉落，只能合成获得。
+
+2022年7月12日
+	-生物现在只能掉落最高稀有度比自身高一级的花瓣了。
+	-蚁穴不再生成为史诗及以上稀有度。
+	-添加了“全部合成”按钮，在单击“合成”按钮之前按住SHIFT键。
+
+2022年7月11日
+	-游戏已经重新发布。这与以前完全不同，所以清除了这之前的更新日志:)
 
 Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper}{#Rarities/{0:rarity}/Name}{#Mobs/{0:base}/Name}
 Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper}{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/FullName}
@@ -993,8 +988,8 @@ Chat/ServerClosing=本服务器计划{0:timeLeft}关闭。
 Chat/ServerClosed=本服务器已关闭，是时候离开了。
 Chat/ServerNoLongerClosing=本服务器不再计划关闭。
 
-Chat/Squad/Created=小队已创建，代码为{0}。
-Chat/Squad/Joined=已加入小队。
+Chat/Squad/Created=小队 {0} 已创建。
+Chat/Squad/Joined=成功加入小队。
 Chat/Squad/Left=已离开小队。
 Chat/Squad/MemberJoined={0}加入了小队。
 Chat/Squad/MemberLeft={0}离开了小队。
@@ -1053,7 +1048,7 @@ Chat/CommandError/WhispersDisabled=无法发送密语，因为您的设置中已
 Chat/CommandError/NotInGuild=你不在一个公会里。
 Chat/CommandError/MustHaveNameToJoinGuild=您必须有一个名字才能加入公会。
 Chat/CommandError/SquadsNotAllowedInThisMode=此模式中不允许组队。
-Chat/CommandError/SquadFull=小队已满。
+Chat/CommandError/SquadFull=该小队已满。
 Chat/CommandError/AlreadyInGuild=你已经在一个公会里了。
 Chat/CommandError/MustHaveNameToCreateGuild=您必须有一个名字才能创建公会。
 Chat/CommandError/MustLevelToCreateGuild=您必须至少达到 {0} 级才能创建公会。
@@ -1096,31 +1091,31 @@ Chat/Oracle/Idle/18=不要害怕承诺。
 Chat/Oracle/Idle/19=作出保证吧！或者，不要保证。
 Chat/Oracle/Idle/20=不要打扰我。
 Chat/Oracle/Idle/21=我常用我的小眼睛占卜。
-Chat/Oracle/Idle/22=“如果“不是一个我轻易使用的词。
+Chat/Oracle/Idle/22=“如果”不是一个我轻易使用的词。
 Chat/Oracle/Idle/23=要是这一切都这么简单就好了。
 Chat/Oracle/Idle/24=小心楼梯。
 Chat/Oracle/Idle/25=你会死于一场房屋火灾。
 Chat/Oracle/Idle/26=我看到你因极度衰老而死去。或者，一个非常老的人会杀了你。一个或另一个，两者必居其一。
 Chat/Oracle/Idle/27=这一预言取代了之前所有的预言。
-Chat/Oracle/Idle/28=忽略之前的所有预言吧，它来了。
+Chat/Oracle/Idle/28=忽略之前的所有预言吧。
 Chat/Oracle/Idle/29=听好了，我有一个预言要宣布。
-Chat/Oracle/Idle/30=忽略所有先前的话语，忘掉之前所有的承诺。
+Chat/Oracle/Idle/30=忽略所有先前的话语。
 Chat/Oracle/Idle/31=提前为不可预见的后果做好准备。
 Chat/Oracle/Idle/32=命运无常，希望不定。
 Chat/Oracle/Idle/33=我似乎发现了一个盲点。
 Chat/Oracle/Idle/34=考虑到这个特殊的未来，这是一个模糊的反常现象，令人担忧不已。
 Chat/Oracle/Idle/35=人生不可测，命运不可违。
 Chat/Oracle/Idle/36=有些未来是用金钱也买不到的。
-Chat/Oracle/Idle/37=确定的代价，是什么？
-Chat/Oracle/Idle/38=一次、一次、又一次……再一次。
-Chat/Oracle/Idle/39=没错，就是这样！与计划完全一致。
+Chat/Oracle/Idle/37=确定的代价。
+Chat/Oracle/Idle/38=一次、一次……再一次。
+Chat/Oracle/Idle/39=没错，与计划完全一致。
 Chat/Oracle/Idle/40=尽管如此，我不对所有结果负责。
 
 # When a Super/Unique petal is about to be crafted
 Chat/Oracle/Prediction={#Chat/Oracle/Prediction/{!rand:0:2}}
 Chat/Oracle/Prediction/0=啊，是的，根据预言……现在任何时候“它”都应该发生……
-Chat/Oracle/Prediction/1=有人预言，这就是那一刻……我不敢相信……
-Chat/Oracle/Prediction/2=我一直在等待这一刻……它终于来了……
+Chat/Oracle/Prediction/1=有人预言，这就是那一刻……
+Chat/Oracle/Prediction/2=我一直在等待这一刻……
 
 # Target dummy says these 4 lines 1 second apart after getting damaged a lot
 Chat/TargetDummy/Damaged/1=哎哟！
@@ -1134,11 +1129,11 @@ Chat/Gambler/Idle/1=21点赌桌在哪里？
 Chat/Gambler/Idle/2=老虎机在哪里？
 Chat/Gambler/Idle/3=99%的赌徒在赢得大奖之前就退出了！
 Chat/Gambler/Idle/4=我只要再来一把……
-Chat/Gambler/Idle/5=我，全  押！
+Chat/Gambler/Idle/5=我，全  押。
 Chat/Gambler/Idle/6=我感觉我今天手气不错。
 Chat/Gambler/Idle/7=第三十七次，定能成功！
 Chat/Gambler/Idle/8=翻倍，还是一无所有？
-Chat/Gambler/Idle/9=大吉大利，赢家必胜！
+Chat/Gambler/Idle/9=大吉大利，今天必胜！
 
 Chat/Titan/Idle={#Chat/Titan/Idle/{!rand:0:7}}
 Chat/Titan/Idle/0=它，只能有一个。
@@ -1329,6 +1324,49 @@ Chat/Command/purge-contagious-corruption/Description=End the plague
 Chat/Command/calculate-next-shop/Args=<petal:rarity> [min discount level 0~3]
 Chat/Command/calculate-next-shop/Description=Calculates in how many periods the petal will appear in shop
 
+UI/Time/Days={#UI/Time/Days/{0:1orN}}
+UI/Time/Hours={#UI/Time/Hours/{0:1orN}}
+UI/Time/Minutes={#UI/Time/Minutes/{0:1orN}}
+UI/Time/Seconds={#UI/Time/Seconds/{0:1orN}}
+UI/Time/Now=瞬间
+
+UI/TimeLeft/Days=在{#UI/Time/Days/{0:1orN}}后
+UI/TimeLeft/Hours=在{#UI/Time/Hours/{0:1orN}}后
+UI/TimeLeft/Minutes=在{#UI/Time/Minutes/{0:1orN}}后
+UI/TimeLeft/Seconds=在{#UI/Time/Seconds/{0:1orN}}后
+UI/TimeLeft/Now=瞬间
+
+UI/TooltipTime/Days={#UI/TooltipTime/Days/{0:1orN}}
+UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{0:1orN}}
+UI/TooltipTime/Minutes={#UI/TooltipTime/Minutes/{0:1orN}}
+UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{0:1orN}}
+UI/TooltipTime/Now=瞬间
+
+UI/Tooltip/Grouping=10000
+UI/Tooltip/Group0={0}
+UI/Tooltip/Group1={0}万
+UI/Tooltip/Group2={0}亿
+UI/Tooltip/Group3={0}兆
+UI/Tooltip/Group4={0}京
+
+# Helpers
+UI/Time/Days/1=1天
+UI/Time/Days/N={0}天
+UI/Time/Hours/1=1小时
+UI/Time/Hours/N={0}小时
+UI/Time/Minutes/1=1分钟
+UI/Time/Minutes/N={0}分钟
+UI/Time/Seconds/1=1秒
+UI/Time/Seconds/N={0}秒
+
+UI/TooltipTime/Days/1=1天
+UI/TooltipTime/Days/N={0:tooltip}天
+UI/TooltipTime/Hours/1=1小时
+UI/TooltipTime/Hours/N={0:tooltip}小时
+UI/TooltipTime/Minutes/1=1分钟
+UI/TooltipTime/Minutes/N={0:tooltip}分钟
+UI/TooltipTime/Seconds/1=1秒
+UI/TooltipTime/Seconds/N={0:tooltip}秒
 Maps/ant_hell/Name=蚂蚁地狱
 
 Maps/ant_hole1/Name=白蚁丘
@@ -1357,14 +1395,14 @@ Mobs/rock/Description=一块石头，它干不了什么事情。
 Mobs/rock/Spawn=花草之上，隐约浮现出一座如山峦般的巨物……
 
 Mobs/cactus/Name=仙人掌
-Mobs/cactus/Description=不要碰它，它的刺很疼！
+Mobs/cactus/Description=不要碰它，它的刺很疼。
 Mobs/cactus/Spawn=沙海之中，一座荆棘塔拔地而起直指苍穹……
 
 Mobs/ladybug/Name=瓢虫
 Mobs/ladybug/Description=可爱而无害。
 
 Mobs/bee/Name=蜜蜂
-Mobs/bee/Description=它会蜇人，别碰它！
+Mobs/bee/Description=它会蜇人，别碰它。
 
 Mobs/ant_baby/Name=幼蚁
 Mobs/ant_baby/Description=虽软弱无力，却有远大的梦想。
@@ -1401,10 +1439,10 @@ Mobs/centipede_evil_body/Name=蜈蚣
 Mobs/centipede_evil_body/Description=它很爱吃花。
 
 Mobs/centipede_desert/Name=蜈蚣
-Mobs/centipede_desert/Description=要加速了！
+Mobs/centipede_desert/Description=要加速了。
 
 Mobs/centipede_desert_body/Name=蜈蚣
-Mobs/centipede_desert_body/Description=要加速了！
+Mobs/centipede_desert_body/Description=要加速了。
 
 Mobs/square/Name=正方形
 Mobs/square/Description=这个形状……看起来很熟悉……
@@ -1434,7 +1472,7 @@ Mobs/bubble/Name=泡泡
 Mobs/bubble/Description=啵
 
 Mobs/bumble_bee/Name=熊蜂
-Mobs/bumble_bee/Description=要 跑 起 来 了！
+Mobs/bumble_bee/Description=要 跑 起 来 了。
 
 Mobs/shell/Name=扇贝
 Mobs/shell/Description=并不是一个广告。
@@ -1447,13 +1485,13 @@ Mobs/crab/Description=我就是蟹老板。
 
 Mobs/jellyfish/Name=水母
 Mobs/jellyfish/Description=用来做最美味的果酱。
-Mobs/jellyfish/Spawn=阴云之下，遥远的天际滚滚传来阵阵的雷鸣……
+Mobs/jellyfish/Spawn=日光之下，深邃的海底滚滚传来阵阵的雷鸣……
 
 Mobs/digger/Name=挖掘者
 Mobs/digger/Description=兄弟，你走错游戏了。
 
 Mobs/sponge/Name=海绵
-Mobs/sponge/Description=海绵-宝宝。
+Mobs/sponge/Description=海绵-宝宝
 
 Mobs/leech/Name=水蛭
 Mobs/leech/Description=吸溜吸溜。
@@ -1507,7 +1545,7 @@ Mobs/termite_egg/Name=白蚁卵
 Mobs/termite_egg/Description=还不是一只白蚁，但是可能快了。
 
 Mobs/bush/Name=灌木丛
-Mobs/bush/Description=可别小看我！
+Mobs/bush/Description=可别小看我。
 
 Mobs/roach/Name=蟑螂
 Mobs/roach/Description=要 加 速 了！……直到它们累了下来。
@@ -1516,7 +1554,7 @@ Mobs/moth/Name=飞蛾
 Mobs/moth/Description=容易受惊，请对它们好点。
 
 Mobs/firefly/Name=萤火虫
-Mobs/firefly/Description=呜呜呜哦好闪亮！
+Mobs/firefly/Description=呜呜呜哦好闪亮。
 Mobs/firefly/Spawn=地平线上，一道刺目的诡谲光芒刺破夜幕……
 
 Mobs/beetle_hel/Name=甲虫
@@ -1524,7 +1562,7 @@ Mobs/beetle_hel/Description=在异域诞生的祸害。
 Mobs/beetle_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
 
 Mobs/wasp/Name=胡蜂
-Mobs/wasp/Description=它们 很 生 气。
+Mobs/wasp/Description=它们 生 气 了。
 
 Mobs/dummy/Name=训练假人
 Mobs/dummy/Description=它怎么跑到你的图鉴里的？
@@ -1549,12 +1587,12 @@ Mobs/trader/Name=商人
 
 Mobs/gambler/Name=赌徒
 Mobs/gambler/Description=这可以在<s val="1.5">你</s>的身上发生。
-Mobs/gambler/Spawn=虚空之中，微微回荡着不知源头的飘渺呢喃…… “只……此一局……”
+Mobs/gambler/Spawn=虚空之中，微微回荡着不知源头的飘渺呢喃…… “就……再来一局吧……”
 
 Mobs/oracle/Name=神谕者
 
 Mobs/firefly_magic/Name=萤火虫
-Mobs/firefly_magic/Description=这一只萤火虫有一种神奇的魔力。
+Mobs/firefly_magic/Description=这只萤火虫有一种神奇的魔力。
 
 Mobs/titan/Name=泰坦
 
@@ -1571,7 +1609,7 @@ Mobs/mecha_flower/Name=机械花
 Mobs/mecha_flower/Description=有些人一直在制作这些机械的花朵……这会意味着什么？
 
 Mobs/wasp_mecha/Name=胡蜂
-Mobs/wasp_mecha/Description=它们生 机 器（气）了！
+Mobs/wasp_mecha/Description=它们生 机 器（气）了。
 
 Mobs/spider_mecha/Name=蜘蛛
 Mobs/spider_mecha/Description=吓人的机器。
@@ -1625,7 +1663,7 @@ Petals/faster/Description=它太轻了，以至于让你的花瓣旋转得更快
 
 Petals/bubble/Name=泡泡
 Petals/bubble/FullName=泡泡
-Petals/bubble/Description=弱者才会遵守物理定律！
+Petals/bubble/Description=弱者才会遵守物理定律。
 
 Petals/pollen/Name=花粉
 Petals/pollen/FullName=花粉
@@ -1873,7 +1911,7 @@ Petals/coin/Description=是乃金钱所迫！
 
 Petals/chip/Name=筹码
 Petals/chip/FullName=扑克筹码
-Petals/chip/Description=孤 注 一 掷！
+Petals/chip/Description=孤 注 一 掷。
 
 Petals/card/Name=纸牌
 Petals/card/FullName=纸牌
@@ -1897,7 +1935,7 @@ Petals/corruption/Description=腐蚀花朵的灵魂，堕落的自我让他们�
 
 Petals/orb/Name=球
 Petals/orb/FullName=魔法球
-Petals/orb/Description=创造魔力！
+Petals/orb/Description=创造魔力。
 
 Petals/blueberries/Name=蓝莓
 Petals/blueberries/FullName=蓝莓
@@ -1961,7 +1999,7 @@ Petals/mjolnir/unique/Description=整个宇宙中唯一最强大的锤子。
 	
 Petals/mecha_missile/Name=导弹
 Petals/mecha_missile/FullName=机械导弹
-Petals/mecha_missile/Description=锁定目标！
+Petals/mecha_missile/Description=锁定目标。
 Petals/basic/Py=jiben
 Petals/light/Py=qing
 Petals/rock/Py=yanshi
@@ -2154,7 +2192,7 @@ Achievements/16/Py=hechengshi
 Achievements/17/Py=anweijiang
 Achievements/18/Py=anweijiang
 Achievements/19/Py=anweijiang
-Achievements/20/Py=chengweiwajuezhe
+Achievements/20/Py=wajuezhe
 Achievements/21/Py=zhuozhuangchengzhang
 Achievements/22/Py=zhuozhuangchengzhang
 Achievements/23/Py=zhuozhuangchengzhang
@@ -2164,11 +2202,11 @@ Achievements/26/Py=zhuozhuangchengzhang
 Achievements/27/Py=zhuozhuangchengzhang
 Achievements/28/Py=huihuowudu
 Achievements/29/Py=zishenhechengshi
-Achievements/30/Py=shalipiaoyang
-Achievements/31/Py=haidixiaozongdui
+Achievements/30/Py=shamo
+Achievements/31/Py=haiyang
 Achievements/32/Py=huanyinglaidaoconglin
-Achievements/33/Py=mayizhijia
-Achievements/34/Py=angzangdexiashuidao
+Achievements/33/Py=mayidiyu
+Achievements/34/Py=xiashuidao
 Achievements/35/Py=shengwuzhengfuzhe
 Achievements/36/Py=shengwuzhengfuzhe
 Achievements/37/Py=shengwuzhengfuzhe
@@ -2177,23 +2215,23 @@ Achievements/39/Py=shengwuzhengfuzhe
 Achievements/40/Py=shengwuzhengfuzhe
 Achievements/41/Py=shengwuzhengfuzhe
 Achievements/42/Py=quwanghefang
-Achievements/43/Py=chushitiaozhan
+Achievements/43/Py=tiaozhanlieren
 Achievements/44/Py=tiaozhanlieren
 Achievements/45/Py=tiaozhanlieren
 Achievements/46/Py=tiaozhanlieren
-Achievements/47/Py=zhengzhuangdaizhen
-Achievements/48/Py=zhengzhuangdaizhen
-Achievements/49/Py=zhengzhuangdaizhen
-Achievements/50/Py=zhengzhuangdaizhen
-Achievements/51/Py=zhengzhuangdaizhen
-Achievements/52/Py=zhengzhuangdaizhen
-Achievements/53/Py=zhengzhuangdaizhen
+Achievements/47/Py=zhengzhuangdaifa
+Achievements/48/Py=zhengzhuangdaifa
+Achievements/49/Py=zhengzhuangdaifa
+Achievements/50/Py=zhengzhuangdaifa
+Achievements/51/Py=zhengzhuangdaifa
+Achievements/52/Py=zhengzhuangdaifa
+Achievements/53/Py=zhengzhuangdaifa
 Achievements/54/Py=zhaohuandashi
 Achievements/55/Py=zhaohuandashi
 Achievements/56/Py=zhaohuandashi
 Achievements/57/Py=zhaohuandashi
 Achievements/58/Py=shanshanfaliang
-Achievements/59/Py=zoucuoyouxile
+Achievements/59/Py=zoucuoyouxi
 Achievements/60/Py=tongkuihuoshou
 Achievements/61/Py=tongkuihuoshou
 Achievements/62/Py=tongkuihuoshou
@@ -2207,17 +2245,17 @@ Achievements/69/Py=jishuwenti
 Achievements/70/Py=zheshibaiyi
 Achievements/71/Py=hepingzhuyizhe
 Achievements/72/Py=gaishanglule
-Achievements/73/Py=baihuadiaoling
+Achievements/73/Py=gaishanglule
 Achievements/74/Py=qisihuisheng
 Achievements/75/Py=shirijiuxing
-Achievements/76/Py=yingxiongchuanshuo
+Achievements/76/Py=shirijiuxing
 Achievements/77/Py=shangdishijiao
 Achievements/78/Py=tanzhibishen
-Achievements/79/Py=jiatinghuimiezhe
+Achievements/79/Py=manmenchaozhan
 Achievements/80/Py=manmenchaozhan
 Achievements/81/Py=zaogao
 Achievements/82/Py=zaogao
-Achievements/83/Py=zaogaotouding
+Achievements/83/Py=zaogao
 Achievements/84/Py=lianhuanshashou
 Achievements/85/Py=ruibukedang
 Achievements/86/Py=ruibukedang
@@ -2240,15 +2278,15 @@ Achievements/102/Py=baoruzhipian
 Achievements/103/Py=wensibudong
 Achievements/104/Py=wensibudong
 Achievements/105/Py=xiqihuqi
-Achievements/106/Py=chaoyinsushengbo
-Achievements/107/Py=chaoyinsushengbo
+Achievements/106/Py=chaoyinsu
+Achievements/107/Py=chaoyinsu
 Achievements/108/Py=shengwuxuejia
 Achievements/109/Py=shoujidashi
-Achievements/110/Py=zoujinshenghuo
-Achievements/111/Py=zhiyesaicheshou
-Achievements/112/Py=zhiyesaicheshou
-Achievements/113/Py=zhiyesaicheshou
-Achievements/114/Py=zhiyesaicheshou
+Achievements/110/Py=huiguishenghuo
+Achievements/111/Py=saicheshou
+Achievements/112/Py=saicheshou
+Achievements/113/Py=saicheshou
+Achievements/114/Py=saicheshou
 Achievements/115/Py=shengwuxuejia
 Achievements/116/Py=yiwushichu
 Achievements/117/Py=yiwushichu
@@ -2267,11 +2305,11 @@ Achievements/129/Py=tongguiyujin
 Achievements/130/Py=jiaoyidacheng
 Achievements/131/Py=jiaoyidacheng
 Achievements/132/Py=jiaoyidacheng
-Achievements/133/Py=chengweidutu
+Achievements/133/Py=dutu
 Achievements/134/Py=toujiang
-Achievements/135/Py=dubohaoke
+Achievements/135/Py=haoke
 Achievements/136/Py=yuzhiyiqe
-Achievements/137/Py=cinaibanshangdingding
+Achievements/137/Py=cinaitianming
 Achievements/138/Py=mofashi
 Rarities/common/Name=普通
 Rarities/common/ArticleUpper=一个
@@ -2598,52 +2636,9 @@ Tutorial/Done=完成
 
 UI/Language/Name=中文（简体）
 
-UI/Time/Days={#UI/Time/Days/{0:1orN}}
-UI/Time/Hours={#UI/Time/Hours/{0:1orN}}
-UI/Time/Minutes={#UI/Time/Minutes/{0:1orN}}
-UI/Time/Seconds={#UI/Time/Seconds/{0:1orN}}
-UI/Time/Now=瞬间
-
-UI/TimeLeft/Days=在{#UI/Time/Days/{0:1orN}}后
-UI/TimeLeft/Hours=在{#UI/Time/Hours/{0:1orN}}后
-UI/TimeLeft/Minutes=在{#UI/Time/Minutes/{0:1orN}}后
-UI/TimeLeft/Seconds=在{#UI/Time/Seconds/{0:1orN}}后
-UI/TimeLeft/Now=瞬间
-
-UI/TooltipTime/Days={#UI/TooltipTime/Days/{0:1orN}}
-UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{0:1orN}}
-UI/TooltipTime/Minutes={#UI/TooltipTime/Minutes/{0:1orN}}
-UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{0:1orN}}
-UI/TooltipTime/Now=瞬间
-
-UI/Tooltip/None={0}
-UI/Tooltip/Thousand={0}千
-UI/Tooltip/Million={0}百万
-UI/Tooltip/Billion={0}十亿
-UI/Tooltip/Trillion={0}兆
-
-# Helpers
-UI/Time/Days/1=1天
-UI/Time/Days/N={0}天
-UI/Time/Hours/1=1小时
-UI/Time/Hours/N={0}小时
-UI/Time/Minutes/1=1分钟
-UI/Time/Minutes/N={0}分钟
-UI/Time/Seconds/1=1秒
-UI/Time/Seconds/N={0}秒
-
-UI/TooltipTime/Days/1=1天
-UI/TooltipTime/Days/N={0:tooltip}天
-UI/TooltipTime/Hours/1=1小时
-UI/TooltipTime/Hours/N={0:tooltip}小时
-UI/TooltipTime/Minutes/1=1分钟
-UI/TooltipTime/Minutes/N={0:tooltip}分钟
-UI/TooltipTime/Seconds/1=1秒
-UI/TooltipTime/Seconds/N={0:tooltip}秒
-
-UI/Title/Loading=正 在 加 载 中 ......
-UI/Title/Connecting=正 在 连 接 中 ......
-UI/Title/LoggingIn=正 在 登 录 中 ......
+UI/Title/Loading=正在加载中......
+UI/Title/Connecting=正在连接中......
+UI/Title/LoggingIn=正在登录中......
 UI/Title/Ready=准 备
 UI/Title/GuestName=游客
 UI/Title/GuestLimitation=您可以在到达{0}级或关联账号后修改名称。
@@ -2679,6 +2674,7 @@ UI/Social/Discord=加入我们的Discord社区！
 UI/Social/QQ=加入我们的QQ群！
 
 UI/AbandonGame=退出游戏
+UI/Reconnecting=连接已丢失，正在重连......
 
 UI/LevelBar/Level=等级 {0}
 UI/LevelBar/LevelLong=等级 {0} 花朵
@@ -2742,7 +2738,7 @@ UI/Squad/Error/Spam=你做得太频繁了。
 UI/Squad/Error/DoesNotExist=小队不存在。
 UI/Squad/Error/CannotJoin=你无法加入此小队。
 UI/Squad/Error/LevelDifference=你的等级与小队中其他成员的等级差距过大。
-UI/Squad/Error/Full=小队已满。
+UI/Squad/Error/Full=该小队已满。
 
 UI/Shop/Title=商店
 UI/Shop/Button=商店
@@ -2885,7 +2881,7 @@ UI/Settings/TermsOfService=服务条款
 
 UI/Credits/MadeBy=由{0}制作
 UI/Credits/SomeIcons={0}提供了一些图标
-UI/Credits/SomeTiles={0}提供了一些地板样式
+UI/Credits/SomeTiles={0}提供了一些地图纹理
 UI/Credits/SpecialThanks=特别鸣谢
 
 # The little arrows around dead flowers
