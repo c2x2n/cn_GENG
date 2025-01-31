@@ -89,7 +89,7 @@ Mobs/starfish/Name=海星
 Mobs/starfish/Description=它的名字叫派大星。
 
 Mobs/crab/Name=螃蟹
-Mobs/crab/Description=我就是蟹老板。
+Mobs/crab/Description=蟹老板。
 
 Mobs/jellyfish/Name=水母
 Mobs/jellyfish/Description=用来做最美味的果酱。
