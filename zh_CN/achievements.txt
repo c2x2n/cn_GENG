@@ -25,7 +25,7 @@ Achievements/5/ExtraDescription=想要提升等级，只需不断消灭昆虫。
 
 Achievements/6/Name=新手教程
 Achievements/6/Description=使用你的天赋点。
-Achievements/6/ExtraDescription=使用你获得的新天赋点来解锁任意天赋<n/><n/>请记住，你需要点击并长安来升级天赋。
+Achievements/6/ExtraDescription=使用你获得的新天赋点来解锁任意天赋<n/><n/>请记住，你需要点击并长按来升级天赋。
 
 Achievements/7/Name=新手教程
 Achievements/7/Description=收集一些花瓣。
