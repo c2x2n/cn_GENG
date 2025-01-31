@@ -360,7 +360,7 @@ Petals/coral/Description=撞击后分裂。<n/>每一片都有前身50%的属性
 
 Petals/magic_bubble/Name=泡泡
 Petals/magic_bubble/FullName=魔法泡泡
-Petals/magic_bubble/Description=无魔法者遵守物理定律，有魔法者打破物理定律。
+Petals/magic_bubble/Description=无魔法者才会遵守物理定律。
 
 Petals/nazar/Name=邪眼
 Petals/nazar/FullName=邪眼护符
