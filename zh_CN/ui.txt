@@ -132,7 +132,7 @@ UI/Shop/MagicPetalError/Title=出错了
 UI/Shop/MagicPetalError/Instructions=直到你有一个{#Petals/{0}/FullName}前<n/>你不能购买魔法花瓣。
 UI/Shop/MagicPetalError/Cancel=取消
 UI/Shop/Loyalty/Title=谢谢！
-UI/Shop/Loyalty/Instructions=作为对于您支持我们的感谢，<n/>我们想免费给您一些星星。<n/><n/>这取决于您之前花费的金额，<n/>与您已经花费的金额相同，但套餐优惠更大。
+UI/Shop/Loyalty/Instructions=作为对于您支持我们的感谢，<n/>我们想免费给您一些星星。<n/><n/>这取决于您之前花费的金额，<n/>这些星星的价格与您已经花费的金额相同，但套餐优惠更大。
 UI/Shop/Price/USD={0}美元
 
 UI/DailyChallenge/Title=挑战
