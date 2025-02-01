@@ -170,7 +170,7 @@ Mobs/beetle_hel/Description=在异域诞生的亡灵。
 Mobs/beetle_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌来……
 
 Mobs/wasp/Name=胡蜂
-Mobs/wasp/Description=它们<s val="1.5">生 气</s>了。
+Mobs/wasp/Description=它们 生 气 了。
 
 Mobs/dummy/Name=训练假人
 Mobs/dummy/Description=它怎么跑到你的图鉴里的？
@@ -194,7 +194,7 @@ Mobs/wasp_hel/Spawn=大地之下，位面之间，异界的不祥波动悄然涌
 Mobs/trader/Name=商人
 
 Mobs/gambler/Name=赌徒
-Mobs/gambler/Description=<s val="1.5">你</s>也可能变成这样。
+Mobs/gambler/Description=<s val="1.5">你</s>也有可能变成这样。
 Mobs/gambler/Spawn=耳畔旁，微微回荡着不知源头的飘渺呢喃…… “就……再来一局吧……”
 
 Mobs/oracle/Name=神谕者
