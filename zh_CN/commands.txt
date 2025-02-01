@@ -1,73 +1,73 @@
-UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} : {#Chat/Command/{0}/Description}
+UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args}：{#Chat/Command/{0}/Description}
 
-Chat/Command/help/Args=【命令名】
-Chat/Command/help/Description=列出所有命令或列出特定命令的帮助。
+Chat/Command/help/Args=[命令名]
+Chat/Command/help/Description=列出所有命令或列出特定命令的帮助
 
 Chat/Command/guild/Args=<消息>
-Chat/Command/guild/Description=只向其他公会成员发送信息。
+Chat/Command/guild/Description=只向公会其他成员发送消息
 
-Chat/Command/guild-create/Args=<名称> <标签>
-Chat/Command/guild-create/Description=创建一个新公会。名称必须为3-13个字符，标签必须为2-4个字符，必须全部为英文字母。
+Chat/Command/guild-create/Args=<名字> <标签>
+Chat/Command/guild-create/Description=创建一个新公会。名字必须为3-13个字符，标签必须为2-4个字符
 
-Chat/Command/guild-invite/Args=<玩家名称>
-Chat/Command/guild-invite/Description=邀请玩家加入公会，你必须是会长，且该玩家必须在你附近。
+Chat/Command/guild-invite/Args=<名称>
+Chat/Command/guild-invite/Description=邀请玩家加入公会，你必须是会长，且该玩家必须在你附近
 
-Chat/Command/guild-transfer-leader/Args=<新会长名称>
-Chat/Command/guild-transfer-leader/Description=将公会领导权移交给其他人。
+Chat/Command/guild-transfer-leader/Args=<目标>
+Chat/Command/guild-transfer-leader/Description=将公会领导权转移给其他人
 
-Chat/Command/guild-motd/Args=<内容>
-Chat/Command/guild-motd/Description=设置公会的公告。
+Chat/Command/guild-motd/Args=<文本>
+Chat/Command/guild-motd/Description=设置公会公告
 
 Chat/Command/squad/Args=<消息>
-Chat/Command/squad/Description=只向其他小队成员发送信息。
+Chat/Command/squad/Description=只向小队其他成员发送消息
 
 Chat/Command/squad-create/Args=
-Chat/Command/squad-create/Description=创建一支小队。
+Chat/Command/squad-create/Description=创建一个小队
 
 Chat/Command/squad-join/Args=<代码>
-Chat/Command/squad-join/Description=加入一支小队。
+Chat/Command/squad-join/Description=加入一个小队
 
 Chat/Command/squad-leave/Args=
-Chat/Command/squad-leave/Description=离开小队。
+Chat/Command/squad-leave/Description=离开小队
 
 Chat/Command/squad-find-public/Args=
-Chat/Command/squad-find-public/Description=随机加入一支公共小队。
+Chat/Command/squad-find-public/Description=加入随机公开小队
 
 Chat/Command/squad-public/Args=
-Chat/Command/squad-public/Description=将此小队设为公开小队。
+Chat/Command/squad-public/Description=将小队设为公开
 
 Chat/Command/squad-private/Args=
-Chat/Command/squad-private/Description=将此小队设为私密小队。
+Chat/Command/squad-private/Description=将小队设为私密
 
-Chat/Command/whisper/Args=<目标玩家名称> <消息>
-Chat/Command/whisper/Description=向特定玩家发送信息。
+Chat/Command/whisper/Args=<目标> <消息>
+Chat/Command/whisper/Description=向特定玩家发送消息
 
 Chat/Command/w/Args={#Chat/Command/whisper/Args}
 Chat/Command/w/Description={#Chat/Command/whisper/Description}
 
 Chat/Command/reply/Args=<消息>
-Chat/Command/reply/Description=回复最新收到的密语消息。
+Chat/Command/reply/Description=回复最新收到的密语消息
 
 Chat/Command/r/Args={#Chat/Command/reply/Args}
 Chat/Command/r/Description={#Chat/Command/reply/Description}
 
 Chat/Command/local/Args=<消息>
-Chat/Command/local/Description=只向周围的人发送信息。
+Chat/Command/local/Description=只向周围的人发送消息
 
 Chat/Command/map/Args=<消息>
-Chat/Command/map/Description=发送一条地图信息。
+Chat/Command/map/Description=发送一条地图消息
 
 Chat/Command/global/Args=<消息>
-Chat/Command/global/Description=发送一条公共信息。
+Chat/Command/global/Description=发送一条全球消息
 
-Chat/Command/unblock/Args=<玩家名称>
-Chat/Command/unblock/Description=从屏蔽列表中解除屏蔽某人。
+Chat/Command/unblock/Args=<名称>
+Chat/Command/unblock/Description=从屏蔽列表中移除某人
 
 Chat/Command/unblock-all/Args=
-Chat/Command/unblock-all/Description=解除对屏蔽列表中所有人的屏蔽。
+Chat/Command/unblock-all/Description=移除对屏蔽列表中所有人的屏蔽
 
 Chat/Command/print-players/Args=
-Chat/Command/print-players/Description=列出附近玩家的账号 ID。
+Chat/Command/print-players/Description=列出附近玩家的账号ID。
 
 ##################################################################################
 # All the ones below do not need to be translated, they are admin-only commands: #

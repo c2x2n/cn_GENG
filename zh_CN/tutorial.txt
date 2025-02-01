@@ -1,7 +1,7 @@
-Tutorial/Start=<s val="1.5">新手教程</s><n/><n/>您似乎是新手，让我们为您介绍一下基础知识。<n/>单击“准备”开始
-Tutorial/End=<s val="1.5">新手教程</s><n/><n/>就是这样！记得使用库存来装备和取消装备花瓣<n/>你可以点击花瓣来装备/取消装备它。<n/><n/>继续收藏更多花瓣吧，祝你好运！
-Tutorial/MustBeAlive=你必须活着才能继续新手教程。
-Tutorial/MustBeInGame=对于本教程的这一部分，您必须在游戏中，只需单击绿色的“准备”按钮即可。
-Tutorial/MustLeaveGame=要继续新手教程，请单击左上角的“退出游戏”按钮放弃此游戏。
+Tutorial/Start=<s val="1.5">教程</s><n/><n/>你似乎是刚刚接触这个游戏，让我们为你介绍一下基础知识吧。<n/>点击“准备”开始
+Tutorial/End=<s val="1.5">教程</s><n/><n/>就是这样！记得使用背包来装备和卸下花瓣<n/>你可以点击花瓣来装备/卸下它。<n/><n/>继续收藏更多花瓣吧，祝你好运！
+Tutorial/MustBeAlive=你必须活着才能继续教程。
+Tutorial/MustBeInGame=你必须在游戏中进行本教程的这一部分，只需点击绿色的“准备”按钮即可进入游戏。
+Tutorial/MustLeaveGame=要继续新手教程，请点击左上角的“退出游戏”按钮放弃此游戏。
 Tutorial/Next=继续
 Tutorial/Done=完成

@@ -22,20 +22,20 @@ Talents/crafting_ultra/Description={#Talents/crafting/Description}
 Talents/crafting_super/Name={#Talents/crafting/Name}
 Talents/crafting_super/Description={#Talents/crafting/Description}
 
-Talents/inventory6/Name=槽位
-Talents/inventory6/Description=启用第6个装备槽来装备花瓣。
+Talents/inventory6/Name=物品栏
+Talents/inventory6/Description=启用第6个槽位来装备花瓣。
 
-Talents/inventory7/Name=槽位
-Talents/inventory7/Description=启用第7个装备槽来装备花瓣。
+Talents/inventory7/Name=物品栏
+Talents/inventory7/Description=启用第7个槽位来装备花瓣。
 
-Talents/inventory8/Name=槽位
-Talents/inventory8/Description=启用第8个装备槽来装备花瓣。
+Talents/inventory8/Name=物品栏
+Talents/inventory8/Description=启用第8个槽位来装备花瓣。
 
-Talents/inventory9/Name=槽位
-Talents/inventory9/Description=启用第9个装备槽来装备花瓣。
+Talents/inventory9/Name=物品栏
+Talents/inventory9/Description=启用第9个槽位来装备花瓣。
 
-Talents/inventory10/Name=槽位
-Talents/inventory10/Description=启用第10个装备槽来装备花瓣。
+Talents/inventory10/Name=物品栏
+Talents/inventory10/Description=启用第10个槽位来装备花瓣。
 
 Talents/health/Name=生命
 Talents/health/Description=提高{0:perc}%的基础{#Flower/Attribute/HealthNoColon}。
@@ -64,8 +64,8 @@ Talents/health7/Description={#Talents/health/Description}
 Talents/health8/Name={#Talents/health/Name}
 Talents/health8/Description={#Talents/health/Description}
 
-Talents/luck/Name=幸运
-Talents/luck/Description=提高{0:tooltip}的{#Flower/Attribute/LuckNoColon}。<n/>幸运值被特定的花瓣用来改变它们的属性。
+Talents/luck/Name=运气
+Talents/luck/Description=提高{0:tooltip}的{#Flower/Attribute/LuckNoColon}。<n/>运气可改变特定花瓣的数值。
 
 Talents/luck1/Name={#Talents/luck/Name}
 Talents/luck1/Description={#Talents/luck/Description}
@@ -80,7 +80,7 @@ Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
 Talents/medic/Name=医疗师
-Talents/medic/Description=为你的所有花瓣提高{0:perc}%的{#Flower/Attribute/HealingNoColon}。<n/>会同时影响被你的花瓣治疗的队友。
+Talents/medic/Description=为你的所有花瓣提高{0:perc}%的{#Flower/Attribute/HealingNoColon}。<n/>包括对队友的治疗在内。
 
 Talents/medic1/Name={#Talents/medic/Name}
 Talents/medic1/Description={#Talents/medic/Description}
@@ -107,7 +107,7 @@ Talents/medic8/Name={#Talents/medic/Name}
 Talents/medic8/Description={#Talents/medic/Description}
 
 Talents/summoner/Name=召唤师
-Talents/summoner/Description=为你召唤的生物提高{0:perc}%的{#Mob/Attribute/HealthNoColon}。
+Talents/summoner/Description=为你的召唤物增加{0:perc}%的{#Mob/Attribute/HealthNoColon}。
 
 Talents/summoner1/Name={#Talents/summoner/Name}
 Talents/summoner1/Description={#Talents/summoner/Description}
@@ -134,28 +134,28 @@ Talents/summoner8/Name={#Talents/summoner/Name}
 Talents/summoner8/Description={#Talents/summoner/Description}
 
 Talents/reload1/Name=冷却
-Talents/reload1/Description=将花瓣的重新加载时间减少{0:perc}%<n/>同时将交换花瓣时的最小重新加载时间从{3}秒减少至{2}秒。
+Talents/reload1/Description=将花瓣的冷却时间减少{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
 
 Talents/reload2/Name=冷却
-Talents/reload2/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小重新加载时间从{3}秒减少至{2}秒。
+Talents/reload2/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
 
 Talents/reload3/Name=冷却
-Talents/reload3/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小重新加载时间从{3}秒减少至{2}秒。
+Talents/reload3/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
 
 Talents/reload4/Name=冷却
-Talents/reload4/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小重新加载时间从{3}秒减少至{2}秒。
+Talents/reload4/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
 
 Talents/reload5/Name=冷却
-Talents/reload5/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小重新加载时间从{3}秒减少至{2}秒。
+Talents/reload5/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%<n/>同时将交换花瓣时的最小冷却时间从{3}秒减少至{2}秒。
 
 Talents/reload6/Name=冷却
-Talents/reload6/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%
+Talents/reload6/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%。
 
 Talents/reload7/Name=冷却
-Talents/reload7/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%
+Talents/reload7/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%。
 
 Talents/reload8/Name=冷却
-Talents/reload8/Description=将花瓣的重新加载时间从{1:perc}%减少到{0:perc}%
+Talents/reload8/Description=将花瓣的冷却时间从{1:perc}%减少到{0:perc}%。
 
 Talents/body_damage/Name=锋利边缘
 Talents/body_damage/Description=提高{0:perc}%的{#Flower/Attribute/BodyDamageNoColon}。
@@ -185,7 +185,7 @@ Talents/body_damage8/Name={#Talents/body_damage/Name}
 Talents/body_damage8/Description={#Talents/body_damage/Description}
 
 Talents/petal_rotation/Name=花瓣旋转
-Talents/petal_rotation/Description=将花瓣的{#Flower/Attribute/RotationSpeedNoColon}从{1:tooltip}提高到{0:tooltip}弧度每秒。
+Talents/petal_rotation/Description=将花瓣的{#Flower/Attribute/RotationSpeedNoColon}从{1:tooltip}提高到{0:tooltip}弧度/秒。
 
 Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
 Talents/petal_rotation1/Description={#Talents/petal_rotation/Description}
@@ -221,10 +221,10 @@ Talents/second_chance2/Name=第二次机会
 Talents/second_chance2/Description=在原有基础上，持续时间增加到{0:tooltip}秒，冷却时间减少到{1:tooltip}秒。
 
 Talents/magnetism/Name=磁性
-Talents/magnetism/Description=在花朵活着时，将花瓣拾取范围增加 {0}。
+Talents/magnetism/Description=在花朵活着时将拾取范围增加 {0}。
 
 Talents/body_toxicity/Name=身体毒性
-Talents/body_toxicity/Description=与敌人相撞时，造成额外伤害<n/>等于持续时间为{1:tooltip}秒的以{0:tooltip}倍{#Flower/Attribute/BodyDamageNoColon}为总量的{#Attribute/PoisonNoColon}伤害。
+Talents/body_toxicity/Description=与敌人相撞时，造成额外伤害，<n/>等同于持续时间为{1:tooltip}秒的以{0:tooltip}倍{#Flower/Attribute/BodyDamageNoColon}为总量的{#Attribute/PoisonNoColon}伤害。
 
 Talents/poison/Name=剧毒
 Talents/poison/Description=将全部{#Attribute/PoisonNoColon}伤害提升{0:perc}%。
@@ -254,10 +254,10 @@ Talents/poison8/Name={#Talents/poison/Name}
 Talents/poison8/Description={#Talents/poison/Description}
 
 Talents/concentrated_poison/Name=集中剧毒
-Talents/concentrated_poison/Description=在增加{#Attribute/PoisonNoColon}每秒伤害{0:perc}%的同时，<n/>减少{#Attribute/PoisonNoColon}持续时间{1:perc}%
+Talents/concentrated_poison/Description=在增加{#Attribute/PoisonNoColon}每秒伤害{0:perc}%的同时，<n/>减少{#Attribute/PoisonNoColon}持续时间{1:perc}%。
 
 Talents/duplicator/Name=有丝分裂
-Talents/duplicator/Description=为至少有{0:tooltip}副本的花瓣添加额外的一个副本。
+Talents/duplicator/Description=为至少分为{0:tooltip}部分的花瓣添加额外的一个部分。
 
 Talents/antennae1/Name=触角
 Talents/antennae1/Description=使视野范围增加{0:perc}%。

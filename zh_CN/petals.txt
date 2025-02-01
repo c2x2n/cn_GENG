@@ -8,7 +8,7 @@ Petals/light/Description=比大多数花瓣弱，但冷却非常快。
 
 Petals/rock/Name=岩石
 Petals/rock/FullName=岩石
-Petals/rock/Description=它极为耐用，但冷却时间稍长。
+Petals/rock/Description=极为耐用，但冷却时间稍长。
 
 Petals/square/Name=正方形
 Petals/square/FullName=正方形
@@ -16,11 +16,11 @@ Petals/square/Description=这个形状……看起来很熟悉……
 
 Petals/rose/Name=玫瑰
 Petals/rose/FullName=玫瑰
-Petals/rose/Description=它的治疗属性非常惊人，不过在攻击时就没那么好用了。
+Petals/rose/Description=治疗属性非常惊人，战斗时差强人意。
 
 Petals/stinger/Name=刺
 Petals/stinger/FullName=刺
-Petals/stinger/Description=它打人真的很疼，但是却十分脆弱。
+Petals/stinger/Description=攻击很强，却十分脆弱。
 
 Petals/iris/Name=鸢尾
 Petals/iris/FullName=鸢尾
@@ -28,7 +28,7 @@ Petals/iris/Description=它毒性很强，但需要一点时间才能发挥作�
 
 Petals/wing/Name=翅膀
 Petals/wing/FullName=翅膀
-Petals/wing/Description=来得快，去得也快。
+Petals/wing/Description=来去如风。
 
 Petals/missile/Name=导弹
 Petals/missile/FullName=导弹
@@ -36,7 +36,7 @@ Petals/missile/Description=你可以把它发射出去。
 
 Petals/grapes/Name=葡萄
 Petals/grapes/FullName=葡萄
-Petals/grapes/Description=呲溜一声就飞出去了；现在有了一个额外的秘密成分：剧毒。
+Petals/grapes/Description=“嘭”地爆开；现在有了一个额外的秘密成分：剧毒。
 
 Petals/cactus/Name=仙人掌
 Petals/cactus/FullName=仙人掌
@@ -44,7 +44,7 @@ Petals/cactus/Description=它不是很强，但会增加你的生命值上限。
 
 Petals/faster/Name=更快
 Petals/faster/FullName=更快
-Petals/faster/Description=它太轻了，以至于让你的花瓣旋转得更快。
+Petals/faster/Description=它太轻了，以至于你的花瓣会旋转得更快。
 
 Petals/bubble/Name=泡泡
 Petals/bubble/FullName=泡泡
@@ -52,11 +52,11 @@ Petals/bubble/Description=弱者才会遵守物理定律。
 
 Petals/pollen/Name=花粉
 Petals/pollen/FullName=花粉
-Petals/pollen/Description=当心哮喘。
+Petals/pollen/Description=小心过敏。
 
 Petals/dandelion/Name=蒲公英
 Petals/dandelion/FullName=蒲公英
-Petals/dandelion/Description=它有趣的特性是可以抑制治疗效果。<n/>使受其影响的单位治疗量降低20%，效果可与自身叠加。
+Petals/dandelion/Description=它可以抑制生物的自身治疗效果，<n/>使受其影响的单位治疗量降低20%，效果可与自身叠加。
 
 Petals/beetle_egg/Name=卵
 Petals/beetle_egg/FullName=甲虫卵
@@ -80,15 +80,15 @@ Petals/web/Description=它真的很黏。
 
 Petals/honey/Name=蜂蜜
 Petals/honey/FullName=蜂蜜
-Petals/honey/Description=生物们很喜欢它，可以吸引大范围内的生物。<n/>生物们会优先考虑它而非花朵们。<n/>生物们在被影响一段时间后会对其效果产生免疫力。
+Petals/honey/Description=生物很喜欢它，可以吸引大范围内的生物。<n/>生物会优先考虑它而非花朵们。<n/>生物在被影响一段时间后会对其效果产生免疫力。
 
 Petals/leaf/Name=叶子
 Petals/leaf/FullName=叶子
-Petals/leaf/Description=从太阳中收集能量，被动地治疗你的花朵。
+Petals/leaf/Description=通过光合作用持续治疗你的花朵。
 
 Petals/salt/Name=盐
 Petals/salt/FullName=盐
-Petals/salt/Description=将部分你受到的伤害反弹给造成伤害的敌人。<n/>稀有度越高的生物对伤害反射的抗性越高。
+Petals/salt/Description=将部分你受到的伤害反弹给造成伤害的敌人。<n/>稀有度越高的生物对伤害反弹的抗性越高。
 
 Petals/rice/Name=大米
 Petals/rice/FullName=大米
@@ -96,7 +96,7 @@ Petals/rice/Description=冷却速度很快，但不是很强。
 
 Petals/corn/Name=玉米
 Petals/corn/FullName=玉米
-Petals/corn/Description=冷却时间很长，但生命值很高。
+Petals/corn/Description=冷却时间很长，但耐久很高。
 
 Petals/sand/Name=沙子
 Petals/sand/FullName=沙子
@@ -112,7 +112,7 @@ Petals/yucca/Description=仅在花朵处于防御状态时提供治疗。
 
 Petals/magnet/Name=磁铁
 Petals/magnet/FullName=磁铁
-Petals/magnet/Description=增加花朵的掉落物拾取范围。
+Petals/magnet/Description=增加花朵的拾取范围。
 
 Petals/yggdrasil/Name=世界树
 Petals/yggdrasil/FullName=世界树之叶
@@ -120,23 +120,23 @@ Petals/yggdrasil/Description=世界树上的一片枯叶。<n/>传说能使死�
 
 Petals/starfish/Name=海星
 Petals/starfish/FullName=海星
-Petals/starfish/Description=当花朵生命值低于75%时增加生命回复。
+Petals/starfish/Description=发挥作用于花朵生命值低于75%时。
 
 Petals/pearl/Name=珍珠
 Petals/pearl/FullName=珍珠
-Petals/pearl/Description=仅仅把它扔掉再运用你的动能就不会丢掉它们。
+Petals/pearl/Description=把它扔掉，然后用你的神奇力量引导它。
 
 Petals/lightning/Name=闪电
 Petals/lightning/FullName=闪电
-Petals/lightning/Description=连续打击附近的多个敌人。
+Petals/lightning/Description=连锁攻击附近的多个敌人。
 
 Petals/jelly/Name=果冻
 Petals/jelly/FullName=果冻
-Petals/jelly/Description=谁都不想碰它。
+Petals/jelly/Description=没有生物会想碰它。
 
 Petals/claw/Name=爪子
 Petals/claw/FullName=爪子
-Petals/claw/Description=如果目标的生命值高于80%会造成额外伤害。<n/>对其他花朵造成的伤害减少50%。
+Petals/claw/Description=目标的生命值高于80%时造成额外伤害。<n/>对其他花朵造成的伤害减少50%。
 
 Petals/shell/Name=贝壳
 Petals/shell/FullName=贝壳
@@ -152,11 +152,11 @@ Petals/dahlia/Description=为你的花朵提供少量但相当稳定的治疗。
 
 Petals/uranium/Name=铀
 Petals/uranium/FullName=铀
-Petals/uranium/Description=能够周期性地释放辐射。<n/>对其他花朵造成的伤害减少75%。<n/>影响强度取决于与此花瓣的距离。
+Petals/uranium/Description=能够周期性地辐射。<n/>对其他花朵造成的伤害减少75%。<n/>影响强度取决于目标与此花瓣的距离。
 
 Petals/sponge/Name=海绵
 Petals/sponge/FullName=海绵
-Petals/sponge/Description=在一段时间内将花朵受到的伤害分散开来。<n/>被摧毁时一次性返还剩余伤害给花朵。<n/>不可以延缓{#UI/属性/毒色}伤害。
+Petals/sponge/Description=在一段时间内将花朵受到的伤害分散开来。<n/>被摧毁时一次性返还剩余伤害给花朵。<n/>不可以延缓{#Attribute/PoisonNoColon}伤害。
 
 Petals/soil/Name=土
 Petals/soil/FullName=土
@@ -172,7 +172,7 @@ Petals/third_eye/Description=允许你的花朵将花瓣延伸得更远。
 
 Petals/peas/Name=豌豆
 Petals/peas/FullName=豌豆
-Petals/peas/Description=呲溜一声就飞出去了。
+Petals/peas/Description=“嘭”地爆开。
 
 Petals/stick/Name=树枝
 Petals/stick/FullName=神秘的树枝
@@ -180,19 +180,19 @@ Petals/stick/Description=神秘的树枝，能召唤风的力量。
 
 Petals/clover/Name=幸运草
 Petals/clover/FullName=幸运草
-Petals/clover/Description=增加花朵的{#Flower/Attribute/LuckNoColon}。<n/>幸运值被特定的花瓣用来改变它们的属性。
+Petals/clover/Description=增加花朵的{#Flower/Attribute/LuckNoColon}。<n/>运气可改变特定花瓣的数值。
 
 Petals/powder/Name=粉末
 Petals/powder/FullName=神秘的粉末
-Petals/powder/Description=增加花朵的移动速度。<n/>如果花朵受到伤害或靠近高于一定稀有度的生物时会失效。
+Petals/powder/Description=增加花朵的移动速度。<n/>花朵受到伤害或靠近高于一定稀有度的生物时会失效。
 
 Petals/air/Name=空气
 Petals/air/FullName=空气
-Petals/air/Description=真的什么也没有。
+Petals/air/Description=字面意思的什么也没有。
 
 Petals/basil/Name=罗勒
 Petals/basil/FullName=罗勒
-Petals/basil/Description=提高所有受到的治疗的效果。
+Petals/basil/Description=提高所有受到的治疗效果。
 
 Petals/orange/Name=橙子
 Petals/orange/FullName=橙子
@@ -208,7 +208,7 @@ Petals/poo/Description=让其他生物不太愿意攻击你。
 
 Petals/relic/Name=遗物
 Petals/relic/FullName=神秘的遗物
-Petals/relic/Description=一件奇特的遗物，可显著提高花朵最大生命值。<n/>受到的伤害会分摊给其他佩戴者。
+Petals/relic/Description=一件奇特的遗物，可显著提高花朵最大生命值。<n/>受到的伤害会分摊给其他佩戴的玩家。
 
 Petals/lotus/Name=莲花
 Petals/lotus/FullName=莲花
@@ -240,15 +240,15 @@ Petals/tomato/Description=随着时间的推移，会变得越来越强大。
 
 Petals/mark/Name=标记
 Petals/mark/FullName=暗黑标记
-Petals/mark/Description=如此黑暗的印记与堕落的灵魂紧紧相连。
+Petals/mark/Description=黑暗的印记与堕落的灵魂紧紧相连。
 
 Petals/rubber/Name=橡胶
 Petals/rubber/FullName=橡胶
-Petals/rubber/Description=增加受到的击退，也能吸收对花朵造成的闪电伤害。
+Petals/rubber/Description=增加受到的击退效果，也能吸收对花朵造成的闪电伤害。
 
 Petals/blood_stinger/Name=刺
 Petals/blood_stinger/FullName=血刺
-Petals/blood_stinger/Description=它打人真的很疼，但是却十分脆弱。<n/>生成时对花朵自身造成伤害。
+Petals/blood_stinger/Description=攻击很强，却十分脆弱。<n/>生成时对花朵自身造成伤害。
 
 Petals/bur/Name=刺果
 Petals/bur/FullName=刺果
@@ -280,7 +280,7 @@ Petals/amulet/Description=将一定比例的溢出的治疗量转化为护盾。
 
 Petals/compass/Name=指南针
 Petals/compass/FullName=指南针
-Petals/compass/Description=这个破烂的玩意也许可以找到一些有趣的东西……
+Petals/compass/Description=这个玩意也许可以找到一些有趣的东西……
 
 Petals/disc/Name=圆盘
 Petals/disc/FullName=圆盘
@@ -324,7 +324,7 @@ Petals/orb/Description=创造魔力。
 
 Petals/blueberries/Name=蓝莓
 Petals/blueberries/FullName=蓝莓
-Petals/blueberries/Description=呲溜一声就飞出去了；现在有了一个额外的秘密成分：闪电。
+Petals/blueberries/Description=“嘭”地爆开；现在有了一个额外的秘密成分：闪电。
 
 Petals/magic_cotton/Name=棉花
 Petals/magic_cotton/FullName=魔法棉花

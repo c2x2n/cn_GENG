@@ -1,9 +1,10 @@
 UI/Language/Name=中文（简体）
+UI/Language/Credits=CTTN<n/>errosia<n/>Luai2<n/>Nyar_7<n/>XIANGLANGA<n/>XNOR
 
-UI/Title/Loading=正在加载中......
-UI/Title/Connecting=正在连接中......
-UI/Title/LoggingIn=正在登录中......
-UI/Title/Ready=准 备
+UI/Title/Loading=加载中……
+UI/Title/Connecting=连接中……
+UI/Title/LoggingIn=登录中……
+UI/Title/Ready=准备
 UI/Title/GuestName=游客
 UI/Title/GuestLimitation=您可以在到达{0}级或关联账号后修改名称。
 UI/Title/Name/Bad=您的名称被重置了，请选择一个新的名称。
@@ -11,11 +12,11 @@ UI/Title/Name/AlreadyTaken=此名称已被取用。
 UI/Title/Name/InternalError=出现内部错误，请稍后再试。
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
-UI/Title/Biome/0= 花   园 
-UI/Title/Biome/1= 沙   漠 
-UI/Title/Biome/2= 海   洋 
-UI/Title/Biome/3= 丛   林 
-UI/Title/Biome/4= 冥   界 
+UI/Title/Biome/0=　花园　
+UI/Title/Biome/1=　沙漠　
+UI/Title/Biome/2=　海洋　
+UI/Title/Biome/3=　丛林　
+UI/Title/Biome/4=　冥界　
 
 UI/Login/Title=账户
 UI/Login/PlayAsGuest=以游客身份游玩
@@ -28,8 +29,8 @@ UI/Login/GuestName=游客
 UI/Login/GuestInfo=如果在此设备上已有一个游客账户，<n/>登录会关联您的账户并且保存您的游戏进度。
 UI/Login/LinkInfo=您可以关联账户从而<n/>在设备间保存您的游戏进度。
 UI/Login/Linked=已关联
-UI/Login/SupportPIN=支持码: {0}
-UI/Login/SupportPINHidden=支持码: （点击显示）
+UI/Login/SupportPIN=支持码：{0}
+UI/Login/SupportPINHidden=支持码：（点击显示）
 UI/Login/SupportPINInstructions1=请保持此识别码以防止您丢失了对账户的访问权限。
 UI/Login/SupportPINInstructions2=不要把你的支持码分享给任何人。
 UI/Login/Reminder=请关联账户来保存您的游戏进度。
@@ -38,24 +39,25 @@ UI/Social/Discord=加入我们的Discord社区！
 UI/Social/QQ=加入我们的QQ群！
 
 UI/AbandonGame=退出游戏
-UI/Reconnecting=连接已丢失，正在重连......
+UI/Reconnecting=连接已丢失，正在重连……
 
-UI/LevelBar/Level=等级 {0}
-UI/LevelBar/LevelLong=等级 {0} 花朵
-UI/LevelBar/XP={0}/{1} 经验
+UI/LevelBar/Level={0}级
+UI/LevelBar/LevelLong=等级{0}花朵
+UI/LevelBar/XP={0}/{1}经验
 
 UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
-UI/Scoreboard/Title/1=1 朵花
-UI/Scoreboard/Title/N={0} 朵花
-UI/Scoreboard/HiddenName=玩家 #{0}
+UI/Scoreboard/Title/1=1朵花
+UI/Scoreboard/Title/N={0}朵花
+UI/Scoreboard/HiddenName=玩家#{0}
 
 UI/Chat/PromptTap=轻击这里聊天
 UI/Chat/PromptClick=点击这里聊天
-UI/Chat/PromptKeyboardOrClick=按下【ENTER】或点击这里聊天
+UI/Chat/PromptKeyboardOrClick=按下[ENTER]或点击这里聊天
 UI/Chat/Player/Block=屏蔽
-UI/Chat/Player/ReportMessage=举报不雅消息
+UI/Chat/Player/ReportMessage=举报消息
 
-UI/Flower/Level=等级 {0}
+UI/Flower/Level={0}级
+
 UI/Death/Title=你被摧毁了，凶手是：
 UI/Death/NoSource=一个神秘的实体
 UI/Death/Continue=继续
@@ -67,12 +69,12 @@ UI/AFKCheck/Instructions=将圆球拖动到终点
 
 UI/Achievements/Title=成就
 UI/Achievements/Reward=奖励
-UI/Achievements/RewardTP={0} 天赋点
+UI/Achievements/RewardTP={0}天赋点
 UI/Achievements/Done=已完成
 UI/Achievements/Track=跟踪进度
 UI/Achievements/TrackAutomatically=自动跟踪
 UI/Achievements/Hidden=？？？
-UI/Achievements/TotalProgress={0}/{1} 已完成
+UI/Achievements/TotalProgress=已完成{0}/{1}
 
 UI/MobGallery/Title=生物图鉴
 
@@ -172,10 +174,10 @@ UI/Talent/Reset=重置
 
 UI/Craft/Title=合成
 UI/Craft/Button=合成
-UI/Craft/Chance={0:perc}%成功概率
-UI/Craft/UnknownChance=?%成功概率
+UI/Craft/Chance=成功率{0:perc}%
+UI/Craft/UnknownChance=成功率?%
 UI/Craft/CombineInstructions=组合{0}个相同的花瓣来进行一次升级
-UI/Craft/FailureInstructions=失败会损失{0}~{1}个花瓣
+UI/Craft/FailureInstructions=失败会损失{0}～{1}个花瓣
 
 UI/Absorb/Title=吸收
 UI/Absorb/Button=吸收
@@ -214,9 +216,9 @@ UI/Settings/Language/Automatic=自动
 UI/Settings/Realm=服务器
 UI/Settings/Realms={#UI/Settings/Realms/{0}}
 UI/Settings/Realms/0=自动
-UI/Settings/Realms/1=朱丽叶（美国）
-UI/Settings/Realms/2=罗密欧（欧洲）
-UI/Settings/Realms/3=塞拉（亚洲）
+UI/Settings/Realms/1=Juliett（美国）
+UI/Settings/Realms/2=Romeo（欧洲）
+UI/Settings/Realms/3=Sierra（亚洲）
 
 UI/Settings/Chat=聊天
 UI/Settings/ChatWhispers=密语聊天
@@ -255,6 +257,7 @@ UI/Credits/MadeBy=由{0}制作
 UI/Credits/SomeIcons={0}提供了一些图标
 UI/Credits/SomeTiles={0}提供了一些地图纹理
 UI/Credits/SpecialThanks=特别鸣谢
+UI/Credits/Translators=翻译贡献人（按字母顺序排序）
 
 # The little arrows around dead flowers
 UI/HelperText/Guild=公会成员

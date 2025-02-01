@@ -2,19 +2,19 @@ UI/Time/Days={#UI/Time/Days/{0:1orN}}
 UI/Time/Hours={#UI/Time/Hours/{0:1orN}}
 UI/Time/Minutes={#UI/Time/Minutes/{0:1orN}}
 UI/Time/Seconds={#UI/Time/Seconds/{0:1orN}}
-UI/Time/Now=瞬间
+UI/Time/Now=立即
 
 UI/TimeLeft/Days=在{#UI/Time/Days/{0:1orN}}后
 UI/TimeLeft/Hours=在{#UI/Time/Hours/{0:1orN}}后
 UI/TimeLeft/Minutes=在{#UI/Time/Minutes/{0:1orN}}后
 UI/TimeLeft/Seconds=在{#UI/Time/Seconds/{0:1orN}}后
-UI/TimeLeft/Now=瞬间
+UI/TimeLeft/Now=立即
 
 UI/TooltipTime/Days={#UI/TooltipTime/Days/{0:1orN}}
 UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{0:1orN}}
 UI/TooltipTime/Minutes={#UI/TooltipTime/Minutes/{0:1orN}}
 UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{0:1orN}}
-UI/TooltipTime/Now=瞬间
+UI/TooltipTime/Now=立即
 
 UI/Tooltip/Grouping=10000
 UI/Tooltip/Group0={0}

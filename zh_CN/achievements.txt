@@ -1,42 +1,42 @@
-Achievements/0/Name=新手教程
+Achievements/0/Name=教程
 Achievements/0/Description=稍微移动一下。
-Achievements/0/ExtraDescription=使用鼠标以移动，您的花朵会自动跟随光标。<n/>您可以在设置菜单中更改为键盘移动。<n/><n/>稍微移动一点点即可继续。
+Achievements/0/ExtraDescription=用你的鼠标来移动。你的花朵会自动跟随你的光标。<n/>你也可以在设置中将其调整为键盘移动。<n/><n/>稍微移动一下以继续。
 
-Achievements/1/Name=新手教程
-Achievements/1/Description=消灭一个生物。
-Achievements/1/ExtraDescription=这些昆虫是你的敌人，消灭它们有几率掉落新的花瓣。<n/><n/>请找到一只并消灭它。<n/>你可能会发现，按住鼠标左键来延伸你的花瓣会很有帮助。
+Achievements/1/Name=教程
+Achievements/1/Description=击杀一个生物。
+Achievements/1/ExtraDescription=那些虫子是你的敌人。消灭它们有概率掉落新的花瓣。<n/><n/>请找到一只并消灭。<n/>你可能会发现，按住鼠标左键来延伸你的花瓣很有用。
 
-Achievements/2/Name=新手教程
-Achievements/2/Description=收集一片花瓣。
-Achievements/2/ExtraDescription=不断消灭敌人，直到它们掉落花瓣，然后靠近花瓣以收集它。
+Achievements/2/Name=教程
+Achievements/2/Description=收集一个花瓣。
+Achievements/2/ExtraDescription=不断攻击敌人，直到它们掉落花瓣，然后靠近花瓣以收集。
 
-Achievements/3/Name=新手教程
-Achievements/3/Description=装备一片花瓣。
-Achievements/3/ExtraDescription=收集花瓣时，如果装备空间有空位，花瓣就会出现在那里，否则就会进入背包<n/>请点击刚收集到的花瓣装备它（或使用数字快捷键）。
+Achievements/3/Name=教程
+Achievements/3/Description=装备一个花瓣。
+Achievements/3/ExtraDescription=收集花瓣时，如果有空的花瓣槽，花瓣就会出现在那里，否则就会进入背包。<n/>点击你刚刚收集到的花瓣（或使用数字快捷键）以装备它。
 
 # Disabled
-Achievements/4/Name=新手教程
+Achievements/4/Name=教程
 Achievements/4/Description=收集更多花瓣。
-Achievements/4/ExtraDescription=下一步，我们需要大量花瓣<n/>继续消灭敌人，收集花瓣。
+Achievements/4/ExtraDescription=下一步，我们需要很多花瓣。<n/>继续消灭敌人并收集花瓣。
 
-Achievements/5/Name=新手教程
+Achievements/5/Name=教程
 Achievements/5/Description=达到{0}级。
-Achievements/5/ExtraDescription=想要提升等级，只需不断消灭昆虫。
+Achievements/5/ExtraDescription=想要升级，请不断消灭虫子。
 
-Achievements/6/Name=新手教程
+Achievements/6/Name=教程
 Achievements/6/Description=使用你的天赋点。
-Achievements/6/ExtraDescription=使用你获得的新天赋点来解锁任意天赋<n/><n/>请记住，你需要点击并长按来升级天赋。
+Achievements/6/ExtraDescription=使用你获得的新天赋点来解锁任意天赋。<n/><n/>请记住，你需要点击并<c val="{#Colors/generic}">长按</c>来升级天赋。
 
-Achievements/7/Name=新手教程
+Achievements/7/Name=教程
 Achievements/7/Description=收集一些花瓣。
-Achievements/7/ExtraDescription=现在我们需要收集{0}个相同的{#Rarities/{1}/NameColored}花瓣来合成{#Rarities/{2}/Article}{#Rarities/{2}/NameColored}花瓣。<n/>继续消灭昆虫，收集更多的花瓣。
+Achievements/7/ExtraDescription=现在我们需要收集{0}个相同的{#Rarities/{1}/NameColored}花瓣来合成{#Rarities/{2}/Article}{#Rarities/{2}/NameColored}花瓣。<n/>继续消灭虫子，收集更多花瓣。
 
-Achievements/8/Name=新手教程
-Achievements/8/Description=合成一个花瓣
-Achievements/8/ExtraDescription=现在尝试合成第一个花瓣，<n/>注意，您可能需要卸下一些花瓣才足以合成，<n/><n/>您需要5个相同的花瓣，<n/><n/>别担心，我们动了点手脚，这一次一定会成功的。
+Achievements/8/Name=教程
+Achievements/8/Description=合成一个花瓣。
+Achievements/8/ExtraDescription=现在试着合成你的第一个花瓣。<n/>注意，你可能需要卸下一些花瓣才能有足够的花瓣用来合成。<n/>你需要五个相同的花瓣。<n/><n/>别担心，我们给骰子灌了铅，这次一定会成功。
 
-Achievements/9/Name=新手教程
-Achievements/9/Description=完成新手教程。
+Achievements/9/Name=教程
+Achievements/9/Description=完成教程。
 
 Achievements/10/Name=合成师
 Achievements/10/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
@@ -59,7 +59,7 @@ Achievements/15/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花
 Achievements/16/Name=合成师
 Achievements/16/Description=合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}花瓣。
 
-Achievements/17/Name=安慰奖
+AAchievements/17/Name=安慰奖
 Achievements/17/Description=合成花瓣失败，并损失{0}个花瓣。
 
 Achievements/18/Name=安慰奖
@@ -69,7 +69,7 @@ Achievements/19/Name=安慰奖
 Achievements/19/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}花瓣失败，并损失{0}个花瓣。
 
 Achievements/20/Name=挖掘者
-Achievements/20/Description=装备一个{#Petals/cutter/Name}。
+Achievements/20/Description=装备{#Petals/cutter/Name}。
 
 Achievements/21/Name=茁壮成长
 Achievements/21/Description=达到{0}级。
@@ -93,10 +93,10 @@ Achievements/27/Name=茁壮成长
 Achievements/27/Description=达到{0}级。
 
 Achievements/28/Name=挥霍无度
-Achievements/28/Description=在合成尝试中损失{0:tooltip}个花瓣。
+Achievements/28/Description=累计在合成过程中消耗{0:tooltip}个花瓣。
 
 Achievements/29/Name=资深合成师
-Achievements/29/Description=合成{0:tooltip}个花瓣。
+Achievements/29/Description=合成出{0:tooltip}个花瓣。
 
 Achievements/30/Name=沙漠
 Achievements/30/Description=访问沙漠。
@@ -111,82 +111,82 @@ Achievements/33/Name=蚂蚁地狱
 Achievements/33/Description=查明这些讨厌的蚂蚁都来自哪里。
 
 Achievements/34/Name=下水道
-Achievements/34/Description=查明那根管道到底通向哪里。
+Achievements/34/Description=查明那根管道通向哪里。
 
-Achievements/35/Name=生物征服者
+Achievements/35/Name=征服者
 Achievements/35/Description=击败你的首个{#Rarities/{0}/Name}生物。
 
-Achievements/36/Name=生物征服者
+Achievements/36/Name=征服者
 Achievements/36/Description=击败你的首个{#Rarities/{0}/Name}生物。
 
-Achievements/37/Name=生物征服者
+Achievements/37/Name=征服者
 Achievements/37/Description=击败你的首个{#Rarities/{0}/Name}生物。
 
-Achievements/38/Name=生物征服者
+Achievements/38/Name=征服者
 Achievements/38/Description=击败你的首个{#Rarities/{0}/Name}生物。
 
-Achievements/39/Name=生物征服者
+Achievements/39/Name=征服者
 Achievements/39/Description=击败你的首个{#Rarities/{0}/Name}生物。
 
-Achievements/40/Name=生物征服者
+Achievements/40/Name=征服者
 Achievements/40/Description=击败你的首个{#Rarities/{0}/Name}生物。
 
-Achievements/41/Name=生物征服者
-Achievements/41/Description=击败你的首个{#Rarities/{0}/Name}生物
+Achievements/41/Name=征服者
+Achievements/41/Description=击败你的首个{#Rarities/{0}/Name}生物。
 
-Achievements/42/Name=去往何方？
+Achievements/42/Name=去往何 方？！
 Achievements/42/Description=访问另一个维度里的不同世界。
 
-Achievements/43/Name=挑战猎人
+Achievements/43/Name=挑战者
 Achievements/43/Description=完成一个挑战。
 
-Achievements/44/Name=挑战猎人
-Achievements/44/Description=完成{0}个挑战   
+Achievements/44/Name=挑战者
+Achievements/44/Description=完成{0}个挑战。
 
-Achievements/45/Name=挑战猎人
-Achievements/45/Description=完成{0}个挑战
+Achievements/45/Name=挑战者
+Achievements/45/Description=完成{0}个挑战。
 
-Achievements/46/Name=挑战猎人
-Achievements/46/Description=完成{0}个挑战
+Achievements/46/Name=挑战者
+Achievements/46/Description=完成{0}个挑战。
 
-Achievements/47/Name=整装待发
-Achievements/47/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+Achievements/47/Name=整装上阵
+Achievements/47/Description=装备{1}个{#Rarities/{0}/Name}花瓣。
 
-Achievements/48/Name=整装待发
-Achievements/48/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+Achievements/48/Name=整装上阵
+Achievements/48/Description=装备{1}个{#Rarities/{0}/Name}花瓣。
 
-Achievements/49/Name=整装待发
-Achievements/49/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+Achievements/49/Name=整装上阵
+Achievements/49/Description=装备{1}个{#Rarities/{0}/Name}花瓣。
 
-Achievements/50/Name=整装待发
-Achievements/50/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+Achievements/50/Name=整装上阵
+Achievements/50/Description=装备{1}个{#Rarities/{0}/Name}花瓣。
 
-Achievements/51/Name=整装待发
-Achievements/51/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+Achievements/51/Name=整装上阵
+Achievements/51/Description=装备{1}个{#Rarities/{0}/Name}花瓣。
 
-Achievements/52/Name=整装待发
-Achievements/52/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+Achievements/52/Name=整装上阵
+Achievements/52/Description=装备{1}个{#Rarities/{0}/Name}花瓣。
 
-Achievements/53/Name=整装待发
-Achievements/53/Description=装备{1}个{#Rarities/{0}/Name}花瓣
+Achievements/53/Name=整装上阵
+Achievements/53/Description=装备{1}个{#Rarities/{0}/Name}花瓣。
 
-Achievements/54/Name=召唤大师
+Achievements/54/Name=召唤师
 Achievements/54/Description=召唤一个友方生物。
 
-Achievements/55/Name=召唤大师
+Achievements/55/Name=召唤师
 Achievements/55/Description=召唤{0}个友方生物。
 
-Achievements/56/Name=召唤大师
+Achievements/56/Name=召唤师
 Achievements/56/Description=召唤{0}个友方生物。
 
-Achievements/57/Name=召唤大师
+Achievements/57/Name=召唤师
 Achievements/57/Description=召唤{0}个友方生物。
 
-Achievements/58/Name=闪闪发亮！
-Achievements/58/Description=击杀一只闪亮瓢虫。
+Achievements/58/Name=闪闪发光！
+Achievements/58/Description=消灭一个闪亮瓢虫。
 
 Achievements/59/Name=走错游戏
-Achievements/59/Description=击杀一个正方形。
+Achievements/59/Description=消灭一个正方形。
 
 Achievements/60/Name=痛魁祸首
 Achievements/60/Description=造成{0:tooltip}点伤害。
@@ -198,31 +198,31 @@ Achievements/62/Name=痛魁祸首
 Achievements/62/Description=造成{0:tooltip}点伤害。
 
 Achievements/63/Name=一击致命
-Achievements/63/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+Achievements/63/Description=一击消灭{#Rarities/{0}/Article}{#0Rarities/{0}/Name}生物。
 
 Achievements/64/Name=一击致命
-Achievements/64/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+Achievements/64/Description=一击消灭{#Rarities/{0}/Article}{#0Rarities/{0}/Name}生物。
 
 Achievements/65/Name=一击致命
-Achievements/65/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+Achievements/65/Description=一击消灭{#Rarities/{0}/Article}{#0Rarities/{0}/Name}生物。
 
 Achievements/66/Name=一击致命
-Achievements/66/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+Achievements/66/Description=一击消灭{#Rarities/{0}/Article}{#0Rarities/{0}/Name}生物。
 
 Achievements/67/Name=一击致命
-Achievements/67/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+Achievements/67/Description=一击消灭{#Rarities/{0}/Article}{#0Rarities/{0}/Name}生物。
 
 Achievements/68/Name=被晒黑了
 Achievements/68/Description=在冥界生存{0:time}。
 
 Achievements/69/Name=技术问题
-Achievements/69/Description=找到开发者的尸体。
+Achievements/69/Description=找到死去的开发者花朵。
 
-Achievements/70/Name=这是……白蚁？
-Achievements/70/Description=召唤一个友方的白蚁。
+Achievements/70/Name=白蚁……？
+Achievements/70/Description=召唤一个友方白蚁。
 
 Achievements/71/Name=和平主义者
-Achievements/71/Description=花{0:time}欣赏大自然，同时不破坏任何东西。
+Achievements/71/Description=花{0:time}欣赏大自然，同时不攻击任何东西。
 
 Achievements/72/Name=该上路了
 Achievements/72/Description=把一朵花送进冥界。
@@ -234,7 +234,7 @@ Achievements/74/Name=起死回生
 Achievements/74/Description=被复活。
 
 Achievements/75/Name=是日救星
-Achievements/75/Description=复活一朵花
+Achievements/75/Description=复活一朵花。
 
 Achievements/76/Name=是日救星
 Achievements/76/Description=复活{0}朵花。
@@ -242,14 +242,14 @@ Achievements/76/Description=复活{0}朵花。
 Achievements/77/Name=上帝视角
 Achievements/77/Description=装备{#Petals/{0}/Name}。
 
-Achievements/78/Name=弹之彼身
+Achievements/78/Name=弹治彼身
 Achievements/78/Description=用{#Petals/{0}/Name}击退一个生物。
 
 Achievements/79/Name=满门抄斩
-Achievements/79/Description=消灭一个{#Mobs/{1}/Name}，{#Mobs/{2}/Name}或是{#Mobs/{3}/Name}。
+Achievements/79/Description=消灭一个{#Mobs/{1}/Name}、{#Mobs/{2}/Name}或{#Mobs/{3}/Name}。
 
 Achievements/80/Name=满门抄斩
-Achievements/80/Description=消灭{0}个{#Mobs/{1}/Name}，{#Mobs/{2}/Name}或是{#Mobs/{3}/Name}。
+Achievements/80/Description=消灭{0}个{#Mobs/{1}/Name}、{#Mobs/{2}/Name}或{#Mobs/{3}/Name}。
 
 Achievements/81/Name=糟糕
 Achievements/81/Description=死亡。
@@ -261,70 +261,70 @@ Achievements/83/Name=糟糕
 Achievements/83/Description=死亡{0}次。
 
 Achievements/84/Name=连环杀手
-Achievements/84/Description=连续在{1:time}的间隔内相继击杀{0}个生物。
+Achievements/84/Description=在彼此间隔不超过{1:time}的情况下，连续消灭{0}个生物。
 
 Achievements/85/Name=锐不可当
-Achievements/85/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+Achievements/85/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/86/Name=锐不可当
-Achievements/86/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+Achievements/86/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/87/Name=锐不可当
-Achievements/87/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+Achievements/87/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/88/Name=锐不可当
-Achievements/88/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+Achievements/88/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/89/Name=锐不可当
-Achievements/89/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+Achievements/89/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/90/Name=锐不可当
-Achievements/90/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+Achievements/90/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/91/Name=锐不可当
-Achievements/91/Description=在不死亡的情况下，击杀{0}个{#Rarities/{1}/Name}及以上等级的生物。
+Achievements/91/Description=在不死亡的情况下，消灭{0}个{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/92/Name=谁才是假人？
-Achievements/92/Description=因{#Mobs/{0}/Name}而死。
+Achievements/92/Description=死于{#Mobs/{0}/Name}。
 
 Achievements/93/Name=赶尽杀绝
-Achievements/93/Description=在{1:time}内击杀{0}个生物。
+Achievements/93/Description=在{1:time}内消灭{0}个生物。
 
 Achievements/94/Name=腰缠万贯
 Achievements/94/Description=在{1:time}内拾取{0}个掉落物。
 
 Achievements/95/Name=黄金猎人
-Achievements/95/Description=在{1:time}内击杀{0}个闪亮瓢虫。
+Achievements/95/Description=在{1:time}内消灭{0}个闪亮瓢虫。
 
 Achievements/96/Name=超级猎人
-Achievements/96/Description=击杀{0}个{#Rarities/{1}/Name}生物。
+Achievements/96/Description=消灭{0}个{#Rarities/{1}/Name}生物。
 
 Achievements/97/Name=自我牺牲
 Achievements/97/Description=在复活某人后的{0:time}内死亡。
 
 Achievements/98/Name=不劳而获
-Achievements/98/Description=在不对一个生物造成任何伤害的情况下获得其战利品。
+Achievements/98/Description=在不对一个生物造成任何伤害的情况下获得其击杀经验。
 
 Achievements/99/Name=不劳而获
-Achievements/99/Description=在不对{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物造成任何伤害的情况下获得其战利品。
+Achievements/99/Description=在不对{#Rarities/{0}/Article}{#Rarities/{0}/Name}造成任何伤害的情况下获得其击杀经验。
 
 Achievements/100/Name=幸运之子
-Achievements/100/Description=合成花瓣时，连续成功{0}次。
+Achievements/100/Description=连续成功合成花瓣{0}次。
 
 Achievements/101/Name=厄运之子
-Achievements/101/Description=合成花瓣时，连续失败{0}次。
+Achievements/101/Description=连续失败合成花瓣{0}次。
 
 Achievements/102/Name=薄如纸片
-Achievements/102/Description=死于高于花朵最大生命值的一次伤害。
+Achievements/102/Description=死于超过花朵最大生命值的单次伤害。
 
 Achievements/103/Name=纹丝不动
-Achievements/103/Description=在不移动的情况下，击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+Achievements/103/Description=出生后在不移动的情况下击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}。
 
 Achievements/104/Name=纹丝不动
-Achievements/104/Description=在不移动的情况下，击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
+Achievements/104/Description=出生后在不移动的情况下击杀{#Rarities/{0}/Article}{#Rarities/{0}/Name}。
 
 Achievements/105/Name=吸气、呼气
-Achievements/105/Description=重复装备并卸下{#Petals/{0}/Name}多次。
+Achievements/105/Description=多次装卸{#Petals/{0}/Name}。
 
 Achievements/106/Name=超音速
 Achievements/106/Description=移动得很快。
@@ -333,97 +333,97 @@ Achievements/107/Name=超音速
 Achievements/107/Description=移动得飞快。
 
 Achievements/108/Name=生物学家
-Achievements/108/Description=在不死亡的情况下，击杀{0}种不同的生物。
+Achievements/108/Description=在不死亡的情况下，消灭{0}种不同类型的生物。
 
-Achievements/109/Name=收集大师
-Achievements/109/Description=在不死亡的情况下，收集{0}种不同的花瓣。
+Achievements/109/Name=收藏家
+Achievements/109/Description=在不死亡的情况下，收集{0}种不同类型的花瓣。
 
 Achievements/110/Name=回归生活
-Achievements/110/Description=连续{0:time}不玩游戏。
+Achievements/110/Description=不玩游戏{0:time}。
 
 Achievements/111/Name=赛车手
-Achievements/111/Description=在{0:time}内依次访问花园、沙漠、丛林、海洋，最后回到花园。
+Achievements/111/Description=在{0:time}内，依次访问花园、沙漠、丛林、海洋并回到花园。
 
 Achievements/112/Name=赛车手
-Achievements/112/Description=在{0:time}内依次访问花园、沙漠、丛林、海洋，最后回到花园。
+Achievements/112/Description=在{0:time}内，依次访问花园、沙漠、丛林、海洋并回到花园。
 
 Achievements/113/Name=赛车手
-Achievements/113/Description=在{0:time}内依次访问花园、沙漠、丛林、海洋，最后回到花园。
+Achievements/113/Description=在{0:time}内，依次访问花园、沙漠、丛林、海洋并回到花园。
 
 Achievements/114/Name=赛车手
-Achievements/114/Description=在{0:time}内依次访问花园、沙漠、丛林、海洋，最后回到花园。
+Achievements/114/Description=在{0:time}内，依次访问花园、沙漠、丛林、海洋并回到花园。
 
 Achievements/115/Name=生物学家
-Achievements/115/Description=在不死亡的情况下，击杀{0}种不同的{#Rarities/{1}/Name}及以上等级的生物。
+Achievements/115/Description=在不死亡的情况下，消灭{0}种不同类型的{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/116/Name=一无是处
-Achievements/116/Description=被{0}种不同的生物杀死。
+Achievements/116/Description=死于{0}种不同类型的生物。
 
 Achievements/117/Name=一无是处
-Achievements/117/Description=被{0}种不同的生物杀死。
+Achievements/117/Description=死于{0}种不同类型的生物。
 
 Achievements/118/Name=一无是处
-Achievements/118/Description=被{0}种不同的生物杀死。
+Achievements/118/Description=死于{0}种不同类型的生物。
 
-Achievements/119/Name=适当其时
+Achievements/119/Name=触碰
 Achievements/119/Description=触碰开发者。
 
 Achievements/120/Name=凌波微步
-Achievements/120/Description=闪避{0:tooltip}伤害。
+Achievements/120/Description=闪避{0:tooltip}点伤害。
 
 Achievements/121/Name=凌波微步
-Achievements/121/Description=闪避{0:tooltip}伤害。
+Achievements/121/Description=闪避{0:tooltip}点伤害。
 
 Achievements/122/Name=凌波微步
-Achievements/122/Description=闪避{0:tooltip}伤害
+Achievements/122/Description=闪避{0:tooltip}点伤害。
 
-Achievements/123/Name=恶魔之子
+Achievements/123/Name=魔鬼代言人
 Achievements/123/Description=在不死亡的情况下，在冥界里消灭{0}朵花。
 
 Achievements/124/Name=深仇大恨
-Achievements/124/Description=在不死亡的情况下，连续击杀{0}个同种生物，在此其间不击杀其他种类的生物。
+Achievements/124/Description=在不死亡的情况下，连续消灭{0}个同种类型的生物。
 
 Achievements/125/Name=深仇大恨
-Achievements/125/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级的生物，在此其间不击杀其他种类的生物。
+Achievements/125/Description=在不死亡的情况下，连续消灭{0}个同种类型的{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/126/Name=深仇大恨
-Achievements/126/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级的生物，在此其间不击杀其他种类的生物。
+Achievements/126/Description=在不死亡的情况下，连续消灭{0}个同种类型的{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/127/Name=深仇大恨
-Achievements/127/Description=在不死亡的情况下，连续击杀{0}个同种{#Rarities/{1}/Name}及以上等级的生物，在此其间不击杀其他种类的生物。
+Achievements/127/Description=在不死亡的情况下，连续消灭{0}个同种类型的{#Rarities/{1}/Name}或更高的生物。
 
 Achievements/128/Name=报仇雪恨
 Achievements/128/Description=消灭击杀了你的生物。
 
 Achievements/129/Name=同归于尽
-Achievements/129/Description=在你死亡后{0:time}内消灭击杀了你的生物。
+Achievements/129/Description=在你死亡后的{0:time}内消灭击杀了你的生物。
 
-Achievements/130/Name=交易达成
+Achievements/130/Name=成交
 Achievements/130/Description=通过交易获得一个{#Petals/{0:base}/Name}。
 
-Achievements/131/Name=交易达成
+Achievements/131/Name=成交
 Achievements/131/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/Name}。
 
-Achievements/132/Name=交易达成
+Achievements/132/Name=成交
 Achievements/132/Description=通过交易获得{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}{#Petals/{0:base}/Name}。
 
 Achievements/133/Name=赌徒
-Achievements/133/Description=在弹珠游戏投入{0}个筹码。
+Achievements/133/Description=在弹珠游戏中投入{0}个筹码。
 
-Achievements/134/Name=  头  奖  ！
-Achievements/134/Description=在弹珠游戏中击中大奖。
+Achievements/134/Name=头 奖 ！
+Achievements/134/Description=在弹珠游戏里中大奖。
 
 Achievements/135/Name=豪客
-Achievements/135/Description=在弹珠游戏中投入{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}及以上等级的{#Petals/{0:base}/Name}。
+Achievements/135/Description=在弹珠游戏中投入{#Rarities/{0:rarity}/Article}{#Rarities/{0:rarity}/Name}或更高的{#Petals/{0:base}/Name}。
 
-Achievements/136/Name=预知一切
+Achievements/136/Name=全知者
 Achievements/136/Description=通过神谕合成一个花瓣。
 
 Achievements/137/Name=此乃天命
-Achievements/137/Description=通过神谕合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}及以上等级的花瓣。
+Achievements/137/Description=通过神谕合成{#Rarities/{0}/Article}{#Rarities/{0}/Name}或更高的花瓣。
 
 Achievements/138/Name=魔法师
-Achievements/138/Description=装备一个{#Petals/{0}/FullName}。
+Achievements/138/Description=装备{#Petals/{0}/Name}。
 
 Achievements/0/Py=xinshoujiaocheng
 Achievements/1/Py=xinshoujiaocheng
