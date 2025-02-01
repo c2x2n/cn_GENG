@@ -365,7 +365,7 @@ Achievements/117/Description=死于{0}种不同类型的生物。
 Achievements/118/Name=一无是处
 Achievements/118/Description=死于{0}种不同类型的生物。
 
-Achievements/119/Name=触碰
+Achievements/119/Name=适当其时
 Achievements/119/Description=触碰开发者。
 
 Achievements/120/Name=凌波微步
